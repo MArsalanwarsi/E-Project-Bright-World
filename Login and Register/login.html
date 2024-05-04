@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+    <div class="contaier">
+        <div class="form-box">
+
+            <h1 class="title">Sign Up</h1>
+            <div class="underline"></div>
+            <form>
+                <div class="btn-field">
+                    <button type="button" class="signupbtn">SignUp</button>
+                    <button type="button" class="disable  signinbtn">SignIn</button>
+                </div>
+                <div class="input-group">
+
+                    <div class="input-field namefield">
+                        <i class="fa-solid fa-user"></i>
+                        <input type="text" placeholder="Name" id="username" pattern="[a-zA-Z\s]+"
+                            title="Name can only contain letters and spaces">
+                    </div>
+
+                    <div class="input-field">
+                        <i class="fa-solid fa-at"></i>
+                        <input type="email" placeholder="Email" id="email">
+                    </div>
+
+                    <div class="input-field">
+                        <i class="fa-solid fa-key"></i>
+                        <input type="password" placeholder="Password" id="password">
+                    </div>
+
+                    <p id="bottom_Text"><span class="text"></span> <a href="#">Click Here!</a></p>
+
+                    <div class="submit_btn">
+                        <button type="submit" id="submit_btn">Sign Up</button>
+                    </div>
+                </div>
+
+
+
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let SignUp = document.querySelector(".signupbtn");
+        let SignIn = document.querySelector(".signinbtn");
+        let name = document.querySelector(".namefield");
+        let title = document.querySelector(".title");
+        let Bar = document.querySelector(".underline");
+        let text = document.querySelector(".text");
+        let input_Name = document.querySelector("#username");
+        let input_Email = document.querySelector("#email");
+        let input_Password = document.querySelector("#password");
+        let bottom_Text = document.querySelector("#bottom_Text");
+        let submit_btn = document.querySelector("#submit_btn")
+
+        SignIn.addEventListener('click', () => {
+            name.style.maxHeight = '0';
+            title.innerHTML = 'Sign In';
+            submit_btn.innerHTML="Sign In"
+            text.innerHTML = 'Forgot Password';
+            bottom_Text.style.display = "block"
+            SignUp.classList.add('disable');
+            SignIn.classList.remove('disable');
+            Bar.style.transform = 'translateX(35px)';
+            input_Name.value = "";
+            input_Email.value = "";
+            input_Password.value = "";
+
+        })
+
+        SignUp.addEventListener('click', () => {
+            name.style.maxHeight = '60px';
+            title.innerHTML = 'Sign Up';
+            submit_btn.innerHTML="Sign Up"
+            bottom_Text.style.display = "none"
+            SignUp.classList.remove('disable');
+            SignIn.classList.add('disable');
+            Bar.style.transform = 'translateX(0)';
+            input_Name.value = "";
+            input_Email.value = "";
+            input_Password.value = "";
+        })
+        submit_btn.addEventListener('click', (e) => {
+            e.preventDefault()
+            if (submit_btn.innerHTML=="Sign Up"){
+                if(input_Name.value == ""){
+                    alert("Please fill all the fields");
+                    return false;
+                }
+                  if (!input_Name.value.match(/^[a-zA-Z\s]+$/)) {
+                    alert("Name can only contain letters and spaces");
+                    return false;
+                }
+
+            }
+            // validate 
+            if ( input_Email.value == "" || input_Password.value == "") {
+                alert("Please fill all the fields");
+                return false;
+            }
+       
+          
+            if (!input_Email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
+                alert("Please enter a valid email address");
+                return false;
+            }
+                 // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
+            if (input_Password.value.length < 8) {
+                alert("Password must be at least 8 characters long");
+                return false;
+            }
+            if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
+                alert("Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character");
+                return false;
+            }
+        //    if all conditions true submit form
+        if(submit_btn.innerHTML == "Sign Up"){
+            alert("Registration successful!");
+        }else{
+            alert("Login successful!");
+        }
+        })
+    </script>
+
+</body>
+
+</html>
