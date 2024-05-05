@@ -27,23 +27,25 @@
                     <div class="input-field namefield">
                         <i class="fa-solid fa-user"></i>
                         <input type="text" placeholder="Name" id="username" pattern="[a-zA-Z\s]+"
-                            title="Name can only contain letters and spaces">
+                            title="Name can only contain letters and spaces" autocomplete="name">
                     </div>
 
                     <div class="input-field">
                         <i class="fa-solid fa-at"></i>
-                        <input type="email" placeholder="Email" id="email">
+                        <input type="email" placeholder="Email" id="email" autocomplete="email">
                     </div>
 
                     <div class="input-field">
                         <i class="fa-solid fa-key"></i>
-                        <input type="password" placeholder="Password" id="password">
+                        <input type="password" placeholder="Password" id="password" autocomplete="new-password">
                     </div>
 
                     <p id="bottom_Text"><span class="text"></span> <a href="#">Click Here!</a></p>
 
                     <div class="submit_btn">
-                        <button type="submit" id="submit_btn">Sign Up</button>
+                        <button type="submit" id="submit_up">Sign Up</button>
+                        <button type="submit" style="display: none;" id="submit_in">Sign In</button>
+
                     </div>
                 </div>
 
@@ -64,12 +66,17 @@
         let input_Email = document.querySelector("#email");
         let input_Password = document.querySelector("#password");
         let bottom_Text = document.querySelector("#bottom_Text");
-        let submit_btn = document.querySelector("#submit_btn")
+        let submit_in = document.querySelector("#submit_in");
+        let submit_up = document.querySelector("#submit_up");
+        let url = "https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/LoginandRegister";
+        let notpost = ""
+
 
         SignIn.addEventListener('click', () => {
             name.style.maxHeight = '0';
             title.innerHTML = 'Sign In';
-            submit_btn.innerHTML="Sign In"
+            submit_in.style.display = "block"
+            submit_up.style.display = "none"
             text.innerHTML = 'Forgot Password';
             bottom_Text.style.display = "block"
             SignUp.classList.add('disable');
@@ -84,7 +91,8 @@
         SignUp.addEventListener('click', () => {
             name.style.maxHeight = '60px';
             title.innerHTML = 'Sign Up';
-            submit_btn.innerHTML="Sign Up"
+            submit_in.style.display = "none"
+            submit_up.style.display = "block"
             bottom_Text.style.display = "none"
             SignUp.classList.remove('disable');
             SignIn.classList.add('disable');
@@ -93,31 +101,27 @@
             input_Email.value = "";
             input_Password.value = "";
         })
-        submit_btn.addEventListener('click', (e) => {
+        submit_up.addEventListener('click', (e) => {
             e.preventDefault()
-            if (submit_btn.innerHTML=="Sign Up"){
-                if(input_Name.value == ""){
-                    alert("Please fill all the fields");
-                    return false;
-                }
-                  if (!input_Name.value.match(/^[a-zA-Z\s]+$/)) {
-                    alert("Name can only contain letters and spaces");
-                    return false;
-                }
-
-            }
-            // validate 
-            if ( input_Email.value == "" || input_Password.value == "") {
+            if (input_Name.value == "") {
                 alert("Please fill all the fields");
                 return false;
             }
-       
-          
+            if (!input_Name.value.match(/^[a-zA-Z\s]+$/)) {
+                alert("Name can only contain letters and spaces");
+                return false;
+            }
+            if (input_Email.value == "" || input_Password.value == "") {
+                alert("Please fill all the fields");
+                return false;
+            }
+
+
             if (!input_Email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
                 alert("Please enter a valid email address");
                 return false;
             }
-                 // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
+            // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
             if (input_Password.value.length < 8) {
                 alert("Password must be at least 8 characters long");
                 return false;
@@ -126,13 +130,106 @@
                 alert("Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character");
                 return false;
             }
-        //    if all conditions true submit form
-        if(submit_btn.innerHTML == "Sign Up"){
-            alert("Registration successful!");
-        }else{
-            alert("Login successful!");
-        }
+
+            fetch(url)
+                .then(res => {
+                    if (!res.ok) {
+                        throw Error("could not fetch the data for that resource")
+                    }
+                    return res.json()
+                }
+                )
+                .then(data => {
+                    function check() {
+                        for (var i in data) {
+                            if (data[i].email == input_Email.value) {
+                                return true
+                            }
+                        }
+                        return false
+                    }
+                    console.log(check())
+                    if (check() == true) {
+                        alert("Email already exists");
+                    } else {
+                        fetch(url, {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({
+                                username: input_Name.value,
+                                email: input_Email.value,
+                                password: input_Password.value
+                            })
+                        })
+                        alert("Registration successful!");
+                        document.location.reload();
+                    }
+
+                })
+
         })
+        submit_in.addEventListener('click', (e) => {
+            e.preventDefault()
+            if (input_Email.value == "" || input_Password.value == "") {
+                alert("Please fill all the fields");
+                return false;
+            }
+
+
+            if (!input_Email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
+                alert("Please enter a valid email address");
+                return false;
+            }
+            // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
+            if (input_Password.value.length < 8) {
+                alert("Password must be at least 8 characters long");
+                return false;
+            }
+            if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
+                alert("Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character");
+                return false;
+            }
+            fetch(url)
+                .then(res => {
+                    if (!res.ok) {
+                        throw Error("could not fetch the data for that resource")
+                    }
+                    return res.json()
+                })
+                .then(data => {
+                    function checkemail() {
+                        for (var i in data) {
+                            if (data[i].email == input_Email.value) {
+                                return true
+                            }
+                        }
+                        return false
+                    }
+                    console.log(checkemail())
+                    if (checkemail() == true) {
+                        function checkpassword() {
+                            for (var i in data) {
+                                if (data[i].email == input_Email.value && data[i].password == input_Password.value) {
+                                    return true
+                                }
+                            }
+                            return false
+                        }
+                        if (checkpassword() == true) {
+                            alert("Login successful!");
+                        } else {
+                            alert("Password is incorrect!");
+                        }
+                    } else {
+                        alert("Email does not exist! Please Sign Up");
+                    }
+                })
+        })
+
+
+
     </script>
 
 </body>
