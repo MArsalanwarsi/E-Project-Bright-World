@@ -19,8 +19,8 @@
             <div class="underline"></div>
             <form>
                 <div class="btn-field">
-                    <button type="button" class="signupbtn">SignUp</button>
-                    <button type="button" class="disable  signinbtn">SignIn</button>
+                    <button type="button" class="signupbtn">Register</button>
+                    <button type="button" class="disable  signinbtn">Login</button>
                 </div>
                 <div class="input-group">
 
@@ -44,8 +44,7 @@
 
                     <div class="submit_btn">
                         <button type="submit" id="submit_up">Sign Up</button>
-                        <button type="submit" style="display: none;" id="submit_in">Sign In</button>
-
+                        <button type="submit" style="display: none;" id="submit_in" disabled>Log In</button>
                     </div>
                 </div>
 
@@ -75,8 +74,10 @@
         SignIn.addEventListener('click', () => {
             name.style.maxHeight = '0';
             title.innerHTML = 'Sign In';
-            submit_in.style.display = "block"
-            submit_up.style.display = "none"
+            submit_in.style.display = "block";
+            submit_up.style.display = "none";
+            submit_up.setAttribute("disabled", "");
+            submit_in.removeAttribute("disabled", "");
             text.innerHTML = 'Forgot Password';
             bottom_Text.style.display = "block"
             SignUp.classList.add('disable');
@@ -91,8 +92,10 @@
         SignUp.addEventListener('click', () => {
             name.style.maxHeight = '60px';
             title.innerHTML = 'Sign Up';
-            submit_in.style.display = "none"
-            submit_up.style.display = "block"
+            submit_in.style.display = "none";
+            submit_up.style.display = "block";
+            submit_up.removeAttribute("disabled", "");
+            submit_in.setAttribute("disabled", "");
             bottom_Text.style.display = "none"
             SignUp.classList.remove('disable');
             SignIn.classList.add('disable');
@@ -212,6 +215,7 @@
                         function checkpassword() {
                             for (var i in data) {
                                 if (data[i].email == input_Email.value && data[i].password == input_Password.value) {
+                                    sessionStorage.setItem("username", data[i].username)
                                     return true
                                 }
                             }
@@ -219,7 +223,7 @@
                         }
                         if (checkpassword() == true) {
                             alert("Login successful!");
-                            document.location.reload();
+                            window.location.assign("/index.html")
 
                         } else {
                             alert("Password is incorrect!");
