@@ -1,7 +1,7 @@
 let username = sessionStorage.getItem("username");
 let login_data = document.querySelector("#login_data");
 if (username == null) {
-  login_data.innerHTML = `<button type="button" class="btn btn-primary w-100" id="sign_in">Sign in</button>`;
+  login_data.innerHTML = `<button type="button" class="btn btn-outline-success w-auto" id="sign_in">Sign in</button>`;
   let sign_in = document.querySelector("#sign_in");
   sign_in.addEventListener("click", () => {
     window.location.assign("Login and Register/login.html");
