@@ -9,9 +9,27 @@
   text-decoration-thickness: 3px;
   text-underline-offset: 9px;
 }
-.head img{
+.head {
   width: 100%;
-  max-height: 500px;
-  min-height:100px;
+  max-height: 700px;
+  min-height:500px;
   min-width: 50%;
+  background-image: url(/Images/Slider/header.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content{
+  top: 20%;
+}
+.content h1{
+  letter-spacing: 15px;
+  text-shadow: 3px 5px black ;
+}
+.content p{
+  letter-spacing: 5px;
+  text-shadow: 3px 3px black ;
+}
+.dropdown-item:hover{
+  background-color: white;
 }

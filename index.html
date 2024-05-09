@@ -17,19 +17,77 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
         <div class="container-fluid p-2">
-            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="width: 70px; height:70px;">
+            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 70px; max-height: 70px;">
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-5 mb-2 mb-lg-0 gap-4 ">
                     <li class="nav-item dropdown">
                         <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                            data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
                             Top Brands
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item bg-white" href="#">Action</a></li>
-                            <li><a class="dropdown-item bg-white" href="#">Another action</a></li>
-                            <li><a class="dropdown-item bg-white" href="#">Something else here</a></li>
+                            <li>
+                                <div class="dropend">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button">
+                                        Philips Lighting
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" href="#">Indoor luminaires</a> </li>
+                            
+                                        <li>
+                                            <a class="dropdown-item" href="#">Outdoor luminaires</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">LED lamps and tubes</a>
+                                            
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="dropend">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button">
+                                        Feit Electric
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" href="#">Downlights</a>
+                                        </li>
+                            
+                                        <li>
+                                            <a class="dropdown-item" href="#">String Lights</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Light Fixtures</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="dropend">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button" >
+                                        Vorlane
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" href="#">Downlight</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="dropdown-item" href="#">LED Strips</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Flood Light</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                           
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -49,12 +107,14 @@
             </div>
             <div class="d-flex justify-content-center align-items-center me-lg-5 me-md-5 me-sm-3 gap-4">
                 <div class="btn-group">
-                    <a class="btn btn-group fs-5" data-bs-toggle="dropdown"
-                        data-bs-auto-close="outside" ><i class="fa-solid fa-user text-success "></i></a>
-                    <form class="dropdown-menu py-lg-5 py-md-5 py-sm-2 px-lg-4 px-md-4 px-sm-1 w-auto mt-3 " style="left: -130px;">
+                    <a class="btn btn-group fs-5" data-bs-toggle="dropdown" data-bs-auto-close="outside"><i
+                            class="fa-solid fa-user text-success "></i></a>
+                    <form class="dropdown-menu py-lg-5 py-md-5 py-sm-2 px-lg-4 px-md-4 px-sm-1 w-auto mt-3 "
+                        style="left: -130px;">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <div class="container-fluid d-flex flex-column justify-content-center align-items-center" id="login_data">
-                               
+                            <div class="container-fluid d-flex flex-column justify-content-center align-items-center"
+                                id="login_data">
+
                             </div>
                         </div>
                     </form>
@@ -69,7 +129,7 @@
             <!-- off canvas nav -->
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasmenu"
                 aria-controls="offcanvasmenu" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon" style="outline: none; box-shadow: none;"></span>
             </button>
             <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasmenu"
                 aria-labelledby="offcanvasDarkNavbarLabel">
@@ -148,13 +208,16 @@
         </div>
     </nav>
     <header>
-        <div class="head position-relative ">
-            <img src="/Images/Head.jpg" alt="header">
-            <div class="content position-absolute top-0 p-5 ">
-                <p>Buy Your Product Now!</p>
-                <button type="button" class="btn  btn-outline-success ">Visit Gallery</button>
+        <div class="head position-relative d-flex justify-content-start align-items-center">
+            <!-- <img src="/Images/Slider/header.jpg" alt="header"> -->
+            <div class="content position-absolute  p-5 ">
+                <h1 class="text-white">Led Lights<br>
+                    Upto <span class="span2">50%</span> Off
+                </h1>
+                <p class="text-white">On Every Rs 9,999 Spent</p>
+                <button class="btn btn-outline-light">Visit Gallery</button>
 
-            </div>     
+            </div>
         </div>
     </header>
 
