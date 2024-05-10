@@ -15,4 +15,42 @@ if (username == null) {
     sessionStorage.removeItem("username");
     window.location.reload();
   });
-}
+};
+let color_change_img = document.querySelector("#color_change_img");
+document.querySelector(".box1").addEventListener("click", () => {
+  color_change_img.src = "/Images/color_change_slider/slider2.webp";
+});
+document.querySelector(".box2").addEventListener("click", () => {
+  color_change_img.src = "/Images/color_change_slider/slider1.webp";
+});
+document.querySelector(".box3").addEventListener("click", () => {
+  color_change_img.src = "/Images/color_change_slider/slider3.webp";
+});
+// owl slider
+
+ $(document).ready(function () {
+   $(".owl-carousel").owlCarousel({
+     loop: true,
+     center: true,
+     margin: 15,
+     nav: false,
+     dots: true,
+     dotsEach: true,
+     autoplay: true,
+     autoplayTimeout: 2000,
+     autoplayHoverPause: false,
+     URLhashListener: true,
+     startPosition: "URLHash",
+     responsive: {
+       0: {
+         items: 1,
+       },
+       600: {
+         items: 3,
+       },
+       1000: {
+         items: 3,
+       },
+     },
+   });
+ });

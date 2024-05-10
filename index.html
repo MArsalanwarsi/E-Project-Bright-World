@@ -9,15 +9,23 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+        integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
+        integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="/Styles/style.css">
 
 </head>
 
 <body>
-
+    <!-- Navbar start -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
         <div class="container-fluid p-2">
-            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 70px; max-height: 70px;">
+            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto"
+                style="max-width: 70px; max-height: 70px;">
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-5 mb-2 mb-lg-0 gap-4 ">
@@ -27,67 +35,68 @@
                             Top Brands
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li>
+                            <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
-                                        data-bs-auto-close="outside" role="button">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
+                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
                                         Philips Lighting
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li>
-                                            <a class="dropdown-item" href="#">Indoor luminaires</a> </li>
-                            
-                                        <li>
+                                        <li class="nav-item">
+                                            <a class="dropdown-item" href="#">Indoor luminaires</a>
+                                        </li>
+
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">Outdoor luminaires</a>
                                         </li>
-                                        <li>
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">LED lamps and tubes</a>
-                                            
+
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-                            <li>
+                            <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
-                                        data-bs-auto-close="outside" role="button">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
+                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
                                         Feit Electric
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li>
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">Downlights</a>
                                         </li>
-                            
-                                        <li>
+
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">String Lights</a>
                                         </li>
-                                        <li>
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">Light Fixtures</a>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-                            <li>
+                            <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
-                                        data-bs-auto-close="outside" role="button" >
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
+                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
                                         Vorlane
                                     </a>
                                     <ul class="dropdown-menu">
-                                        <li>
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">Downlight</a>
                                         </li>
-                                    
-                                        <li>
+
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">LED Strips</a>
                                         </li>
-                                        <li>
+                                        <li class="nav-item">
                                             <a class="dropdown-item" href="#">Flood Light</a>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-                           
+
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -155,13 +164,49 @@
                         <li class="nav-item">
                         <li class="nav-item dropdown">
                             <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">
+                                data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
                                 Top Brands
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item bg-white" href="#">Action</a></li>
-                                <li><a class="dropdown-item bg-white" href="#">Another action</a></li>
-                                <li><a class="dropdown-item bg-white" href="#">Something else here</a></li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link active dropdown-toggle ps-3" href="#" id="navbarDropdown"
+                                        role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside">
+                                        Philips Lighting
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <li class="nav-item "><a class="dropdown-item" href="#">Indoor luminaires</a>
+                                        </li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">Outdoor luminaires</a>
+                                        </li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">LED lamps and tubes</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link active dropdown-toggle ps-3" href="#" id="navbarDropdown"
+                                        role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside">
+                                        Feit Electric
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <li class="nav-item "><a class="dropdown-item" href="#">Downlights</a></li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">String Light</a></li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">Light Fixtures</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link active dropdown-toggle ps-3" href="#" id="navbarDropdown"
+                                        role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside">
+                                        Vorlane
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <li class="nav-item "><a class="dropdown-item" href="#">Downlight</a></li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">LED Strips</a></li>
+                                        <li class="nav-item"><a class="dropdown-item" href="#">Flood Light</a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </li>
                     </ul>
@@ -207,6 +252,8 @@
 
         </div>
     </nav>
+    <!-- navbar end -->
+    <!-- header start -->
     <header>
         <div class="head position-relative d-flex justify-content-start align-items-center">
             <!-- <img src="/Images/Slider/header.jpg" alt="header"> -->
@@ -215,16 +262,137 @@
                     Upto <span class="span2">50%</span> Off
                 </h1>
                 <p class="text-white">On Every Rs 9,999 Spent</p>
-                <button class="btn btn-outline-light">Visit Gallery</button>
+                <button class="btn btn-outline-light" style="box-shadow: 2px 2px black;">Visit Gallery</button>
 
             </div>
         </div>
     </header>
+    <!-- header end -->
+    <!-- category cart start -->
+    <div class="container-fluid">
+        <div class="container p-5">
+            <h1 class="text-center" style="letter-spacing: 5px;">Top Brands</h1>
+        </div>
+        <div class="container p-5">
+
+        </div>
+    </div>
+    <!-- category cart end -->
+    <!-- owl sliders start-->
+    <!-- o_slider 1 start -->
+    <div class="container-fluid ">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-12 my-3">
+                <img src="https://via.placeholder.com/150" class=" w-100" alt="Responsive image">
+            </div>
+            <div class="col-lg-9 col-md-9 col-sm-12 my-3">
+                <div class="owl-carousel">
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- o_slider 1 ends here -->
+    <!-- o_slider 2 start -->
+    <div class="container-fluid ">
+        <div class="row">
+            <div class="col-lg-9 col-md-9 col-sm-12 my-3">
+                <div class="owl-carousel">
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 my-3">
+                <img src="https://via.placeholder.com/150" class=" w-100" alt="Responsive image">
+            </div>
+        </div>
+
+    </div>
+    <!-- o_slider 2 ends here -->
+    <!-- o_slider 3 start -->
+    <div class="container-fluid ">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-12 my-3">
+                <img src="https://via.placeholder.com/150" class=" w-100" alt="Responsive image">
+            </div>
+            <div class="col-lg-9 col-md-9 col-sm-12 my-3">
+                <div class="owl-carousel">
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="https://via.placeholder.com/150" alt="">
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+    
+    </div>
+    <!-- o_slider 3 ends here -->
+    <!-- owl sliders end -->
+    <!-- color change slider -->
+    <div class="container-fluid position-relative">
+        <div id="color_change_slider">
+        <img src="/Images/color_change_slider/slider2.webp" id="color_change_img" alt="">
+     <div class="position-absolute ccs-inside ">
+        <h2 class="text-white py-1 ">Play With Color</h2>
+        <p class="text-white pt-3 fw-bold ">Color-changing lights take any space from drab to fab.</p>
+        <div class="d-flex gap-4 boxes py-5 justify-content-start">
+            <div class="box box1"></div>
+            <div class="box box2"></div>
+            <div class="box box3"></div>
+        </div>
+        <button class="btn btn-success px-3 ">Veiw Collection</button>
+
+     </div>
+    </div>
+      </div>
+   
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+        integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <script src="/Javascript/script.js"></script>
 </body>
 
