@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 991px) {
+  .nav-item {
+    position: relative;
+  }
+  .nav-item a::before {
+    content: "";
+    width: 0;
+    height: 3px;
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all 0.4s linear;
+  }
+  .nav-item a:hover::before {
+    width: 100%;
+  }
+}
+.dropdown-item:hover {
+  background-color: white;
+}
+.footerlinks a {
+  color: green;
+}
+.footerlinks a:hover {
+  color: lightgreen;
+}
+.currentpage::before {
+  content: "";
+  width: 100% !important;
+  height: 3px;
+  background-color: green;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
