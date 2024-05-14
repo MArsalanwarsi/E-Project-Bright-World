@@ -1,7 +1,7 @@
 {
     "Philips_indoor":[
         {
-            "img":"https://r4.wallpaperflare.com/wallpaper/621/643/689/living-rooms-cityscape-interior-interior-design-wallpaper-c9f028cd410a8ddbe637680f7011d66d.jpg",
+            "img":"https://hampshirelight.imgix.net/storage/uploads/Guide-on-How-to-Position-and-Arrange-Downlights_lshec.jpg?fm=pjpg&auto=format",
             "title":"Indoor luminaires"
         },
         {
@@ -29,100 +29,100 @@
     ],
     "Philips_lamp":[
         {
-            "img":"",
-            "title":""
+            "img":"https://www.shine.lighting/products/wp-content/uploads/2022/06/T5-LED-Tube-Lights.jpg",
+            "title":"Led Tube Lights"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://lightlabsg.com/cdn/shop/products/7_080fd0c9-e16e-46ef-9de7-10cecfaabd16.jpg?v=1656868442&width=1445",
+            "title":"Led Bulbs"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://i5.walmartimages.com/asr/95ac43e0-7ca6-4de2-893a-1c0cb961ccbf.fa9b33e12ccd30d7df0fe51e14592f54.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+            "title":"Led Candles"
         }
     ],
     "feit_downlights":[
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/LEDR4-RGBW-AG-2024-05-06-marketing3.jpg?v=1714977073&width=1500",
+            "title":"Smart"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-14-marketing2.jpg?v=1715660086&width=1500",
+            "title":"Canless"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/LEDR6XT-ADJ-6WYCA-2024-05-06-marketing1.jpg?v=1714978018&width=1500",
+            "title":" Adjustable"
         }
     ],
     "feit_string":[
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-2024-05-06-marketing1.jpg?v=1714977002&width=1500",
+            "title":"Smart"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/FY30-100-CW-SLV-2024-04-04-marketing2.jpg?v=1712208814&width=1500",
+            "title":"Fairy"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/SLM12-10-FIL-2023-12-04-marketing3.jpg?v=1701679521&width=1500",
+            "title":"Led"
         }
     ],
     "feit_fixtures":[
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/S8BWM-850-DD-BZ-2024-01-15-marketing1.jpg?v=1705296176&width=1500",
+            "title":" Security"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/FP11-4WY-NK-2024-05-06-marketing2.jpg?v=1714969869&width=1500",
+            "title":"LED Flat Panel"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://www.feit.com/cdn/shop/files/VAN3L-BLK-2024-05-06-main.jpg?v=1714972077&width=1500",
+            "title":"Bath & Vanity"
         }
     ],
     "vorlane_downlight":[
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96kth256.jpg.webp",
+            "title":"Spot Downlight"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96-I-fashion-COB.jpg.webp",
+            "title":"Cob LED Light"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2022/12/LED-Spot-Light-Bulbs-in-led-bulb.jpg.webp",
+            "title":"Downlight Bulb"
         }
     ],
     "vorlane_strip":[
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp",
+            "title":"LED Linear"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-1-1.jpg.webp",
+            "title":"Smart LED"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2022/12/Recessed-LED-Strip-Lighting.jpg.webp",
+            "title":"Recessed LED"
         }
     ],
     "vorlane_flood":[
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E9%99%85%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp",
+            "title":"Solar Powered"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp",
+            "title":"Motion Light"
         },
         {
-            "img":"",
-            "title":""
+            "img":"https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp",
+            "title":"Security Light"
         }
     ]
   

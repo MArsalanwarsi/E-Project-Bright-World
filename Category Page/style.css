@@ -40,3 +40,10 @@
   bottom: 0;
   left: 0;
 }
+.card-title{
+  transition: 0.5s;
+}
+
+#cardmain:hover .card-title{
+  color: green !important;
+}

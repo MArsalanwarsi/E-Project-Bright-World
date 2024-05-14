@@ -15,26 +15,37 @@ if (username == null) {
     sessionStorage.removeItem("username");
     window.location.reload();
   });
-};
+}
 
 fetch("/Json/category.json")
   .then((res) => res.json())
   .then((json) => {
     var url = window.location.href;
     var product_id = url.substring(url.lastIndexOf("=") + 1);
-    var desc = "";
-    var img = "";
-    var title = "";
-    for (i in json) {
-      for (j in json[i]) {
-        if (json[i][j].id == product_id) {
-          title = json[i][j].title;
-          desc = json[i][j].c_discription;
-          img = `<img src="${json[i][j].img}" class="w-100" alt="..." style="min-height: 400px;">`;
+    var data = "";
+    let keys = Object.keys(json);
+    // console.log(keys);
+    for (i in keys) {
+      if (keys[i] == product_id) {
+        document.getElementById("breadcumbdata").innerHTML=keys[i];
+        for (y in json[keys[i]]) {
+          data += `<div class="col-md-3 col-sm-12 col-lg-3" role="button">
+               <a href="#" class="text-decoration-none w-100 h-100" id="cardmain"><div class="card h-100 border-0" style="max-height:250px;min-height:100px;">
+                        <img src="${
+                          json[keys[i]][y].img
+                        }" class="card-img-top w-100 h-100" style="max-height:250px;min-height:100px;"  alt="${
+            json[keys[i]][y].title
+          } image">
+                        <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${
+                             json[keys[i]][y].title
+                           }</h5>
+                        </div>
+                       </div></a>
+                    </div> `;
+          
         }
       }
     }
-    document.getElementById("title").innerHTML = title;
-    document.getElementById("description").innerHTML = desc;
-    document.getElementById("image").innerHTML = img;
+    document.getElementById("cat_data").innerHTML = data;
   });
