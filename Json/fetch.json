@@ -1,7 +1,250 @@
 {
-  "phillips_indoor_downlight": [],
-  "phillips_indoor_surfacemounted": [],
-  "phillips_indoor_suspended": [],
+  "phillips_indoor_downlight": [
+    {
+      "id": 1,
+      "heading": "LuxSpace recessed",
+      "price": "500",
+      "sdes": "Customers are looking to optimize all their resources,",
+      "mdes": "Customers are looking to optimize all their resources, and that means not just their running costs (energy, etc.) but also user costs where they see much bigger impact on return. Therefore, LuxSpace is designed to provide the perfect combination of efficiency, visual comfort and design, without compromising on lighting performance (color rendering and light distribution). It offers a wide choice of options for creating the desired ambience to support user comfort, no matter the application is. For office applications LuxSpace supports health and wellbeing having dedicated Tunable White products and lighting controls.",
+      "img": "https://www.assets.signify.com/is/image/Signify/LuxSpace%20recessed?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 2,
+      "heading": "CoreLine SlimDownlight",
+      "price": "300",
+      "sdes": "CoreLine slimdownlight delivers on the CoreLine promise of",
+      "mdes": "CoreLine slimdownlight delivers on the CoreLine promise of innovative, ",
+      "img": "https://www.assets.signify.com/is/image/Signify/IPBS1_DN135BI_0001?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 3,
+      "heading": "Meson Downlight",
+      "price": "900",
+      "sdes": "The Recessed Meson downlight offers complete",
+      "mdes": "The Recessed Meson downlight offers complete range in terms of lumen output and sizes with reliable performance. Available in seven cutout sizes with three CCT options to suit different applications.",
+      "img": "https://www.assets.signify.com/is/image/Signify/55dabd0c5bdb4f75bd77ad8e00edb096?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 4,
+      "heading": "CoreLine Downlight",
+      "price": "800",
+      "sdes": "CoreLine Downlight delivers on the CoreLine promise of innovative,",
+      "mdes": "CoreLine Downlight delivers on the CoreLine promise of innovative, easy to use and high-quality recessed downlights. The CoreLine Downlight range is suitable for one-to-one conventional luminaire replacements, with an attractive TCO that helps customers to make the switch to LED. These recessed downlights create uniform light distribution for use in general lighting applications. They also deliver instant energy savings and have a much longer lifetime, creating a real value-for-money and environmentally-friendly solution. CoreLine DN140B recessed downlights are easy to install thanks to their standard cut-out size and push-in connectors. An InterAct Ready option with integrated wireless communications is available in this family, which can be used with InterAct gateways, sensors and software.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Coreline_Downlight_Gen4-DN140B-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 5,
+      "heading": "CoreLine Downlight gen5",
+      "price": "450",
+      "sdes": "Philips CoreLine Downlight delivers on the CoreLine promise",
+      "mdes": "Philips CoreLine Downlight delivers on the CoreLine promise of innovative, easy to use and high-quality recessed downlights. The CoreLine Downlight range is suitable for one-to-one conventional luminaire replacements, with an attractive TCO that helps your customers make the switch to LED. These recessed indoor downlights offer uniform light distribution for use in general lighting and office applications (UGR 19). They also deliver instant energy savings and have a much longer lifetime, creating a solution that’s environmentally friendly and real value-for-money. CoreLine DN142B recessed downlights are easy to install thanks to their standard cut-out size and push-in connectors. An Interact ready option with integrated wireless communications is also available in this family, which can be used with Interact gateways, sensors and software.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/CLDN-DN142B-WR-200-BSP01?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 6,
+      "heading": "Ledinaire SlimDownlight",
+      "price": "470",
+      "sdes": "The LEDINAIRE range contains a selection of ",
+      "mdes": "The LEDINAIRE range contains a selection of popular off-the-shelf LED luminaires that come with the high Philips quality levels at a competitive price. Reliable, energy-efficient and affordable – just what you need",
+      "img": "https://www.assets.signify.com/is/image/Signify/Ledinaire_Slim-Downlight_DN065B-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 7,
+      "heading": "GreenSpace",
+      "price": "970",
+      "sdes": "GreenSpace is a perfect solution where customers want to",
+      "mdes": "GreenSpace is a perfect solution where customers want to strike the ideal balance between their initial investment and the cost of the installation during its lifetime while they are covering multiple applications. GreenSpace features the latest LED technology which enables extremely low power consumption. With its perfect fit you’ll get the LED downlight that always fits and looks perfect at the same time. This perfect fit is available for cut out sizes from 150 to 280 mm. GreenSpace is designed for Circular Economy with optimized performance, extended lifetime through upgradability and integration options, ease of customization, recycling and disassembly. Housing and rim are made from production waste of polycarbonate sheets that are retrieved from swimming pools, car ports and illuminated advertising. And the product’s long lifetime makes it a true ‘fit and forget’ solution.",
+      "img": "https://www.assets.signify.com/is/image/Signify/GreenSpace?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 8,
+      "heading": "Essential SmartBright LED Downlight",
+      "price": "170",
+      "sdes": "Essential SmartBright G2 LED Downlight is value for money",
+      "mdes": "Essential SmartBright G2 LED Downlight is value for money product with high efficacy, good quality and reliability. It offers multiple configurations from 300lm to 2000lm output, to replace conventional downlight. It can be used for shopping mall, retail store, residential and office. It’s an ideal product family to distribute in trade market.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Essential_SmartBright_DN027-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 9,
+      "heading": "LuxSpace Mini, recessed",
+      "price": "770",
+      "sdes": "Customers are looking to optimize all their resources, ",
+      "mdes": "Customers are looking to optimize all their resources, and that means not just their running costs (energy, etc.) but also user costs where they see much bigger impact on return. Therefore, LuxSpace is designed to provide the perfect combination of efficiency, visual comfort and design, without compromising on lighting performance (color rendering and light distribution). It offers a wide choice of options for creating the desired ambience to support user comfort, no matter the application is.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/fde714d2804043f29245a4a400696ec1?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 10,
+      "heading": "LuxSpace, surface mounted",
+      "price": "780",
+      "sdes": "Customers are looking to optimize all their resources, and that",
+      "mdes": "Customers are looking to optimize all their resources, and that means not just their running costs (energy, etc.) but also their human resources. Energy savings are therefore a priority, but they must not have an adverse effect on the well-being of employees, who need a pleasant environment in order to be more productive, or on customers, who want to enjoy their shopping experience. LuxSpace provides the perfect combination of efficiency, light comfort and design, without compromising on lighting performance (color rendering and color uniformity). It offers a wide choice of options for creating the desired ambience, no matter the application.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/fba5f72b75e140f98a27a67f00a6e0c9?wid=704&hei=410&qlt=82"
+    }
+  ],
+  "phillips_indoor_surfacemounted": [
+    {
+      "id": 11,
+      "heading": "TrueCircle Surface & Suspended",
+      "price": "780",
+      "sdes": "TrueCircle is a functional surface mount round luminaire",
+      "mdes": "TrueCircle is a functional surface mount round luminaire with a strict classical design to fit in almost any office space. It is a modern, unobtrusive designed family of luminaire in Surface mounted & Suspended providing direct diffuse light ensuring this luminaire will blend into the architecture of most buildings. This range features a selection 2different sizes, light outputs, and optics.The special micro prismatic optics provides glare-free comfort & also infuses the homogeneous light by offering full Office compliance. This new round luminaire from Philips offers sustainable solution with installation flexibility, creating exemplary illumination & high quality of light.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/TrueCircle%20Surface%20SM250B%20O%20WH%20D500_BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 12,
+      "heading": "CoreLine surface-mounted",
+      "price": "180",
+      "sdes": "Philips CoreLine surface-mounted light fixtures deliver",
+      "mdes": "Philips CoreLine surface-mounted light fixtures deliver on the CoreLine promise of innovative, easy-to-use, high-quality luminaires. These high-quality LEDs are designed to replace existing surface-mounted luminaires with T8 or T5 technology. This CoreLine family also features an innovative new choice of multiple lumen outputs in one single luminaire, called MultiLumen. Instant energy savings and a longer lifetime, make this is an environmentally-friendly and cost-saving surface LED light solution. With a quick-connector feature, our SM136V surface-mounted luminaires are quick and easy to install. Also available within the range are Interact Ready luminaires with integrated wireless communications, which are fully compatible with Interact gateways, sensors and software.",
+      "img": "https://www.assets.signify.com/is/image/Signify/CoreLine%20Surface-mounted-SM136V_20x120_BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 13,
+      "heading": "TrueLine, surface mounted",
+      "price": "280",
+      "sdes": "Architects need a lighting solution that matches the",
+      "mdes": "Architects need a lighting solution that matches the interior architecture of the space they are enhancing. They want a light line with elegant proportions and high light levels that offers maximum design freedom. Philips TrueLine is a flexible linear luminaire for indoor office applications that offers excellent quality with the promise of future-proof upgrades.Specifiers need luminaires that save energy, at the same time as providing the right level of light. TrueLine recessed meets both these sets of requirements. Not only is it compliant with the WELL Building Standard for Light, TrueLine surface is rated UGR<19, which is compliant with all office norms (OC). TrueLine also comes in suspended and recess-mounted versions. All the luminaires in the family are available in different lengths, shapes, colors and light outputs. This offers the ultimate design flexibility and unlimited possibilities. TrueLine luminaires are also a sustainable, future-proof choice with high efficiency up to 140 lm/W and the option to upgrade to wireless connectivity and control.",
+      "img": "https://www.assets.signify.com/is/image/Signify/TrueLine_surface_mounted-SM530C_LE1_LF1_ALU-BP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 14,
+      "heading": "FlexBlend, Surface Mounted",
+      "price": "380",
+      "sdes": "Philips FlexBlend is an attractive family of surface",
+      "mdes": "Philips FlexBlend is an attractive family of surface mounted and suspended luminaires, next to Flexblend recessed. The luminaire range is enabling building owners to advance their lighting operations, by offering office-compliant lighting with a return on investment of less than 3 to 4 years. FlexBlend provides the required flexibility through the adaptability in design. This gives the possibility to install the luminaires easily in the field, at any moment. Even when todays luminaire is suspended, tomorrow this can be adapted to a surface mounted installation at the venue. And the other way around. . The surface mounted and suspended luminaire range fit to many different office spaces like open plan office, corridors, reception or meeting rooms. FlexBlend is offered in both lines and as standalone, using the same lighting module. This gives the option to the users to use FlexBlend as standalone now, and tomorrow, as line. The controller is integrated in the luminaire. As technology is changing fast, the ideal lighting solution is also expected to be ready to incorporate innovations that can help optimize operations further. For this reason, FlexBlend holds all connectivity and future ready options available. As System Ready luminaire it can be paired with lighting management systems such as the Philips SpaceWise, and to software-based lighting systems as Interact Office wired (PoE) and Interact Office wireless and/or existing and upcoming sensor innovations. The luminaire range is therefore future ready and can be delivered without any system component, and in a next phase, in the field to be upgraded. An attractive opportunity for new installations and renovations.",
+      "img": "https://www.assets.signify.com/is/image/Signify/FlexBlend_Surface_Mounted-SM340C-O-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 15,
+      "heading": "GreenPerform Cleanroom Surface Mount Panel",
+      "price": "480",
+      "sdes": "Philips GreenPerform Cleanroom Surface Mount Panel is",
+      "mdes": "Philips GreenPerform Cleanroom Surface Mount Panel is a Cleanroom family dedicated for pharmaceutical industry where surface mounted installation is required. It provides full sizes (260*600/260*1190/600*1200/600*600mm) to fit all the applications. Its IP54(front side)/20 (back side) protection not only meets the Cleanroom IP request, but also for better protection. Easy installation mechanism further helps save on-site installation time to reduce total investment as well.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/260x1190%20front%20lit?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 16,
+      "heading": "GreenSpace Surface-mounted",
+      "price": "580",
+      "sdes": "Philips GreenSpace Surface-mounted LED Downlight",
+      "mdes": "Philips GreenSpace Surface-mounted LED Downlight delivers a superior LED alternative that’s up to 66% more energy efficient than the conventional downlight retrofits. Blending seamlessly into its environment, GreenSpace Surface-mounted LED Downlight mimics the form of conventional recessed downlights minus the associated high energy and maintenance costs. Phiilips GreenSpace Surface-mounted LED Downlight is also ideal for all commercial lighting applications as well as public indoor space where there is limited space in the ceiling.",
+      "img": "https://www.assets.signify.com/is/image/Signify/GreenSpace%20Surface-mounted-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 17,
+      "heading": "SmartBright LED Oyster",
+      "price": "680",
+      "sdes": "The new Philips tri-colour Splashproof Oyster offers",
+      "mdes": "The new Philips tri-colour Splashproof Oyster offers exceptional value. It is perfect for your everyday lighting installations. It comes with a 3 CCT selection switch to provide flexibility to the customer.",
+      "img": "https://www.assets.signify.com/is/image/Signify/SmartBright_LED_Oyster-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 18,
+      "heading": "Ledinaire surface-mounted",
+      "price": "880",
+      "sdes": "The Philips Ledinaire surface-mounted (SM060C) is a",
+      "mdes": "The Philips Ledinaire surface-mounted (SM060C) is a range of popular off-the-shelf LED luminaires that come with Philips high quality levels at a competitive price. Reliable, energy efficient and affordable, Ledinaire surface-mounted luminaires are designed for diffuse, comfortable lighting in a wide range of general lighting applications – just what you need.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Ledinaire_Surface_Mounted-SM060C-BS?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 19,
+      "heading": "Apex Ceiling light",
+      "price": "980",
+      "sdes": "With its EyeComfort design, Apex provides comfortable",
+      "mdes": "With its EyeComfort design, Apex provides comfortable high quality LED light for home and residential project. Its long lifetime and high lumen maintenience ensures bright light level over time. With various shapes, sizes, it enables to serve from bedroom to big living room, and dining to kitchen space. Installation becomes easier with easy connector and installation bracket.",
+      "img": "https://www.assets.signify.com/is/image/Signify/1eeaef6e61fd4350b5f5aca1008de5b7?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 20,
+      "heading": "CoreLine Fastset, surface-mounted",
+      "price": "1180",
+      "sdes": "Philips CoreLine FastSet is a 1:1 energy-efficient LED",
+      "mdes": "Philips CoreLine FastSet is a 1:1 energy-efficient LED replacement for conventional indoor surface-mounted lights. With identical lumen packages to fluorescent lighting, there’s no need to make new lighting calculations for retrofit projects – thanks to the all-in-one design, you can switch between correlated color temperatures (CCT) and lumen package in the same luminaire to suit your exact needs. Installation of these surface-mounted LED lights is fast and flexible too with a choice of simple through-wring, or cable entry from the side or back of the luminaire. That means CoreLine FastSet indoor surface-mounted lights are easy to mount as a standalone fixture, directly to the surface-mounted or using brackets. You can also create a line of light due to straight end-caps with head to head mounting. It is also easy to connect them to other CoreLine Fastset luminaires to create harmonious lines of light. Should you require it, accessories are also available to adapt the CoreLine fixtures for suspended mounting. As you’d expect from Philips, safety is designed into every CoreLine FastSet luminaire. Not only are the IP44 and IK06 rated to protect against accidental impact, the captive safety pins on the luminaire cover also prevents it from falling. Interact Ready options are available for smart lighting applications. So with CoreLine FastSet surface-mounted LED lights, you have the perfect solution for high circulation areas such as hallways and staircase lighting.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/CoreLine%20FastSet%20SM155C_BSP?wid=704&hei=410&qlt=82"
+    }
+  ],
+  "phillips_indoor_suspended": [
+    {
+      "id": 21,
+      "heading": "TrueLine, suspended",
+      "price": "180",
+      "sdes": "Architects need a lighting solution that matches the",
+      "mdes": "Architects need a lighting solution that matches the interior architecture of the space they are enhancing. They want a light line with elegant proportions and high light levels that offers maximum design freedom. Philips TrueLine is a flexible linear luminaire for indoor office applications that offers excellent quality with the promise of future-proof upgrades. Specifiers need luminaires that save energy, at the same time as providing the right level of light. TrueLine recessed meets both these sets of requirements. Not only is it compliant with the WELL Building Standard for Light, TrueLine surface is rated UGR<19, which is compliant with all office norms (OC). TrueLine also comes in surface and recess-mounted versions. All the luminaires in the family are available in different lengths, shapes, colors and light outputs. This offers the ultimate design flexibility and unlimited possibilities. TrueLine luminaires are also a sustainable, future-proof choice with high efficiency up to 140 lm/W and the option to upgrade to wireless connectivity and control.",
+      "img": "https://www.assets.signify.com/is/image/Signify/True%20Line?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 22,
+      "heading": "KeyLine, Suspended",
+      "price": "280",
+      "sdes": "These days, many office owners and office lighting",
+      "mdes": "These days, many office owners and office lighting designers prefer lines of light. The reason is simple. Not only do light lines come in a minimalistic design; they also offer far more choice and flexibility. Short or long lines and luminaires, standalone luminaires, different optics including asymmetric, different shapes and even a variety of colors; anything is possible. And with KeyLine, all these benefits come at a competitive price while still complying with office lighting norms. KeyLine is a superb light line range with a slim, minimalistic design and a high lumen output to illuminate the brightest office spaces. But with comfortable, low levels of glare it’s also easy on the eye and complies with UGR19. That makes KeyLine ideal for linear applications, as well as standalone suspended or surface-mounted luminaires. A range that offers the ultimate flexibility and unlimited possibilities. KeyLine design flexibility comes in the form of different lengths, colors and light outputs - including L-shapes, as well as straight lines. All with high efficiency up to 142 lm/W, and the option to upgrade with wireless connectivity and control. Add to that attractive pricing, and with KeyLine you can also enjoy excellent value that ensures a superb total cost of ownership.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/KeyLine%20Asymmetric%20SM531C%20DPP2?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 23,
+      "heading": "CustomCreate",
+      "price": "380",
+      "sdes": "Retailers want to create an appealing ambiance and",
+      "mdes": "Retailers want to create an appealing ambiance and enhance the merchandize in their stores with the right light and beautifully matching products. Pendant luminaires can attract attention to a specific part of the store and can be used to create zones in the store. CustomCreate provides stores with the latest benefits of LED technology, and can also illuminate store areas with dedicated Fresh Food light recipes, and it enables multiple light effects and intensities thanks to the built-in PerfectAccent reflectors. Furthermore, to fully match the given retail environment and brand, the outer shade of the product is fully customizable in terms of color, translucency, pattern and form. This outer shade can also easily be changed without the need to switch off the light or demount the luminaire.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/073dd31f3dc34aeca377ab050089c591?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 24,
+      "heading": "FlexBlend, Suspended",
+      "price": "480",
+      "sdes": "Philips FlexBlend is an attractive family of surface",
+      "mdes": "Philips FlexBlend is an attractive family of surface mounted and suspended luminaires, next to Flexblend recessed. The luminaire range is enabling building owners to advance their lighting operations, by offering office-compliant lighting with a return on investment of less than 3 to 4 years. FlexBlend provides the required flexibility through the adaptability in design. This gives the possibility to install the luminaires easily in the field, at any moment. Even when todays luminaire is suspended, tomorrow this can be adapted to a surface mounted installation at the venue. And the other way around. . The surface mounted and suspended luminaire range fit to many different office spaces like open plan office, corridors, reception or meeting rooms. FlexBlend is offered in both lines and as standalone, using the same lighting module. This gives the option to the users to use FlexBlend as standalone now, and tomorrow, as line. The controller is integrated in the luminaire. As technology is changing fast, the ideal lighting solution is also expected to be ready to incorporate innovations that can help optimize operations further. For this reason, FlexBlend holds all connectivity and future ready options available. As System Ready luminaire it can be paired with lighting management systems such as the Philips SpaceWise, and to software-based lighting systems as Interact Office wired (PoE) and Interact Office wireless and/or existing and upcoming sensor innovations. The luminaire range is therefore future ready and can be delivered without any system component, and in a next phase, in the field to be upgraded. An attractive opportunity for new installations and renovations.",
+      "img": "https://www.assets.signify.com/is/image/Signify/FlexBlend_Suspended-SP340P-O-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 25,
+      "heading": "Slim Balance",
+      "price": "580",
+      "sdes": "SlimBalance is a full range of product family with sleek",
+      "mdes": "SlimBalance is a full range of product family with sleek and elegant design helps to create attractive and differentiated space for customers. The family covers different length (600mm, 1200mm,1500mm), different end cap (round, square) and different light distribution (direct, indirect). Its office compliant version delivers comfortable light with good quality.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SlimBalance-RC550B_RC551B_SM550C_SM551C_SP550P_SP551P-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 26,
+      "heading": "Essential Suspended",
+      "price": "680",
+      "sdes": "Philips Essential is a functional pendant mount round",
+      "mdes": "Philips Essential is a functional pendant mount round luminaire with a wide range of color and textures, which can seamlessly blend into any decor, while meeting office lighting requirements. It can be connected to other systems to create a smart office lighting solution with integrated sensors to avoid a ‘sensor acne’ in your beautifully designed ceilings. This family is available in 3 sizes and can be mounted in 3 different ways. Philips Essential is made from recycled materials, 3D printed carbon neutral, making it a conscious choice for those looking to contribute to a circular economy. So, choose this lighting solution without compromising on style, performance, functionality, or sustainability.",
+      "img": "https://www.assets.signify.com/is/image/Signify/MyCreation-Essential-large-pendant?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 27,
+      "heading": "SlimBalance G3",
+      "price": "780",
+      "sdes": "SlimBalance G3 SP570P is a flexible linear office offer",
+      "mdes": "SlimBalance G3 SP570P is a flexible linear office offer which fits a variety of spaces like office, education. It offers flexible width of 35/60/90/120mm and length of 600/1200/1500mm to fit multiple applications. Geometric shapes help further create differentiated space. By means of its special designed structure, it offers quick and easy installation and maintenance. UGR19 is available for certain types through customized solution to provide a better visual comfort office environment.",
+      "img": "https://www.assets.signify.com/is/image/Signify/SP570%20beauty%20shot?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 28,
+      "heading": "Pureline Slim EX",
+      "price": "880",
+      "sdes": "The PureLine Slim family of luminaires gives you",
+      "mdes": "The PureLine Slim family of luminaires gives you compromise-free office illumination. It is a perfect solution for office application and general indoor area lighting with Sleek profile which helps Declutter the ceilings. The range brings together high-flux lighting with a homogeneous optical system without making any concessions on energy efficiency design.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Pureline%20Slim_SP780_SI_1-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 29,
+      "heading": "Flat Line",
+      "price": "980",
+      "sdes": "The Falt line family of luminaires gives you compromise-",
+      "mdes": "The Falt line family of luminaires gives you compromise-free office illumination with the sleek bar profile. It is a perfect solution for office application and general indoor area lighting . The range brings together high-flux lighting with a homogeneous optical system without making any concessions on energy efficiency design",
+      "img": "https://www.assets.signify.com/is/image/Signify/Flat%20line_SP570_SI_1-BSP?wid=704&hei=410&qlt=82"
+    },
+    {
+      "id": 30,
+      "heading": "ModiFly suspended",
+      "price": "80",
+      "sdes": "ModiFly is the new action hero for lighting design. This",
+      "mdes": "ModiFly is the new action hero for lighting design. This next generation lighting innovation has it all: contemporary form, infinite design freedom, and undisputed performance. Simple, yet sophisticated, ModiFly has a style that lends itself perfectly for a variety of spaces including open offices, education, and retail environments, where visual comfort and design continuity are essential.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/Modifly%20SP800P%20beauty%20shot?wid=704&hei=410&qlt=82"
+    }
+  ],
   "phillips_outdoor_roadandstreet": [],
   "phillips_outdoor_sportandflood": [],
   "phillips_outdoor_urban": [],

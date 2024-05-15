@@ -2,127 +2,154 @@
     "Philips_indoor":[
         {
             "img":"https://hampshirelight.imgix.net/storage/uploads/Guide-on-How-to-Position-and-Arrange-Downlights_lshec.jpg?fm=pjpg&auto=format",
-            "title":"Indoor luminaires"
+            "title":"Downlight",
+            "id":"phillips_indoor_downlight"
         },
         {
             "img":"https://img.archiexpo.com/images_ae/photo-g/82766-19527686.webp",
-            "title":"Surface mounted"
+            "title":"Surface mounted",
+            "id":"phillips_indoor_surfacemounted"
         },
         {
             "img":"https://img.archiexpo.com/images_ae/photo-g/134115-17402075.webp",
-            "title":"Suspended"
+            "title":"Suspended",
+            "id":"phillips_indoor_suspended"
         }
     ],
     "Philips_outdoor":[
         {
             "img":"http://5.imimg.com/data5/SELLER/Default/2023/11/358907180/FI/QC/OT/12545211/solar-led-street-light-1000x1000.jpeg",
-            "title":"Road and street"
+            "title":"Road and street",
+            "id":"phillips_outdoor_roadandstreet"
         },
         {
             "img":"http://5.imimg.com/data5/LT/UO/XF/SELLER-6751128/led-sports-lighting-500x500.jpg",
-            "title":"Sports and area floodlighting"
+            "title":"Sports and area floodlighting",
+            "id":"phillips_outdoor_sportandflood"
         },
         {
             "img":"https://img.freepik.com/premium-photo/city-street-road-traffic-line-crossroad-street-lights-beautiful-city-wallpaper-background_782419-959984.jpg",
-            "title":"Urban"
+            "title":"Urban",
+            "id":"phillips_outdoor_urban"
         }
     ],
     "Philips_lamp":[
         {
             "img":"https://www.shine.lighting/products/wp-content/uploads/2022/06/T5-LED-Tube-Lights.jpg",
-            "title":"Led Tube Lights"
+            "title":"Led Tube Lights",
+            "id":"phillips_lamps_ledtube"
         },
         {
             "img":"https://lightlabsg.com/cdn/shop/products/7_080fd0c9-e16e-46ef-9de7-10cecfaabd16.jpg?v=1656868442&width=1445",
-            "title":"Led Bulbs"
+            "title":"Led Bulbs",
+            "id":"phillips_lamps_ledbulb"
         },
         {
             "img":"https://i5.walmartimages.com/asr/95ac43e0-7ca6-4de2-893a-1c0cb961ccbf.fa9b33e12ccd30d7df0fe51e14592f54.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
-            "title":"Led Candles"
+            "title":"Led Candles",
+            "id":"phillips_lamps_ledcandles"
         }
     ],
     "feit_downlights":[
         {
             "img":"https://www.feit.com/cdn/shop/files/LEDR4-RGBW-AG-2024-05-06-marketing3.jpg?v=1714977073&width=1500",
-            "title":"Smart"
+            "title":"Smart",
+            "id":"feit_downlights_smart"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-14-marketing2.jpg?v=1715660086&width=1500",
-            "title":"Canless"
+            "title":"Canless",
+            "id":"feit_downlights_canless"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/LEDR6XT-ADJ-6WYCA-2024-05-06-marketing1.jpg?v=1714978018&width=1500",
-            "title":" Adjustable"
+            "title":" Adjustable",
+            "id":"feit_downlights_adjustable"
         }
     ],
     "feit_string":[
         {
             "img":"https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-2024-05-06-marketing1.jpg?v=1714977002&width=1500",
-            "title":"Smart"
+            "title":"Smart",
+            "id":"feit_string_smart"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/FY30-100-CW-SLV-2024-04-04-marketing2.jpg?v=1712208814&width=1500",
-            "title":"Fairy"
+            "title":"Fairy",
+            "id":"feit_string_fairy"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/SLM12-10-FIL-2023-12-04-marketing3.jpg?v=1701679521&width=1500",
-            "title":"Led"
+            "title":"Led",
+            "id":"feit_string_led"
         }
     ],
     "feit_fixtures":[
         {
             "img":"https://www.feit.com/cdn/shop/files/S8BWM-850-DD-BZ-2024-01-15-marketing1.jpg?v=1705296176&width=1500",
-            "title":" Security"
+            "title":" Security",
+            "id":"feit_fixtures_security"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/FP11-4WY-NK-2024-05-06-marketing2.jpg?v=1714969869&width=1500",
-            "title":"LED Flat Panel"
+            "title":"LED Flat Panel",
+            "id":"feit_fixtures_flatpanel"
         },
         {
             "img":"https://www.feit.com/cdn/shop/files/VAN3L-BLK-2024-05-06-main.jpg?v=1714972077&width=1500",
-            "title":"Bath & Vanity"
+            "title":"Bath & Vanity",
+            "id":"feit_fixtures_bath"
         }
     ],
     "vorlane_downlight":[
         {
             "img":"https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96kth256.jpg.webp",
-            "title":"Spot Downlight"
+            "title":"Spot Downlight",
+            "id":"vorlane_downlight_spotdownlight"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96-I-fashion-COB.jpg.webp",
-            "title":"Cob LED Light"
+            "title":"Cob LED Light",
+            "id":"vorlane_downlight_cobled"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2022/12/LED-Spot-Light-Bulbs-in-led-bulb.jpg.webp",
-            "title":"Downlight Bulb"
+            "title":"Downlight Bulb",
+            "id":"vorlane_downlight_downlightbulb"
         }
     ],
     "vorlane_strip":[
         {
             "img":"https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp",
-            "title":"LED Linear"
+            "title":"LED Linear",
+            "id":"vorlane_strip_linear"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-1-1.jpg.webp",
-            "title":"Smart LED"
+            "title":"Smart LED",
+            "id":"vorlane_strip_smart"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2022/12/Recessed-LED-Strip-Lighting.jpg.webp",
-            "title":"Recessed LED"
+            "title":"Recessed LED",
+            "id":"vorlane_strip_recessed"
         }
     ],
     "vorlane_flood":[
         {
             "img":"https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E9%99%85%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp",
-            "title":"Solar Powered"
+            "title":"Solar Powered",
+            "id":"vorlane_flood_solar"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp",
-            "title":"Motion Light"
+            "title":"Motion Light",
+            "id":"vorlane_flood_motion"
         },
         {
             "img":"https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp",
-            "title":"Security Light"
+            "title":"Security Light",
+            "id":"vorlane_flood_security"
         }
     ]
   
