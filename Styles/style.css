@@ -25,15 +25,11 @@
 .dropdown-item:hover {
   background-color: white;
 }
-.head {
-  width: 100%;
+video,video source {
+ object-fit: cover;
   max-height: 700px;
   min-height: 500px;
-  min-width: 50%;
-  background-image: url(/Images/Slider/header.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+width: 100%;
 }
 .content {
   top: 20%;
@@ -48,14 +44,8 @@
 }
 
 #color_change_slider img {
-  /* background-image: url(/Images/color_change_slider/slider1.webp);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; */
-
   width: 100%;
   height: 100%;
-
   min-height: 500px;
   min-width: 50%;
   max-width: 100%;
@@ -106,11 +96,14 @@
     top: 22%;
   }
 }
-.footerlinks a{
+.footerlinks a {
   color: green;
+  transition: all 0.3s ease-in-out;
 }
-.footerlinks a:hover{
-  color: lightgreen;
+.footerlinks a:hover {
+  color: green;
+  text-shadow: 1px 1px rgba(0, 128, 0, 0.619) ;
+  box-shadow: 2px 3px 2px 2px green ;
 }
 .currentpage::before {
   content: "";
@@ -120,4 +113,18 @@
   position: absolute;
   bottom: 0;
   left: 0;
+}
+footer .bg_img{
+  background-image: url(/Images/Logo/logo.png);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  max-height: 300px;
+  min-height: 300px;
+  opacity: 0.07;
+  z-index: -1;
+}
+footer .container-fluid{
+  background: transparent;
+  z-index: 99;
 }
