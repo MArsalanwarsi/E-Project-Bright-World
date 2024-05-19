@@ -39,3 +39,52 @@ if (document.querySelector("#title").innerHTML == "") {
     "main"
   ).innerHTML = `<h1 class="text-center p-5 text-danger">Not Available</h1>`;
 }
+
+document.querySelector("#buy").addEventListener("click", () => {
+  let imgdata = document.querySelector("#image").src;
+  let titledata = document.querySelector("#title").innerHTML;
+  let pricedata = document.querySelector("#price").innerHTML;
+  let url = "https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart";
+
+  fetch(url)
+    .then((res) => res.json())
+    .then((data) => {
+      var main = [];
+      function checking() {
+        for (i in data) {
+          if (data[i].title == titledata) {
+            main = data[i];
+            console.log(main)
+            return true;
+          }
+        }
+      }
+
+      if (checking() == true) {
+        main.quantity = parseInt(main.quantity) + 1;
+        fetch(
+          `https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart/${main.id}`,
+          {
+            method: "PUT",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(main),
+          }
+        );
+      } else {
+        fetch(url, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            img: imgdata,
+            title: titledata,
+            price: pricedata,
+            quantity: 1,
+          }),
+        });
+      }
+    });
+});
