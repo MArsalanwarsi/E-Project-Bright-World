@@ -15,26 +15,27 @@ if (username == null) {
     sessionStorage.removeItem("username");
     window.location.reload();
   });
-};
+}
 
-fetch("/Json Files/blogs.json")
-  .then((res) => res.json())
-  .then((json) => {
-    var url = window.location.href;
-    var product_id = url.substring(url.lastIndexOf("=") + 1);
-    var desc = "";
-    var img = "";
-    var title = "";
-    for (i in json) {
-      for (j in json[i]) {
-        if (json[i][j].id == product_id) {
-          title = json[i][j].title;
-          desc = json[i][j].c_discription;
-          img = `<img src="${json[i][j].img}" class="w-100" alt="..." style="min-height: 400px;">`;
-        }
-      }
-    }
-    document.getElementById("title").innerHTML = title;
-    document.getElementById("description").innerHTML = desc;
-    document.getElementById("image").innerHTML = img;
-  });
+let url = location.href;
+let url_obj = new URL(url);
+let id = url_obj.searchParams.get("id");
+let img = url_obj.searchParams.get("img");
+let heading = url_obj.searchParams.get("heading");
+let price = url_obj.searchParams.get("price");
+let description = url_obj.searchParams.get("description");
+let discount = document.querySelector("#discount");
+let persantage = document.querySelector("#persentage");
+let number = (parseInt(price) / (parseInt(price) + 500)) * 100;
+let number_rounded = number.toFixed();
+document.querySelector("#image").src = img;
+document.querySelector("#title").innerHTML = heading;
+document.querySelector("#price").innerHTML = price;
+document.querySelector("#discount").innerHTML = parseInt(price) + 500;
+document.querySelector("#persentage").innerHTML = number_rounded;
+document.querySelector("#description").innerHTML = description;
+if (document.querySelector("#title").innerHTML == "") {
+  document.querySelector(
+    "main"
+  ).innerHTML = `<h1 class="text-center p-5 text-danger">Not Available</h1>`;
+}

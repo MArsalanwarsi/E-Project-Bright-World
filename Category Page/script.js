@@ -21,7 +21,8 @@ fetch("/Json/category.json")
   .then((res) => res.json())
   .then((json) => {
     var url = window.location.href;
-    var product_id = url.substring(url.lastIndexOf("=") + 1);
+     let url_obj = new URL(url);
+     var product_id = url_obj.searchParams.get("id");
     var data = "";
     let keys = Object.keys(json);
     // console.log(keys);

@@ -47,7 +47,7 @@
         {
             "img":"https://i5.walmartimages.com/asr/95ac43e0-7ca6-4de2-893a-1c0cb961ccbf.fa9b33e12ccd30d7df0fe51e14592f54.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
             "title":"Led Candles",
-            "id":"phillips_lamps_ledcandles"
+            "id":"phillips_lamps_ledbulb"
         }
     ],
     "feit_downlights":[
@@ -57,7 +57,7 @@
             "id":"feit_downlights_smart"
         },
         {
-            "img":"https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-14-marketing2.jpg?v=1715660086&width=1500",
+            "img":"https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-18-marketing2.jpg?v=1716006118&width=1500",
             "title":"Canless",
             "id":"feit_downlights_canless"
         },
