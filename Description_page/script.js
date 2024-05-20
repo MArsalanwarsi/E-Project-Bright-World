@@ -18,6 +18,8 @@ if (username == null) {
 }
 
 let url = location.href;
+let json_url =
+  "https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart";
 let url_obj = new URL(url);
 let id = url_obj.searchParams.get("id");
 let img = url_obj.searchParams.get("img");
@@ -39,14 +41,58 @@ if (document.querySelector("#title").innerHTML == "") {
     "main"
   ).innerHTML = `<h1 class="text-center p-5 text-danger">Not Available</h1>`;
 }
+fetch(json_url)
+  .then((res) => res.json())
+  .then((data) => {
+    var main = "";
+    for (i in data) {
+      main += `<div class="card p-2" style="max-height: 150px;">
+                            <div class="row d-flex justify-content-center align-content-center">
+                                <div class="col-md-4 col-sm-12 col-lg-4 p-2">
+                                    <img src="${data[i].img}"
+                                        class="img-fluid h-100" alt="...">
+                                </div>
+                                <div class="col-md-7 col-sm-12 col-lg-7 d-flex justify-content-center align-content-center gap-4 p-2">
+                                    <h6 class="mt-2">Price: <span>${data[i].price}</span></h6>
+                                    <input type="text" value="${data[i].quantity}" readonly maxlength="2" style="width: 40px; text-align: center;">
+                                    <button class="btn btn-danger" id="delete"><i class="bi bi-trash"></i></button>
+
+                                </div>
+                            </div>
+                        </div>`;
+      document.querySelector("#ShoppingCartBody").innerHTML = main;
+      // document.querySelector(`#${deleteid}`).addEventListener("click", () => {
+      //   console.log("done");
+      //   if (data[i].quantity > 1) {
+      //     data[i].quantity = parseInt(data[i].quantity) - 1;
+      //     fetch(
+      //       `https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart/${data[i].id}`,
+      //       {
+      //         method: "PUT",
+      //         headers: {
+      //           "Content-Type": "application/json",
+      //         },
+      //         body: JSON.stringify(data[i]),
+      //       }
+      //     );
+      //   } else {
+      //     fetch(
+      //       `https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart/${data[i].id}`,
+      //       {
+      //         method: "DELETE",
+      //       }
+      //     );
+      //   }
+      // });
+    }
+  });
 
 document.querySelector("#buy").addEventListener("click", () => {
   let imgdata = document.querySelector("#image").src;
   let titledata = document.querySelector("#title").innerHTML;
   let pricedata = document.querySelector("#price").innerHTML;
-  let url = "https://663647d4415f4e1a5e26de9c.mockapi.io/E-Project/Addtocart";
 
-  fetch(url)
+  fetch(json_url)
     .then((res) => res.json())
     .then((data) => {
       var main = [];
@@ -54,7 +100,7 @@ document.querySelector("#buy").addEventListener("click", () => {
         for (i in data) {
           if (data[i].title == titledata) {
             main = data[i];
-            console.log(main)
+            console.log(main);
             return true;
           }
         }
@@ -72,8 +118,11 @@ document.querySelector("#buy").addEventListener("click", () => {
             body: JSON.stringify(main),
           }
         );
+         setTimeout(() => {
+           window.location.reload();
+         }, 800);
       } else {
-        fetch(url, {
+        fetch(json_url, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -85,6 +134,10 @@ document.querySelector("#buy").addEventListener("click", () => {
             quantity: 1,
           }),
         });
+        setTimeout(() => {
+          window.location.reload();
+          
+        }, 800);
       }
     });
 });
