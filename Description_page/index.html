@@ -18,11 +18,18 @@
 </head>
 
 <body>
+    <!-- spinner -->
+    <div class="position-absolute top-0 bottom-0 start-0 end-0 " style="z-index: 99;" id="spinloader">
+        <div class="d-flex justify-content-center align-items-center min-vh-100 bg-white">
+            <div class="spinner-grow text-success fs-1" role="status" style="width: 5rem; height: 5rem;">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
         <div class="container-fluid p-2">
-            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto"
-                style="max-width: 70px; max-height: 70px;">
-
+            <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 70px; max-height: 70px;">
+    
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-5 mb-2 mb-lg-0 gap-4 ">
                     <li class="nav-item dropdown">
@@ -33,70 +40,80 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
-                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button">
                                         Philips Lighting
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Indoor luminaires</a>
+                                            <a class="dropdown-item"
+                                                href="/Category Page/index.html?id=Philips_indoor">Indoor luminaires</a>
                                         </li>
-
+    
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Outdoor luminaires</a>
+                                            <a class="dropdown-item"
+                                                href="/Category Page/index.html?id=Philips_outdoor">Outdoor
+                                                luminaires</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">LED lamps and tubes</a>
-
+                                            <a class="dropdown-item" href="/Category Page/index.html?id=Philips_lamp">LED
+                                                lamps and tubes</a>
+    
                                         </li>
                                     </ul>
                                 </div>
                             </li>
                             <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
-                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button">
                                         Feit Electric
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Downlights</a>
+                                            <a class="dropdown-item"
+                                                href="/Category Page/index.html?id=feit_downlights">Downlights</a>
                                         </li>
-
+    
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">String Lights</a>
+                                            <a class="dropdown-item" href="/Category Page/index.html?id=feit_string">String
+                                                Lights</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Light Fixtures</a>
+                                            <a class="dropdown-item" href="/Category Page/index.html?id=feit_fixtures">Light
+                                                Fixtures</a>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
                             <li class="nav-item">
                                 <div class="dropend">
-                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown"
-                                        aria-expanded="false" data-bs-auto-close="outside" role="button">
+                                    <a class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"
+                                        data-bs-auto-close="outside" role="button">
                                         Vorlane
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Downlight</a>
+                                            <a class="dropdown-item"
+                                                href="/Category Page/index.html?id=vorlane_downlight">Downlight</a>
                                         </li>
-
+    
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">LED Strips</a>
+                                            <a class="dropdown-item" href="/Category Page/index.html?id=vorlane_strip">LED
+                                                Strips</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="dropdown-item" href="#">Flood Light</a>
+                                            <a class="dropdown-item" href="/Category Page/index.html?id=vorlane_flood">Flood
+                                                Light</a>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-
+    
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+                        <a class="nav-link active currentpage" aria-current="page" href="/index.html">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Gallery</a>
@@ -107,7 +124,7 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
                     </li>
-
+    
                 </ul>
             </div>
             <div class="d-flex justify-content-center align-items-center me-lg-5 me-md-5 me-sm-3 gap-4">
@@ -119,18 +136,17 @@
                         <div class=" d-flex justify-content-center align-items-center">
                             <div class="container-fluid d-flex flex-column justify-content-center align-items-center"
                                 id="login_data">
-
+    
                             </div>
                         </div>
                     </form>
                 </div>
                 <div class="btn-group">
-                    <a href="#" class="cart text-dark pe-4 fs-5" data-bs-toggle="offcanvas"
-                        data-bs-target="#ShoppingCart" aria-controls="ShoppingCart"><i
-                            class="fa-solid fa-cart-shopping text-success"></i></a>
+                    <a href="#" class="cart text-dark pe-4 fs-5" data-bs-toggle="offcanvas" data-bs-target="#ShoppingCart"
+                        aria-controls="ShoppingCart"><i class="fa-solid fa-cart-shopping text-success"></i></a>
                 </div>
             </div>
-
+    
             <!-- off canvas nav -->
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasmenu"
                 aria-controls="offcanvasmenu" aria-label="Toggle navigation">
@@ -146,13 +162,13 @@
                 <div class="offcanvas-body">
                     <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                         <li class="nav-item ">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Gallery</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">About Us</a>
+                            <a class="nav-link active" aria-current="page" href="/About_Us/index.html">About Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
@@ -171,11 +187,15 @@
                                         Philips Lighting
                                     </a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li class="nav-item "><a class="dropdown-item" href="#">Indoor luminaires</a>
+                                        <li class="nav-item "><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=Philips_indoor">Indoor luminaires</a>
                                         </li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">Outdoor luminaires</a>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=Philips_outdoor">Outdoor
+                                                luminaires</a>
                                         </li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">LED lamps and tubes</a>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=Philips_lamp">LED lamps and tubes</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -186,9 +206,13 @@
                                         Feit Electric
                                     </a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li class="nav-item "><a class="dropdown-item" href="#">Downlights</a></li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">String Light</a></li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">Light Fixtures</a></li>
+                                        <li class="nav-item "><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=feit_downlights">Downlights</a></li>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=feit_string">String Light</a></li>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=feit_fixtures">Light Fixtures</a>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown">
@@ -198,9 +222,12 @@
                                         Vorlane
                                     </a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li class="nav-item "><a class="dropdown-item" href="#">Downlight</a></li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">LED Strips</a></li>
-                                        <li class="nav-item"><a class="dropdown-item" href="#">Flood Light</a></li>
+                                        <li class="nav-item "><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=vorlane_downlight">Downlight</a></li>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=vorlane_strip">LED Strips</a></li>
+                                        <li class="nav-item"><a class="dropdown-item"
+                                                href="/Category Page/index.html?id=vorlane_flood">Flood Light</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -216,14 +243,16 @@
                     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div class="offcanvas-body">
-                    <div id="ShoppingCartBody">
-                        
+                    <div class="container-fluid">
+                        <div class="row" id="ShoppingCartBody">
+    
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- offcanvas shoppingcart end -->
-
-
+    
+    
         </div>
     </nav>
     <main>
@@ -236,7 +265,11 @@
                 <div class="col-md-7 col-lg-7 col-sm-12 px-lg-5 px-md-5 px-sm-2 py-5">
                     <h2 class="mb-5" id="title"></h2>
                     <p id="description" class="mb-4"></p>
-                    <div class="mb-4"> <h4>RS:- <span id="discount" class="text-danger text-decoration-line-through mx-2"></span> <span id="price"></span>/- <span class="text-success ms-3"><span id="persentage"></span>% OFF</span></h4></div>
+                    <div class="mb-4">
+                        <h4>RS:- <span id="discount" class="text-danger text-decoration-line-through mx-2"></span> <span
+                                id="price"></span>/- <span class="text-success ms-3"><span id="persentage"></span>%
+                                OFF</span></h4>
+                    </div>
                     <button class="btn btn-success px-5" id="buy"><i class="bi bi-cart4"></i> Buy Now</button>
                 </div>
 
@@ -245,79 +278,84 @@
             </div>
         </div>
     </main>
-    <footer>
-        <div class="container-fluid py-5 px-5 bg bg-white text-black-50 mb-5 mt-5">
-            <div class="row">
-                <div class="col-md-3 col-lg-3 col-sm-12 mb-sm-5 mb-lg-0 mb-md-0">
-                    <div class="d-flex align-items-center gap-1 ">
-                        <img src="/Images/Logo/logo.png" alt="logo" class="h-100" style="max-height: 50px;">
-                        <h6 class="text-success">Bright World</h6>
-                    </div>
-                    <!-- <div class="ms-5 p-4">
-                        <button class="btn btn-success"><i class="bi bi-facebook"></i></button>
-                        <button class="btn btn-success"><i class="bi bi-instagram"></i></button>
-                    </div> -->
-                    <div class="ms-3">
-                        <h5 class="text-dark">Address</h5>
-                        <p class="text-black-50">7643 N Ingram Ave,<br> Suite 101, Fresno,<br> CA 93711</p>
-                    </div>
-                    <button class="btn btn btn-outline-success ms-3 px-5">Contact Us</button>
+<footer>
+    <div class="container-fluid py-5 px-5 bg bg-white text-black-50 mb-5 mt-5 position-relative">
 
+        <div class="row">
+            <div class="col-md-3 col-lg-3 col-sm-12 mb-sm-5 mb-lg-0 mb-md-0">
+                <div class="d-flex align-items-center gap-1 ">
+                    <img src="/Images/Logo/logo.png" alt="logo" class="h-100" style="max-height: 50px;">
+                    <h6 class="text-success">Bright World</h6>
                 </div>
-                <div class="col-md-9 col-lg-9 col-sm-12">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-3 col-lg-3 col-sm-12">
-                                <h3 class="text-dark py-3">Quick Links</h3>
-                                <li class="footerlinks list-unstyled"><a href="/index.html"
-                                        class="nav-link d-inline-block">Home</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#"
-                                        class="nav-link d-inline-block">Gallery</a></li>
-                                <li class="footerlinks list-unstyled"><a href="/About_Us/index.html"
-                                        class="nav-link d-inline-block">About
-                                        Us</a></li>
+                <div class="ms-3">
+                    <h5 class="text-dark">Address</h5>
+                    <p class="text-black-50">7643 N Ingram Ave,<br> Suite 101, Fresno,<br> CA 93711</p>
+                </div>
+                <button class="btn btn btn-outline-success ms-3 px-5">Contact Us</button>
 
-
-                            </div>
-                            <div class="col-md-3 col-lg-3 col-sm-12">
-                                <h3 class="text-dark py-3"> Philips Lighting</h3>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">Indoor
-                                        luminaires</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#"
-                                        class="nav-link d-inline-block">Outdoor
-                                        luminaires</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">LED
-                                        lamps and tubes</a></li>
-                            </div>
-                            <div class="col-md-3 col-lg-3 col-sm-12">
-                                <h3 class="text-dark py-3">Feit Electric</h3>
-                                <li class="footerlinks list-unstyled"><a href="#"
-                                        class="nav-link d-inline-block">Downlights</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">String
-                                        Lights</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">Light
-                                        Fixtures</a></li>
-
-
-                            </div>
-                            <div class="col-md-3 col-lg-3 col-sm-12">
-                                <h3 class="text-dark py-3">Vorlane</h3>
-                                <li class="footerlinks list-unstyled"><a href="#"
-                                        class="nav-link d-inline-block ">Downlight</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">Flood
-                                        Light</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#" class="nav-link d-inline-block">LED
-                                        Strips</a></li>
-                            </div>
+            </div>
+            <div class="col-md-9 col-lg-9 col-sm-12">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-lg-3 col-sm-12">
+                            <h3 class="text-dark py-3">Quick Links</h3>
+                            <li class="footerlinks list-unstyled"><a href="/index.html"
+                                    class="nav-link d-inline-block">Home</a></li>
+                            <li class="footerlinks list-unstyled"><a href="#"
+                                    class="nav-link d-inline-block">Gallery</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/About_Us/index.html"
+                                    class="nav-link d-inline-block">About
+                                    Us</a></li>
 
 
                         </div>
+                        <div class="col-md-3 col-lg-3 col-sm-12">
+                            <h3 class="text-dark py-3"> Philips</h3>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=Philips_indoor"
+                                    class="nav-link d-inline-block">Indoor
+                                    luminaires</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=Philips_outdoor"
+                                    class="nav-link d-inline-block">Outdoor luminaires</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=Philips_lamp"
+                                    class="nav-link d-inline-block">LED
+                                    lamps and tubes</a></li>
+                        </div>
+                        <div class="col-md-3 col-lg-3 col-sm-12">
+                            <h3 class="text-dark py-3">Feit Electric</h3>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=feit_downlights"
+                                    class="nav-link d-inline-block">Downlights</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=feit_string"
+                                    class="nav-link d-inline-block">String
+                                    Lights</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=feit_fixtures"
+                                    class="nav-link d-inline-block">Light
+                                    Fixtures</a></li>
+
+
+                        </div>
+                        <div class="col-md-3 col-lg-3 col-sm-12">
+                            <h3 class="text-dark py-3">Vorlane</h3>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=vorlane_strip"
+                                    class="nav-link d-inline-block">LED
+                                    Strips</a></li>
+                            <li class="footerlinks list-unstyled"><a
+                                    href="/Category Page/index.html?id=vorlane_downlight"
+                                    class="nav-link d-inline-block">Downlight</a></li>
+                            <li class="footerlinks list-unstyled"><a href="/Category Page/index.html?id=vorlane_flood"
+                                    class="nav-link d-inline-block">Flood
+                                    Light</a></li>
+
+                        </div>
+
+
                     </div>
                 </div>
-
             </div>
+
         </div>
-    </footer>
+        <div class="bg_img position-absolute  top-0 bottom-0 start-0 end-0 "></div>
+    </div>
+</footer>
     <!-- Bootstrap JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"

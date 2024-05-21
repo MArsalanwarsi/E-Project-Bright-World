@@ -251,15 +251,690 @@
   "phillips_lamps_ledtube": [],
   "phillips_lamps_ledbulb": [],
   "phillips_lamps_ledcandles": [],
-  "vorlane_downlight_cobled": [],
-  "vorlane_downlight_spotdownlight": [],
-  "vorlane_downlight_downlightbulb": [],
-  "vorlane_strip_linear": [],
-  "vorlane_strip_smart": [],
-  "vorlane_strip_recessed": [],
-  "vorlane_flood_solar": [],
-  "vorlane_flood_motion": [],
-  "vorlane_flood_security": [],
+  "vorlane_downlight_cobled": [
+    {
+      "id": 91,
+      "heading": "Diamond Movable LED DownLight",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration.....",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "COB DownLight",
+      "price": "500",
+      "img": "https://vorlane.com/wp-content/uploads/2023/11/I-Diamond-Movable-LED-DownLight-main-image6.jpg"
+    },
+    {
+      "id": 92,
+      "heading": "Cherry Pro COB Downlight",
+      "sdes": "Single and double color selection. Wide luminous surface",
+      "mdes": "Single and double color selection. Wide luminous surface, 180 degrees luminous Angle  Can put in all small and big junction box Built-in drive, EPISTOR brand led chips",
+      "category": "COB DownLight",
+      "price": "340",
+      "img": "https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96I-cherry-pro-cob.jpg.webp"
+    },
+    {
+      "id": 93,
+      "heading": "LED COB Surface downlight -D618",
+      "sdes": "Fashion design and the unique outlook with good decoration",
+      "mdes": "Fashion design and the unique outlook with good decoration. Low efficiency with long lifetime and low heat. The light with COB chips and focused to highlight the brightness the beauty of the object being illuminated",
+      "category": "COB DownLight",
+      "price": "190",
+      "img": "https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96D618-1.jpg.webp"
+    },
+    {
+      "id": 94,
+      "heading": "LED DownLight Sun Flower",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.  The lighting is soft and widely used.  The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "COB DownLight",
+      "price": "800",
+      "img": "https://vorlane.com/wp-content/uploads/2023/11/I-Sun-Flower-LED-DownLight-main-image1.jpg"
+    },
+    {
+      "id": 95,
+      "heading": "LED DownLigh Rainbow Movable",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "COB DownLight",
+      "price": "250",
+      "img": "https://vorlane.com/wp-content/uploads/2023/11/I-Rainbow-Movable-LED-DownLight-main-image7.jpg"
+    },
+    {
+      "id": 96,
+      "heading": "Cherry Pro COB",
+      "sdes": "Single and double color selection. Wide luminous surface",
+      "mdes": "Single and double color selection. Wide luminous surface, 180 degrees luminous Angle. Can put in all small and big junction box. Built-in drive, EPISTOR brand led chips",
+      "category": "COB DownLight",
+      "price": "620",
+      "img": "https://vorlane.com/wp-content/uploads/2021/11/I-cherry%E5%8F%AF%E6%8B%86%E5%8D%B8%E6%AC%BE-COB%E4%B8%BB%E5%9B%BE-1.jpg.webp"
+    },
+    {
+      "id": 97,
+      "heading": "LED COB Downlight-KTH240",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "COB DownLight",
+      "price": "390",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH240-%E4%B8%BB%E5%9B%BE4.jpg"
+    },
+    {
+      "id": 98,
+      "heading": "Fashion plus COB",
+      "sdes": "Private mold, unique & fashion design. COB chips can focus light",
+      "mdes": "Private mold, unique & fashion design. COB chips can focus light, suitable for many occasions, such as bedroom, living room Smart cooling Moveable item, can adjust the direction of the light",
+      "category": "COB DownLight",
+      "price": "450",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Fashion-plus-COB-1.jpg.webp"
+    },
+    {
+      "id": 99,
+      "heading": "Fashion COB",
+      "sdes": "Private mold, unique & fashion design. COB chips can focus light",
+      "mdes": "Private mold, unique & fashion design. COB chips can focus light, suitable for many occasions,such as bedroom,living room. Built-in driver, small space ratio Smart cooling",
+      "category": "COB DownLight",
+      "price": "200",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Fashion-COB-1.jpg.webp"
+    },
+    {
+      "id": 100,
+      "heading": "Ding COB",
+      "sdes": "Aluminum housing , good heat dissipation. LED chips with Epistar brands",
+      "mdes": "Aluminum housing , good heat dissipation. LED chips with Epistar brands. High brightness, 90LM/W. Optional driver and DOB situation",
+      "category": "COB DownLight",
+      "price": "120",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Ding-COB-4.jpg.webp"
+    }
+  ],
+  "vorlane_downlight_spotdownlight": [
+    {
+      "id": 101,
+      "heading": "LED COB Spot Light- KTH340",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "620",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH340-%E4%B8%BB%E5%9B%BE4.jpg.webp"
+    },
+    {
+      "id": 102,
+      "heading": "LED COB Spot Light-KTH252",
+      "sdes": "The light concentrated and the contrast between light and shade is strong",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "890",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH252-%E4%B8%BB%E5%9B%BE4.jpg.webp"
+    },
+    {
+      "id": 103,
+      "heading": "LED COB Spot Light-KTH250",
+      "sdes": "perfection of architectural decoration. The lighting is soft and widely used",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "740",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH250-%E4%B8%BB%E5%9B%BE6.jpg.webp"
+    },
+    {
+      "id": 104,
+      "heading": "LED COB Spot Light-KTH254",
+      "sdes": "light and shade is strong, which will highlight the beauty of object illuminated",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "760",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH254-%E4%B8%BB%E5%9B%BE5.jpg.webp"
+    },
+    {
+      "id": 105,
+      "heading": "LED COB Spot Light-KTH251",
+      "sdes": "The lighting is soft and widely used. The light concentrated and the contrast",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated",
+      "category": "Spot Downlight",
+      "price": "410",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH251-%E4%B8%BB%E5%9B%BE2.jpg.webp"
+    },
+    {
+      "id": 106,
+      "heading": "Fashion plus COB",
+      "sdes": "Private mold, unique & fashion design. COB chips can focus light",
+      "mdes": "Private mold, unique & fashion design. COB chips can focus light, suitable for many occasions, such as bedroom, living room Smart cooling Moveable item, can adjust the direction of the light",
+      "category": "COB DownLight",
+      "price": "450",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Fashion-plus-COB-1.jpg.webp"
+    },
+    {
+      "id": 107,
+      "heading": "Fashion COB",
+      "sdes": "Private mold, unique & fashion design. COB chips can focus light",
+      "mdes": "Private mold, unique & fashion design. COB chips can focus light, suitable for many occasions,such as bedroom,living room. Built-in driver, small space ratio Smart cooling",
+      "category": "COB DownLight",
+      "price": "200",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Fashion-COB-1.jpg.webp"
+    },
+    {
+      "id": 108,
+      "heading": "Ding COB",
+      "sdes": "Aluminum housing , good heat dissipation. LED chips with Epistar brands",
+      "mdes": "Aluminum housing , good heat dissipation. LED chips with Epistar brands. High brightness, 90LM/W. Optional driver and DOB situation",
+      "category": "COB DownLight",
+      "price": "120",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/I-Ding-COB-4.jpg.webp"
+    }
+  ],
+  "vorlane_downlight_downlightbulb": [
+    {
+      "id": 109,
+      "heading": "LED COB Spot Light- KTH340",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "620",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH340-%E4%B8%BB%E5%9B%BE4.jpg.webp"
+    },
+    {
+      "id": 110,
+      "heading": "LED COB Spot Light-KTH252",
+      "sdes": "The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "890",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH252-%E4%B8%BB%E5%9B%BE4.jpg.webp"
+    },
+    {
+      "id": 111,
+      "heading": "LED COB Spot Light-KTH250",
+      "sdes": "perfection of architectural decoration. The lighting is soft and widely used",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "740",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH250-%E4%B8%BB%E5%9B%BE6.jpg.webp"
+    },
+    {
+      "id": 112,
+      "heading": "LED COB Spot Light-KTH254",
+      "sdes": "light and shade is strong, which will highlight the beauty of object illuminated",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "Spot Downlight",
+      "price": "760",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH254-%E4%B8%BB%E5%9B%BE5.jpg.webp"
+    },
+    {
+      "id": 113,
+      "heading": "LED COB Spot Light-KTH251",
+      "sdes": "The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration. The lighting is soft and widely used. The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated",
+      "category": "Spot Downlight",
+      "price": "410",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/VL002-KTH251-%E4%B8%BB%E5%9B%BE2.jpg.webp"
+    },
+    {
+      "id": 114,
+      "heading": "Cherry Pro COB Downlight",
+      "sdes": "Single and double color selection. Wide luminous surface",
+      "mdes": "Single and double color selection. Wide luminous surface, 180 degrees luminous Angle  Can put in all small and big junction box Built-in drive, EPISTOR brand led chips",
+      "category": "COB DownLight",
+      "price": "340",
+      "img": "https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96I-cherry-pro-cob.jpg.webp"
+    },
+    {
+      "id": 115,
+      "heading": "LED COB Surface downlight -D618",
+      "sdes": "Fashion design and the unique outlook with good decoration",
+      "mdes": "Fashion design and the unique outlook with good decoration. Low efficiency with long lifetime and low heat. The light with COB chips and focused to highlight the brightness the beauty of the object being illuminated",
+      "category": "COB DownLight",
+      "price": "190",
+      "img": "https://vorlane.com/wp-content/uploads/2023/05/%E5%AE%98%E7%BD%91%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96D618-1.jpg.webp"
+    },
+    {
+      "id": 116,
+      "heading": "LED DownLight Sun Flower",
+      "sdes": "Maintain the overall unity and perfection of architectural decoration",
+      "mdes": "Maintain the overall unity and perfection of architectural decoration.  The lighting is soft and widely used.  The light concentrated and the contrast between light and shade is strong, which will highlight the beauty of object illuminated.",
+      "category": "COB DownLight",
+      "price": "800",
+      "img": "https://vorlane.com/wp-content/uploads/2023/11/I-Sun-Flower-LED-DownLight-main-image1.jpg"
+    }
+  ],
+  "vorlane_strip_linear": [
+    {
+      "id": 117,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 118,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 119,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    },
+    {
+      "id": 120,
+      "heading": "COB Strip Light",
+      "sdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "720",
+      "img": "https://vorlane.com/wp-content/uploads/2022/04/LED-strip-light-552A7348.jpg.webp"
+    },
+    {
+      "id": 121,
+      "heading": "Led Rope Light",
+      "sdes": "The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "620",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/2CDC6085-AC49-493E-9FC5-200FAC30871C.jpeg"
+    },
+    {
+      "id": 122,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 123,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 124,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    }
+  ],
+  "vorlane_strip_smart": [
+    {
+      "id": 125,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 126,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 127,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    },
+    {
+      "id": 128,
+      "heading": "COB Strip Light",
+      "sdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "720",
+      "img": "https://vorlane.com/wp-content/uploads/2022/04/LED-strip-light-552A7348.jpg.webp"
+    },
+    {
+      "id": 129,
+      "heading": "Led Rope Light",
+      "sdes": "The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "620",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/2CDC6085-AC49-493E-9FC5-200FAC30871C.jpeg"
+    },
+    {
+      "id": 130,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 131,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 132,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    }
+  ],
+  "vorlane_strip_recessed": [
+    {
+      "id": 133,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 134,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 135,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, ",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    },
+    {
+      "id": 136,
+      "heading": "COB Strip Light",
+      "sdes": "The COB chip adopts advanced packaging technology, ",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "720",
+      "img": "https://vorlane.com/wp-content/uploads/2022/04/LED-strip-light-552A7348.jpg.webp"
+    },
+    {
+      "id": 137,
+      "heading": "Led Rope Light",
+      "sdes": "The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "mdes": "The COB chip adopts advanced packaging technology, which is more guaranteed to the process and quality. The COB has better heat dissipation and high temperature resistance. The COB can be directly applied to the luminaire, and the light efficiency and lumens are very high",
+      "category": "Linear strip light",
+      "price": "620",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/2CDC6085-AC49-493E-9FC5-200FAC30871C.jpeg"
+    },
+    {
+      "id": 138,
+      "heading": "SMD Strip Light ",
+      "sdes": "High-brightness energy-saving lamp beads, uniform luminescence",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "820",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST004-2-1.jpg.webp"
+    },
+    {
+      "id": 139,
+      "heading": "USB Motion Sensor Strip Light",
+      "sdes": "Diversified use, dimmable, rechargeable, battery life up to three months",
+      "mdes": "Diversified use, dimmable, rechargeable, battery life up to three months. Human body induction, smart and sensitive, you can enjoy high technology at home. A wide range of usage scenarios and a wide range of customer",
+      "category": "Linear strip light",
+      "price": "690",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST002-1-1.jpg.webp"
+    },
+    {
+      "id": 140,
+      "heading": "SMD Strip Light 2",
+      "sdes": "Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "mdes": "High-brightness energy-saving lamp beads, uniform luminescence, soft brightness and no glare. Easy to cut, a variety of shapes can be changed at will. No video flicker, and bright colors",
+      "category": "Linear strip light",
+      "price": "540",
+      "img": "https://vorlane.com/wp-content/uploads/2022/12/%E7%81%AF%E5%B8%A6%E4%BA%A7%E5%93%81%E4%B8%BB%E5%9B%BEVLST003-2-1.jpg.webp"
+    }
+  ],
+  "vorlane_flood_solar": [
+    {
+      "id": 141,
+      "heading": "Hanging traditional lantern",
+      "sdes": "The old designed hanging lantern is designed to used both",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "1350",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/HL-P21.jpg"
+    },
+    {
+      "id": 142,
+      "heading": "Led bollard light-Centoro",
+      "sdes": "Battery operated and is safe to use. Provides soothing and soft light",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "10,000",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/FB_IMG_1594832553530-1.jpg"
+    },
+    {
+      "id": 143,
+      "heading": " FL42 10W-50W Flood Light",
+      "sdes": "FL42 flood light is a small power flood light with asymmetric optics options",
+      "mdes": "FL42 flood light is a small power flood light with asymmetric optics options, a unique design, and a reliable structure. It is easy for installation with compact size and lightweight design. Compatible with PIR sensor and daylight sensor for more energy saving.",
+      "category": "Flood Light",
+      "price": "2,000",
+      "img": "https://www.agcled.com/static/products/fl42/FL42-10W-50W-140lmW-cost-effective-flood-light.jpg"
+    },
+    {
+      "id": 144,
+      "heading": "SmartBright LED Floodlight",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance.",
+      "category": "Flood Light",
+      "price": "1,700",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyt9OAiDoGgpb_XSPD5xxFAyoT9D13R-Qy-3C3jLs3A&s"
+    },
+    {
+      "id": 145,
+      "heading": "LED Flood Light-YTS-Solar",
+      "sdes": " floodlight engineered to deliver significant energy savings,",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "3,050",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-4.jpg.webp"
+    },
+    {
+      "id": 146,
+      "heading": "LED Flood Light-XJS",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "4,000",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E9%99%85%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp"
+    },
+    {
+      "id": 147,
+      "heading": "LED Flood Light-XGS",
+      "sdes": "relevant performance and safety standards,offering you reliable and ",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "1,500",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E5%85%89%E6%8A%95%E5%85%89%E7%81%AF%E4%B8%BB%E5%9B%BE-4.jpg.webp"
+    },
+    {
+      "id": 148,
+      "heading": "IP 65 LED Flood Light",
+      "sdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation",
+      "mdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation. Superior aluminum Lighting house with good heat dissipation and dazzle free design. Adopting high brightness and long lifetime led bead. Three-year warranty. IP65 LED flood light",
+      "category": "Flood Light",
+      "price": "1,200",
+      "img": "https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp"
+    }
+  ],
+  "vorlane_flood_motion": [
+    {
+      "id": 149,
+      "heading": "Hanging traditional lantern",
+      "sdes": "The old designed hanging lantern is designed to used both outdoor and indoor",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "1350",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/HL-P21.jpg"
+    },
+    {
+      "id": 150,
+      "heading": "Led bollard light-Centoro",
+      "sdes": "Battery operated and is safe to use. Provides soothing and soft light",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "10,000",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/FB_IMG_1594832553530-1.jpg"
+    },
+    {
+      "id": 151,
+      "heading": " FL42 Flood Light",
+      "sdes": "FL42 flood light is a small power flood light with asymmetric optics options",
+      "mdes": "FL42 flood light is a small power flood light with asymmetric optics options, a unique design, and a reliable structure. It is easy for installation with compact size and lightweight design. Compatible with PIR sensor and daylight sensor for more energy saving.",
+      "category": "Flood Light",
+      "price": "2,000",
+      "img": "https://www.agcled.com/static/products/fl42/FL42-10W-50W-140lmW-cost-effective-flood-light.jpg"
+    },
+    {
+      "id": 152,
+      "heading": "SmartBright LED Floodlight",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance.",
+      "category": "Flood Light",
+      "price": "1,700",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyt9OAiDoGgpb_XSPD5xxFAyoT9D13R-Qy-3C3jLs3A&s"
+    },
+    {
+      "id": 153,
+      "heading": "LED Flood Light-YTS-Solar",
+      "sdes": " floodlight engineered to deliver significant energy savings,",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "3,050",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-4.jpg.webp"
+    },
+    {
+      "id": 154,
+      "heading": "LED Flood Light-XJS",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "4,000",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E9%99%85%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp"
+    },
+    {
+      "id": 155,
+      "heading": "LED Flood Light-XGS",
+      "sdes": "relevant performance and safety standards,offering you reliable and",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "1,500",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E5%85%89%E6%8A%95%E5%85%89%E7%81%AF%E4%B8%BB%E5%9B%BE-4.jpg.webp"
+    },
+    {
+      "id": 156,
+      "heading": "IP 65 LED Flood Light",
+      "sdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation",
+      "mdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation. Superior aluminum Lighting house with good heat dissipation and dazzle free design. Adopting high brightness and long lifetime led bead. Three-year warranty. IP65 LED flood light",
+      "category": "Flood Light",
+      "price": "1,200",
+      "img": "https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp"
+    }
+  ],
+  "vorlane_flood_security": [
+    {
+      "id": 157,
+      "heading": "Hanging traditional lantern",
+      "sdes": "The old designed hanging lantern is designed to used both ",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "1350",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/HL-P21.jpg"
+    },
+    {
+      "id": 158,
+      "heading": "Led bollard light-Centoro",
+      "sdes": "Battery operated and is safe to use. Provides soothing and soft light",
+      "mdes": "The old designed hanging lantern is designed to used both outdoor and indoor. Add a warm touch to any evening’s entertainment. Battery operated and is safe to use. Provides soothing and soft light.",
+      "category": "Flood Light",
+      "price": "10,000",
+      "img": "https://newon.pk/wp-content/uploads/2024/03/FB_IMG_1594832553530-1.jpg"
+    },
+    {
+      "id": 159,
+      "heading": " FL42 Flood Light",
+      "sdes": "FL42 flood light is a small power flood light with asymmetric optics options",
+      "mdes": "FL42 flood light is a small power flood light with asymmetric optics options, a unique design, and a reliable structure. It is easy for installation with compact size and lightweight design. Compatible with PIR sensor and daylight sensor for more energy saving.",
+      "category": "Flood Light",
+      "price": "2,000",
+      "img": "https://www.agcled.com/static/products/fl42/FL42-10W-50W-140lmW-cost-effective-flood-light.jpg"
+    },
+    {
+      "id": 160,
+      "heading": "SmartBright LED Floodlight",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance.",
+      "category": "Flood Light",
+      "price": "1,700",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyt9OAiDoGgpb_XSPD5xxFAyoT9D13R-Qy-3C3jLs3A&s"
+    },
+    {
+      "id": 161,
+      "heading": "LED Flood Light-YTS-Solar",
+      "sdes": " floodlight engineered to deliver significant energy savings,",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "3,050",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-4.jpg.webp"
+    },
+    {
+      "id": 162,
+      "heading": "LED Flood Light-XJS",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "4,000",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E9%99%85%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp"
+    },
+    {
+      "id": 163,
+      "heading": "LED Flood Light-XGS",
+      "sdes": "relevant performance and safety standards,offering you reliable and",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance",
+      "category": "Flood Light",
+      "price": "1,500",
+      "img": "https://vorlane.com/wp-content/uploads/2021/10/%E6%98%9F%E5%85%89%E6%8A%95%E5%85%89%E7%81%AF%E4%B8%BB%E5%9B%BE-4.jpg.webp"
+    },
+    {
+      "id": 164,
+      "heading": "IP 65 LED Flood Light",
+      "sdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation",
+      "mdes": "Vorlane exclusive R&D Dimmable method with stable quality and ease operation. Superior aluminum Lighting house with good heat dissipation and dazzle free design. Adopting high brightness and long lifetime led bead. Three-year warranty. IP65 LED flood light",
+      "category": "Flood Light",
+      "price": "1,200",
+      "img": "https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp"
+    }
+  ],
   "feit_downlights_smart": [],
   "feit_downlights_canless": [],
   "feit_downlights_adjustable": [],

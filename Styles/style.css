@@ -96,15 +96,6 @@ width: 100%;
     top: 22%;
   }
 }
-.footerlinks a {
-  color: green;
-  transition: all 0.3s ease-in-out;
-}
-.footerlinks a:hover {
-  color: green;
-  text-shadow: 1px 1px rgba(0, 128, 0, 0.619) ;
-  box-shadow: 2px 3px 2px 2px green ;
-}
 .currentpage::before {
   content: "";
   width: 100% !important;
@@ -114,6 +105,16 @@ width: 100%;
   bottom: 0;
   left: 0;
 }
+.footerlinks a {
+  color: green;
+  transition: all 0.3s ease-in-out;
+}
+.footerlinks a:hover {
+  color: green;
+  text-shadow: 1px 1px rgba(0, 128, 0, 0.619) ;
+  box-shadow: 2px 3px 2px 2px green ;
+}
+
 footer .bg_img{
   background-image: url(/Images/Logo/logo.png);
   background-position:center;
@@ -126,5 +127,5 @@ footer .bg_img{
 }
 footer .container-fluid{
   background: transparent;
-  z-index: 99;
+  z-index: 10;
 }

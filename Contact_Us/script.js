@@ -4,7 +4,7 @@ if (username == null) {
   login_data.innerHTML = `<button type="button" class="btn btn-outline-success w-auto" id="sign_in">Sign in</button>`;
   let sign_in = document.querySelector("#sign_in");
   sign_in.addEventListener("click", () => {
-    window.location.assign("Login and Register/login.html");
+    window.location.assign("/Login and Register/login.html");
   });
 } else {
   login_data.innerHTML = `<h6>Welcome: <i><span id="login_user" class="h5">${username}</span></i></h6>
