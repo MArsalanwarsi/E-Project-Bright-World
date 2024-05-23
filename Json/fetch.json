@@ -245,12 +245,498 @@
       "img": "https://www.assets.signify.com/is/image/PhilipsLighting/Modifly%20SP800P%20beauty%20shot?wid=704&hei=410&qlt=82"
     }
   ],
-  "phillips_outdoor_roadandstreet": [],
-  "phillips_outdoor_sportandflood": [],
-  "phillips_outdoor_urban": [],
-  "phillips_lamps_ledtube": [],
-  "phillips_lamps_ledbulb": [],
-  "phillips_lamps_ledcandles": [],
+  "phillips_outdoor_roadandstreet": [
+    {
+      "id": 31,
+      "heading": "UniStreet gen2",
+      "price": "120",
+      "sdes": "Designed for large-scale ledification projects, the UniStreet gen2 is the ideal 1:1 luminaire",
+      "mdes": "Designed for large-scale ledification projects, the UniStreet gen2 is the ideal 1:1 luminaire replacement for municipalities. Thanks to its high efficiency and low initial cost, the UniStreet gen2 luminaire enables a fast payback and significant savings in terms of energy consumption within a short period of time. The ease of installation and maintenance is enabled by the Philips Service tag and the Philips SR (System Ready) socket makes it future-ready and you can pair this luminaire with lighting control and software applications such as Interact City. Available with a number of different optics and lumen packages that can even be tuned further to fit exact project requirements, UniStreet gen2 is a true point-to-point replacement solution for conventional light sources. The compact luminaire, using high-quality materials is also easy to dismantle and recycle at the end of its lifetime.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/UniStreet_LumiStreet_gen2_Mini_Beautyshoot_ON?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 32,
+      "heading": "Luma gen2",
+      "price": "220",
+      "sdes": "Luma gen2 is the next generation of the Luma LED",
+      "mdes": "Luma gen2 is the next generation of the Luma LED luminaire family, fully optimized to become your long-term lighting and innovation partner. While keeping the distinctive design characteristics of the first generation, Luma gen2 gives you the benefits of the latest technologies thanks to its future-proof System Ready architecture, use of optimized Ledgine LED and optical platform ensuring best in class lighting performance in a broad range of applications. It also offers improved serviceability. Installation has also become easier and faster, and thanks to the Service tag, you have access to all relevant documentations onsite. Also, the cable feed-through has been redesigned and access to the gear components is easy thanks to top down tool-less access. Luma gen2 also offers all connectivity and dimming options available today and thanks to being System Ready, it can also to be paired with lighting management systems such as Interact City or existing and upcoming sensor innovations. The Luma gen2 has been developed to optimize and simplify spare part repair and maintenance work using a new plug & play GearFlex module containing all electrical components in an easy to handle and accessible box inside the housing. As a company conscious about the impact of light on the environment and biodiversity, we also equipped the Luma gen2 with dedicated light recipes that help with maintaining the optimal ecosystems for bats or preserve a dark night sky.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BGP701_Luma_gen2_Nano_BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 33,
+      "heading": "DigiStreet",
+      "price": "330",
+      "sdes": "Developed with the aim to become your long term partner ,. the system ready",
+      "mdes": "Developed with the aim to become your long term partner ,. the system ready architecture of DigiStreet enables you to enjoy the benefits of connected lighting systems today and also gets the city ready for the innovations to come!. Its two sockets enable you to connect directly to the Philips CityTouch system and is also prepared to connect you to the future innovations of IoT. Next to this, each individual luminaire is uniquely identifiable, thanks to the Philips Service tag application. With a simple scan of a QR code, placed on the inside of the mast door, you gain instant access to the luminaire configuration, making maintenance and programming operations faster and easier, no matter what stage of the luminaire’s lifetime. Digistreet is also equipped with dedicated light recipes that: 1) maintain an optimal ecosystems for bats or 2) preserve a dark night sky.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Digistreet-BGP760-BP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 34,
+      "heading": "LumiStreet gen2",
+      "price": "440",
+      "sdes": "Increasing numbers of municipalities are having to upgrade large-scale",
+      "mdes": "Increasing numbers of municipalities are having to upgrade large-scale conventional street lighting installations with energy efficient LED technology. But they are having to do this with smaller and smaller budgets. That’s why the new generation of LumiStreet has been upgraded and designed to provide a solution to this challenge, it is the ideal solution for performing point-to-point replacement of conventional lighting. LumiStreet gen2 achieves this by offering high efficiency, low Total Cost of Ownership, and ease of installation and maintenance. The ease of installation and maintenance is enabled by the Philips Service tag. Moreover, the Philips SR (System Ready) socket makes it future-ready and you can pair this luminaire with lighting control and software applications such as Interact City.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/UniStreet_LumiStreet_gen2_Mini_Beautyshoot_ON?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 35,
+      "heading": "CoreLine Malaga LED",
+      "price": "550",
+      "sdes": "The Philips CoreLine Malaga LED family consists of two sizes for urban street",
+      "mdes": "The Philips CoreLine Malaga LED family consists of two sizes for urban street lighting. Both use a Philips LED engine as a light source and a Philips Xitanium driver - a combination that results in energy savings of 50%. CoreLine Malaga LED has been designed to be as efficient as possible. It offers the same performance as the SON-T 50, 70, 100 and 150W luminaires it replaces, providing the right amount of light in the right place. Furthermore, as the LED light engine in CoreLine Malaga LED will last for the lifetime of the luminaire, it will return your investment simply by saving on the multiple lamp replacements required with SON-T. With its extended gland feature, the CoreLine Malaga LED luminaire is easy to install with no need to open the luminaire to connect the power cable. At the same time, the flat glass cover can be removed to allow access to the driver for maintenance, if required. Special versions of Malaga lighting are available with extra options. However, these specials are manufactured to order only, and have a longer delivery time. The options include: Wide beam (DW) optic, additional surge protection device (10kV), Marine Salt Protection (MSP) paint finish, Micro Mini Pro photocell 35 Lux, a built-in (glass) 6A fuse, and a 3-meter external flying lead cable (H07RN-F). Not all these options can always be combined with each other. For more advice, please consult your Philips partner.",
+      "img": "https://www.assets.signify.com/is/image/Signify/CoreLine_Malaga_LED-BRP102-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 36,
+      "heading": "RoadFlair",
+      "price": "660",
+      "sdes": "Designed for major and city roads, Philips RoadFlair is a new and exciting product",
+      "mdes": "Designed for major and city roads, Philips RoadFlair is a new and exciting product set to brighten your streets beyond imagination. Smartly-designed to bring cities the highest savings possible with best-in-class lumen per watt, this road lighting production comes at a competitive price bound to excite. Philips RoadFlair brings energy efficiency, improves a city’s sustainability drive and delivers significant cost reduction in urban environments. The right road luminaire coupled with the right lighting application will create the best environment for your municipality, benefiting local communities and boosting tourism and businesses",
+      "img": "https://www.assets.signify.com/is/image/Signify/RoadFlair_BRP391_BRP392_BRP393_BRP394_DM-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 37,
+      "heading": "Ledinaire StreetLight",
+      "price": "770",
+      "sdes": "Ledinaire Streetlight has been designed with Led transition in mind. ",
+      "mdes": "Ledinaire Streetlight has been designed with Led transition in mind. Whether to refurbish old HID lanterns, or on a new country street, where you want citizens to feel safe. Ledinaire Streetlight offers simple benefits and reliable performance",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BSP_BRP%20056_1?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 38,
+      "heading": "RoadFlair Pro",
+      "price": "860",
+      "sdes": "Municipalities value energy saving more than ever, as energy price hikes put",
+      "mdes": "Municipalities value energy saving more than ever, as energy price hikes put increasing pressure on the budgets. Street lighting consumes substantial energy, so large-scale upgrades to energy-efficient LED streetlights are fundamental to cities' cost-saving efforts. RoadFlair Pro has been upgraded to minimize costs while maximizing efficacy, safety, and functionality. And the best part - RoadFlair Pro offers a streamlined design, so it maintains an attractive aesthetic on city streets. These streetlights not only look good, they also offer excellent performance Future-proof technology combines with high efficacy ( 160 lm/W and 200 lm/W), innovative design, and smart connectivity in a light that makes your street look brighter and better",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BRP595_SRB%20front?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 39,
+      "heading": "GreenVision Xceed Gen2",
+      "price": "990",
+      "sdes": "Sustainability, citizen well being and connectivity are key players in the game of",
+      "mdes": "Sustainability, citizen well being and connectivity are key players in the game of differentiation among cities all over the world. And a way of achieving this goals is lighting. Lighting up streets and roads enhance the comfort, security and overall safety of our rapidly growing urban environments. Our GreenVision Xceed Gen2 makes an affordable LED road lighting solution that ensures sufficient light on your roads & streets. The GreenVision Xceed Gen2 family from Signify provides your city with a flexible lighting system which can be deployed anywhere in urban spaces, highways and rural areas – our luminaires provide the optimal light for all application areas. And, GreenVision Xceed Gen2 is ready to be connected and work with smart city ecosystem. Our new GreenVision Xceed Gen2 range is enhanced to give city lighting departments even more control – to choose the right light",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BRP383%20BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 40,
+      "heading": "RoadFlair Gen2",
+      "price": "1120",
+      "sdes": "RoadFlair Gen2 is brand new design road lighting product family, set to meet",
+      "mdes": "RoadFlair Gen2 is brand new design road lighting product family, set to meet customers’ all-round requirements, including high lumen efficacy for energy saving and sustainability, aesthetic design for nice shape and appearance, quality material and components for product reliability and long lifetime, professional optics for various applications fulfillment, dimming and system control interface for improving municipal operations and offering future-proof features. RoadFlair Gen2 competitive price would help on the acceleration of road lighting LED transformation, to a more sustainable society and smarter city.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BRP49x%20beautyshot?wid=655&hei=368&qlt=82"
+    }
+  ],
+  "phillips_outdoor_sportandflood": [
+    {
+      "id": 41,
+      "heading": "ArenaVision LED gen3.5",
+      "price": "120",
+      "sdes": "The Philips ArenaVision LED floodlighting system is an innovative LED pitch-lighting",
+      "mdes": "The Philips ArenaVision LED floodlighting system is an innovative LED pitch-lighting solution supporting the latest TV broadcasting standards. Designed exclusively for sports and multi-purpose venues, ArenaVision LED offers outstanding light quality, effective thermal management, and long lifetime. When combined with control applications such as the InteractSports lighting management system, ArenaVision LED can simplify the delivery of the right illumination by scheduling or through real-time adjustments and can be used to create customized light shows before, during and after the main event. To ensure optimized use for both indoor and outdoor applications, the floodlight range includes two single piece pressure die cast housing versions, hosting 2 and 3 LED engines respectively. These versions also function with an external driver box – separate for use at a distance from the floodlight (BV version), or pre-fixed onto the mounting bracket of the floodlight (HGB version). This external driver box ensures ease of installation and lower initial cost.",
+      "img": "https://www.assets.signify.com/is/image/Signify/ArenaVision_LED_gen3_5_BVP428_HGB_BP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 42,
+      "heading": "OptiVision LED gen3.5",
+      "price": "220",
+      "sdes": "The Philips OptiVision LED gen3.5 floodlighting system provides a",
+      "mdes": "The Philips OptiVision LED gen3.5 floodlighting system provides a complete lighting solution for the simplest through to the most complex area and recreational sports lighting applications. The high-efficiency floodlight comes with a single piece die cast housing, hosting 2 and 3 LED engines respectively, which also function with an external driver box – separate for use at a distance from the floodlight (BV), or pre-fixed onto the mounting bracket of the floodlight (HGB) for ease of installation and lower initial cost. It meets the highest performance standards, provides outstanding light, quality, uniformity and ensures safety and visual comfort.",
+      "img": "https://www.assets.signify.com/is/image/Signify/OptiVision_LED_gen3_5%20BVP528_HGB_BP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 43,
+      "heading": "FWC LED",
+      "price": "330",
+      "sdes": "Feel safe with this energy-efficient wall mounted security luminaire. The LED",
+      "mdes": "Feel safe with this energy-efficient wall mounted security luminaire. The LED arrangement and housing cover produce excellent light distribution for lower lighting levels for walls, corridors and the surrounding area.",
+      "img": "https://www.assets.signify.com/is/image/Signify/OPBS1_BWC110I_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 44,
+      "heading": "ClearFlood Large",
+      "price": "440",
+      "sdes": "ClearFlood Large is designed to meet the requirements of a wide range of",
+      "mdes": "ClearFlood Large is designed to meet the requirements of a wide range of floodlighting applications from parking lots to tennis courts. One of the key advantages of ClearFlood Large, is that you can choose the exact lumen rating that you need for your specific application. Because ClearFlood incorporates extremely high-efficiency optics and state-of-the-art LEDs, it is a highly competitive solution that offers an outstanding lux/euro ratio and instant energy savings. What’s more, thanks to the wide choice of optics, you will always benefit from maximum coverage for your application. ClearFlood BVP651 is also easy to install – simply plug it in and select the option that best suits your needs.",
+      "img": "https://www.assets.signify.com/is/image/Signify/OPBS1_BVP650I_0003?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 45,
+      "heading": "ClearFlood",
+      "price": "550",
+      "sdes": "ClearFlood is a range of floodlights that enables you to choose the exact lumen",
+      "mdes": "ClearFlood is a range of floodlights that enables you to choose the exact lumen rating that you need for your specific application. Designed around state-of-the-art LEDs and extremely high-efficiency optics, this very competitive solution offers an industry-leading lux per euro ratio and significant energy savings. The choice of different optics in the ClearFlood range opens new application possibilities for LEDs. ClearFlood BVP650 is also easy to install and to maintain.",
+      "img": "https://www.assets.signify.com/is/image/Signify/OCFP1_BVP650_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 46,
+      "heading": "Coreline tempo large",
+      "price": "660",
+      "sdes": "CoreLine tempo large delivers on the CoreLine promise of innovative, easy to use",
+      "mdes": "CoreLine tempo large delivers on the CoreLine promise of innovative, easy to use and high quality luminaires. A narrow range of options makes it easy to find the best lux-for-lux replacement for 150W, 250W, and 400W HID lamps. The CoreLine tempo large floodlighting range offers lumen packages for many different application areas as well as a choice of high-performance asymmetrical and symmetrical optics. The installation is made easy thanks to the U-shaped universal mounting bracket and the external quick 3-poles connector. It is an ideal solution for outdoor areas such as tempo floodlights for industrial/commercial areas, parking lots, etc.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Coreline_tempo_large-BVP130-BP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 47,
+      "heading": "ActiStar",
+      "price": "770",
+      "sdes": "Philips ActiStar Inherits and develops Philips brand floodlight consistent",
+      "mdes": "Philips ActiStar Inherits and develops Philips brand floodlight consistent advantages to a new performance level to Illuminate your recreational sports fields and areas with best-in-class LED technology. It’s new ideal solution for a wide range of lighting applications, like recreational sports pitch, containers yard and ports, apron and industrial large areas, intersection road, etc. ActiStar will energize your sports facilities with uniformity and be able to enhance the safety of intersection roads by maximizing efficiencies. Optimized design for 1:1 retrofitting in compact size with lower weight, wide choice of optic, high manufacturing quality. It can deliver sufficient light at higher efficacy, and it incorporates best-in-class LED light source, modular optical system, heat sink and driver into one-piece housing that meets globally recognized safety standards. Its rigorous designed heat sink incorporates aesthetics and functionality to ensure excellent reliability. The superior lighting performance and longer lifetime to activate your and infinite potential, ActiStar.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/Actistar-14984%20beautyshot?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 48,
+      "heading": "SmartBright LED Floodlight",
+      "price": "860",
+      "sdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver",
+      "mdes": "The SmartBright LED Floodlight is a versatile floodlight engineered to deliver significant energy savings, an ideal solution for diverse floodlighting applications. The product is also designed to meet relevant performance and safety standards,offering you reliable and long-lasting performance.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/Smartbright-BVP176-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 49,
+      "heading": "Tango G4 LED Flood",
+      "price": "990",
+      "sdes": "Philips Tango G4 LED flood lighting is the 4th generation of the Tango LED family. ",
+      "mdes": "Philips Tango G4 LED flood lighting is the 4th generation of the Tango LED family. A new range lighting that delivers higher efficacy and has an optimized windage area, and less weight thanks to its technical design. This product introduction is the ideal solution for a wide range of area lighting and recreational sports lighting applications. It incorporates the latest LED light source, one-piece optical system, heat sink and driver into a compact and robust housing that meets globally-recognized safety standards. Its specially-designed heat sink incorporates aesthetics and functionality to ensure excellent reliability. Powered by LED technology, Tango G4 LED floodlights deliver superior performance and a longer lifetime, bringing area lighting to a whole new level.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BVP43X_BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 50,
+      "heading": "Ledinaire floodlights gen3",
+      "price": "1120",
+      "sdes": "This Ledinaire floodlights range contains a selection of popular off-the-shelf LED",
+      "mdes": "This Ledinaire floodlights range contains a selection of popular off-the-shelf LED luminaires that comes with the Philips high quality levels at a competitive price. Reliable, energy-efficient and affordable – just what you need.",
+      "img": "https://www.assets.signify.com/is/image/Signify/BS%20Ledinaire?wid=655&hei=368&qlt=82"
+    }
+  ],
+  "phillips_outdoor_urban": [
+    {
+      "id": 51,
+      "heading": "Metronomis LED Fluid",
+      "price": "120",
+      "sdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a",
+      "mdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a palette of lighting effects to give projects a unique contextual or aesthetic touch. An innovative play of reflection, light and shadow that casts a pattern on the ground, or in the bowl, to create additional ambience. Four iconic designs are available: Metronomis LED Torch (BDS650), Metronomis LED Torch with hat (BDS651), Metronomis LED Sharp (BDS660), and Metronomis LED Fluid (BDS670). Each luminaire design has a visual and modular link to Metronomis I, reduced to its essential elements. During the day, the discreet, transparent design blends into its urban context, whether that be contemporary or classical architecture and surroundings, while its night-time appearance is both functional and decorative. Flexible and modular, the Metronomis LED family comes with a range of columns and a wide variety of effects. This enables architects and lighting designers to create a unified, consistent lighting design across any cityscape, while still reflecting the differences in urban culture and history. Metronomis LED also offers all the benefits of LEDGINE. Energy saving, serviceable and upgradable, this luminaire range is designed to maintain excellent light quality over its lifetime.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/OPBS1_BDS650I_0005?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 52,
+      "heading": "Metronomis LED Torch",
+      "price": "220",
+      "sdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a",
+      "mdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a palette of lighting effects to give projects a unique contextual or aesthetic touch. An innovative play of reflection, light and shadow that casts a pattern on the ground, or in the bowl, to create additional ambience. Four iconic designs are available: Metronomis LED Torch (BDS650), Metronomis LED Torch with hat (BDS651), Metronomis LED Sharp (BDS660), and Metronomis LED Fluid (BDS670). Each luminaire design has a visual and modular link to Metronomis I, reduced to its essential elements. During the day, the discreet, transparent design blends into its urban context, whether that be contemporary or classical architecture and surroundings, while its night-time appearance is both functional and decorative. Flexible and modular, the Metronomis LED family comes with a range of columns and a wide variety of effects. This enables architects and lighting designers to create a unified, consistent lighting design across any cityscape, while still reflecting the differences in urban culture and history. Metronomis LED also offers all the benefits of LEDGINE. Energy saving, serviceable and upgradable, this luminaire range is designed to maintain excellent light quality over its lifetime.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/OCFP1_BDS650_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 53,
+      "heading": "Metronomis LED Sharp",
+      "price": "320",
+      "sdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a",
+      "mdes": "Philips Metronomis LED is the first post-top luminaire range in the world to offer a palette of lighting effects to give projects a unique contextual or aesthetic touch. An innovative play of reflection, light and shadow that casts a pattern on the ground, or in the bowl, to create additional ambience. Four iconic designs are available: Metronomis LED Torch (BDS650), Metronomis LED Torch with hat (BDS651), Metronomis LED Sharp (BDS660), and Metronomis LED Fluid (BDS670). Each luminaire design has a visual and modular link to Metronomis I, reduced to its essential elements. During the day, the discreet, transparent design blends into its urban context, whether that be contemporary or classical architecture and surroundings, while its night-time appearance is both functional and decorative. Flexible and modular, the Metronomis LED family comes with a range of columns and a wide variety of effects. This enables architects and lighting designers to create a unified, consistent lighting design across any cityscape, while still reflecting the differences in urban culture and history. Metronomis LED also offers all the benefits of LEDGINE. Energy saving, serviceable and upgradable, this luminaire range is designed to maintain excellent light quality over its lifetime.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/OPBS1_BDS650I_0003?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 54,
+      "heading": "Metronomis 1 LED",
+      "price": "420",
+      "sdes": "Our family of five, highly distinctive Metronomis 1 LED luminaires is now available",
+      "mdes": "Our family of five, highly distinctive Metronomis 1 LED luminaires is now available in LED. The award-winning Philips Metronomis 1 LED range is designed to enhance Cambridge, Berlin, Bordeaux, Brussels, and Porto luminaires with even greater lighting performance and efficiency. Architects and lighting designers can use these luminaires and dedicated poles and brackets with a wide variety of optics. So they can create a total city lighting solution with a consistent design that still reflects differences in urban culture and history. During the day, Metronomis 1 LED integrates harmoniously with any street scene. At night, its appearance is both functional - guiding people and traffic safely through the city - and decorative, creating a pleasant ambience in city squares and pedestrian areas. The Metronomis 1 LED street lighting solution features a Philips System ready (SR) socket, making it future ready to be paired with standalone or advanced control and lighting software applications such as Interact from Signify. In addition, every Metronomis LED 1 luminaire is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier, and enables you to create a digital library of lighting assets and spare parts.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/Metronomis_I_LED-BDS570-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 55,
+      "heading": "Copenhagen LED gen2 small",
+      "price": "520",
+      "sdes": "The original Copenhagen luminaire was co-designed with Copenhagen’s Office of",
+      "mdes": "The original Copenhagen luminaire was co-designed with Copenhagen’s Office of City Architecture in the 1960s with the aim of enhancing the aesthetic appeal of the city through lighting. This timeless luminaire design comes in two types: Copenhagen City LED Gen2 is for city and residential areas where light comfort is important; Copenhagen LED Gen2 delivers high performance for road lighting applications. The second generation of Copenhagen LED is available in a range of sizes, from mini to mega. This makes it suitable for any type of application while ensuring the dimensions of the luminaire and pole are well balanced, so every installation blends harmoniously into its surroundings. Various suspensions are available, allowing a variety of mounting options to provide maximum freedom during installation. Thanks to the built in Philips LEDGINE-O engine, and the wide range of application-tailored optics, Copenhagen LED luminaires deliver the right amount of light and in the right direction on your street, enabling important energy savings. The luminaire is available with one or two Zhaga-D4i (ZD4i) System Ready (SR) sockets, which makes the luminaire future ready. This means Copenhagen LED Gen2 is ready to pair with advanced control and lighting software applications such as Interact, or sensors such as the Philips Outdoor Sensor Bundle (OSB). And because the top SR socket is integrated into the canopy, it has no impact on the beautiful, clean design of the luminaire. Furthermore, every Copenhagen LED Gen2 BPS559, BRS561, BRS562 and BRS563 luminaire is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create a digital library of lighting assets and spare parts.",
+      "img": "https://www.assets.signify.com/is/image/Signify/BRS561_translucent%20canopy-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 56,
+      "heading": "Copenhagen City LED gen2 small",
+      "price": "620",
+      "sdes": "The original Copenhagen luminaire was co-designed with Copenhagen’s Office of",
+      "mdes": "The original Copenhagen luminaire was co-designed with Copenhagen’s Office of City Architecture in the 1960s with the aim of enhancing the aesthetic appeal of the city through lighting. This timeless luminaire design comes in two types: Copenhagen City LED Gen2 is for city and residential areas where light comfort is important; Copenhagen LED Gen2 delivers high performance for road lighting applications. The second generation of Copenhagen City LED offers a very comfortable light distribution with minimum glare, enabled by a round LED engine, which follows the shape of the luminaire. The opal canopy option provides even more ways to enhance the impact of lighting. It is also perfect for city branding as it can be used to create both static and dynamic uplight with any color of light. The luminaire comes with a variety of suspensions and optics, offering maximum freedom in lighting design for downtown and residential areas. A variety of dedicated brackets are also available to enable you to create a consistent lighting design across multiple applications. It is also available with one or two Zhaga-D4i (ZD4i) System Ready (SR) sockets, which makes the luminaire future ready. This means Copenhagen City LED Gen2 is ready to pair with advanced control and lighting software applications such as Interact, or sensors such as the Philips Outdoor Sensor Bundle (OSB). And because the top SR socket is integrated into the canopy, it has no impact on the beautiful, clean design of the luminaire. Furthermore, every Copenhagen City LED Gen2 BRS761, BRS762 and BRS763 luminaire is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create a digital library of lighting assets and spare parts.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BRS761_translucent%20canopy-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 57,
+      "heading": "Copenhagen LED gen2 large & mega",
+      "price": "720",
+      "sdes": "The original Copenhagen luminaire was co-designed with",
+      "mdes": "The original Copenhagen luminaire was co-designed with Copenhagen’s Office of City Architecture in the 1960s with the aim of enhancing the aesthetic appeal of the city through lighting. This timeless luminaire design comes in two types: Copenhagen City LED Gen2 is for city and residential areas where light comfort is important; Copenhagen LED Gen2 delivers high performance for road lighting applications. The second generation of Copenhagen LED is available in a range of sizes, from mini to mega. This makes it suitable for any type of application while ensuring the dimensions of the luminaire and pole are well balanced, so every installation blends harmoniously into its surroundings. Various suspensions are available, allowing a variety of mounting options to provide maximum freedom during installation. Thanks to the built in Philips LEDGINE-O engine, and the wide range of application-tailored optics, Copenhagen LED luminaires deliver the right amount of light and in the right direction on your street, enabling important energy savings. The luminaire is available with one or two Zhaga-D4i (ZD4i) System Ready (SR) sockets, which makes the luminaire future ready. This means Copenhagen LED Gen2 is ready to pair with advanced control and lighting software applications such as Interact, or sensors such as the Philips Outdoor Sensor Bundle (OSB). And because the top SR socket is integrated into the canopy, it has no impact on the beautiful, clean design of the luminaire. Furthermore, every Copenhagen LED Gen2 BPS559, BRS561, BRS562 and BRS563 luminaire is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create a digital library of lighting assets and spare parts.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/BRS562_BSP_translucent%20canopy?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 58,
+      "heading": "TownTune CCB",
+      "price": "820",
+      "sdes": "Designed to enhance existing and scalable urban spaces, the",
+      "mdes": "Designed to enhance existing and scalable urban spaces, the Philips TownTune family offers all the latest lighting innovations in terms of performance, quality of light and connectivity. The family consists of four solutions: a Central Post Top (CPT), an Asymmetric Spigot Post Top / Side Entry version (ASY), a version with an extending Lyre post top bracket (Lyre), and a Central Post Top with a Conical Comfort Bowl (CCB). Each TownTune luminaire can be customized with a choice of different shapes on top of the housing, plus there’s the option to add a decorative ring, which comes in two colors (excluding CCB). Design options that enable you to create your very own lighting signature and bring a distinctive identity to districts and cities. In addition, every luminaire in the TownTune family is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create your digital library of lighting assets and spare parts. TownTune also uses the Philips LEDGINE-O lighting platform, ensuring you always have the right amount and direction of light on your street. Furthermore, thanks to being system ready (SR), TownTune is also future proof. A solution that’s ready to be paired with both standalone and advanced control and lighting software applications such as Interact City.",
+      "img": "https://www.assets.signify.com/is/image/Signify/TownTune_CCB-BDP275-BSP01?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 59,
+      "heading": "TownTune Central Post-Top DTC",
+      "price": "920",
+      "sdes": "Designed to enhance existing and scalable urban spaces, the",
+      "mdes": "Designed to enhance existing and scalable urban spaces, the Philips TownTune family offers all the latest lighting innovations in terms of performance, quality of light and connectivity. The family consists of four solutions: a Central Post Top (CPT), an Asymmetric Spigot Post Top / Side Entry version (ASY), a version with an extending Lyre post top bracket (Lyre), and a Central Post Top with a Conical Comfort Bowl (CCB). Each TownTune luminaire can be customized with a choice of different shapes on top of the housing, plus there’s the option to add a decorative ring, which comes in two colors (excluding CCB). Design options that enable you to create your very own lighting signature and bring a distinctive identity to districts and cities. In addition, every luminaire in the TownTune family is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create your digital library of lighting assets and spare parts. TownTune also uses the Philips LEDGINE-O lighting platform, ensuring you always have the right amount and direction of light on your street. Furthermore, thanks to being system ready (SR), TownTune is also future proof. A solution that’s ready to be paired with both standalone and advanced control and lighting software applications such as Interact City.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/PHL_TownTune_CPT_DTC-BDP262-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 60,
+      "heading": "TownTune Asymmetric DTC",
+      "price": "1120",
+      "sdes": "Designed to enhance existing and scalable urban spaces, the",
+      "mdes": "Designed to enhance existing and scalable urban spaces, the Philips TownTune family offers all the latest lighting innovations in terms of performance, quality of light and connectivity. The family consists of four solutions: a Central Post Top (CPT), an Asymmetric Spigot Post Top / Side Entry version (ASY), a version with an extending Lyre post top bracket (Lyre), and a Central Post Top with a Conical Comfort Bowl (CCB). Each TownTune luminaire can be customized with a choice of different shapes on top of the housing, plus there’s the option to add a decorative ring, which comes in two colors (excluding CCB). Design options that enable you to create your very own lighting signature and bring a distinctive identity to districts and cities. In addition, every luminaire in the TownTune family is uniquely identifiable, thanks to the Signify Service tag app. By simply scanning a QR code, placed inside the door of the mast or directly on the luminaire, you can instantly access the configuration of the luminaire. This makes maintenance and programing operations faster and easier and enables you to create your digital library of lighting assets and spare parts. TownTune also uses the Philips LEDGINE-O lighting platform, ensuring you always have the right amount and direction of light on your street. Furthermore, thanks to being system ready (SR), TownTune is also future proof. A solution that’s ready to be paired with both standalone and advanced control and lighting software applications such as Interact City.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/PHL_TownTune_ASY_DTC-BDP267-BSP?wid=655&hei=368&qlt=82"
+    }
+  ],
+  "phillips_lamps_ledbulb": [
+    {
+      "id": 61,
+      "heading": "LEDLamps",
+      "price": "100",
+      "sdes": "LED Lamps are a perfect fit for general lighting applications.",
+      "mdes": "LED Lamps are a perfect fit for general lighting applications. Compatible with most existing fixtures and designed as a retrofit replacement for incandescent and halogen lamps, LED Lamps deliver huge energy savings and minimize maintenance cost",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SPBS1_LEDBULB_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 62,
+      "heading": "Standard LED bulbs",
+      "price": "200",
+      "sdes": "Standard LED bulbs are compatible with existing fixtures with a",
+      "mdes": "Standard LED bulbs are compatible with existing fixtures with a E27 holder and are designed for retrofit replacement of incandescent, halogen and energy saving bulbs. They deliver huge energy savings and minimize maintenance costs. The Standard LED bulb is the perfect bulb for your basic lighting needs. It provides the beautiful light and performance you expect from the LED technology at an affordable price.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/b1dc7304391945d9a518a84800408be0?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 63,
+      "heading": "Classic filament",
+      "price": "300",
+      "sdes": "Featuring a classic heritage design, Classic filament LEDbulbs",
+      "mdes": "Featuring a classic heritage design, Classic filament LEDbulbs combine the familiar shapes of classic incandescent bulbs with the benefits of the long lasting LED technology. They deliver beautiful, decorative warm-white light while saving around 90% on energy costs compared with traditional light bulbs.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SPBS1_LEDFILAM_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 64,
+      "heading": "Essential LED bulbs",
+      "price": "400",
+      "sdes": "Essential LEDbulbs are compatible with existing fixtures with a",
+      "mdes": "Essential LEDbulbs are compatible with existing fixtures with a E27 holder and are designed for retrofit replacement of incandescent, halogen and energy saving bulbs. They deliver huge energy savings and minimize initial investment",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/00ad718238b14f2b8bb0a848004087c8?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 65,
+      "heading": "CorePro Plastic LEDbulbs",
+      "price": "500",
+      "sdes": "The CorePro LED bulb is the perfect bulb for your basic lighting",
+      "mdes": "The CorePro LED bulb is the perfect bulb for your basic lighting needs. It provides beautiful light and dependable performance you expect from LED at an affordable price. CorePro LEDbulbs are compatible with existing fixtures with an E27 or B22 holder and are designed for retrofit replacement of incandescent bulbs. They deliver huge energy savings of 80% and provides excellent quality of light. By offering a lifetime of 15,000 hours it reduces maintenance costs.",
+      "img": "https://www.assets.signify.com/is/image/Signify/CorePro-Plastic-LEDbulbs-CLP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 66,
+      "heading": "LED Dusk to Dawn",
+      "price": "600",
+      "sdes": "Philips Dusk to Dawn A19 lamp is equipped with a built in light",
+      "mdes": "Philips Dusk to Dawn A19 lamp is equipped with a built in light sensor that turns the lights on automatically when the sun goes down and turns the light off when the sun rises.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/76849d3361224540b663aa3e00ef6057?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 67,
+      "heading": "SceneSwitch LEDbulbs",
+      "price": "700",
+      "sdes": "Some situations call for cool light, others benefit from the",
+      "mdes": "Some situations call for cool light, others benefit from the ambiance of a warm cozy glow. With Philips SceneSwitch LEDbulbs, you can have different light settings from just one bulb. And you don’t need a dimmer! Optimize your lighting for relaxing, hobbies, recreation or working. Simply at the flick of a switch. And that’s your existing switch! No extra installation is required.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/bd572c330e654f4e9a90a75f00474577?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 68,
+      "heading": "MASTER Plastic LEDbulbs",
+      "price": "800",
+      "sdes": "The MASTER Plastic LEDbulb range delivers a dimmable glow",
+      "mdes": "The MASTER Plastic LEDbulb range delivers a dimmable glow effect for a welcoming, warm atmosphere, making it ideal for general lighting applications in the hospitality industry. Its unique design radiates warm light in all directions, making it a true alternative to incandescent lamps. They are particularly suitable for public areas such as lobbies, corridors, stairwells, where the light is always on. Compatible with existing fixtures with an E27 holder and designed for retrofit replacement of incandescent bulbs, MASTER Plastic LEDbulb delivers huge energy savings of up to 80% compared with traditional incandescent lamps and provides excellent quality of light. By offering a lifetime of 25,000 hours it lowers maintenance costs. They can be used together with most leading-edge dimmers, enabling further efficiencies while helping to create the desired atmosphere.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/58120c212c07480b9458a539001e9066?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 69,
+      "heading": "Premium LED bulbs Vintage Filament",
+      "price": "900",
+      "sdes": "Featuring a classic heritage design, the new Philips Vintage LED",
+      "mdes": "Featuring a classic heritage design, the new Philips Vintage LED lamp family is reminiscent of familiar incandescent bulbs. Available in an array of giant shapes, candles and other familiar form factors, they provide a seamless fit across your space. When used as a statement piece, they add a sense of nostalgia and create a highly desirable atmosphere for socialization and relaxing.",
+      "img": "https://www.assets.signify.com/is/image/Signify/Premium_LED_bulbs_Vintage_Filament-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 70,
+      "heading": "MASTER UltraEfficient LED bulb",
+      "price": "1100",
+      "sdes": "This is the most efficient LED bulb from Philips brand. 210lm/W",
+      "mdes": "This is the most efficient LED bulb from Philips brand. 210lm/W helps to concrete the company statement of sustainability. 50000 hour lifetime helps to extend the replacement cycle to reduce the waste. This is not only the high SPEC product, but also keep the light quality of Philips brand",
+      "img": "https://www.assets.signify.com/is/image/Signify/UltraEfficient_LED_bulb-BSP?wid=655&hei=368&qlt=82"
+    }
+  ],
+  "phillips_lamps_ledcandles": [
+    {
+      "id": 71,
+      "heading": "Candle LED",
+      "price": "100",
+      "sdes": "Philips Candle Dimmable LED Lamps offer decorative energy",
+      "mdes": "Philips Candle Dimmable LED Lamps offer decorative energy saving ambience with the elegant effect of incandescent candles. Available in bent, blunt and flame tip candles, their unique design provides light in all directions, giving lighting designers a long life alternative to standard incandescent sources.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SPBS1_S_LECAND_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 72,
+      "heading": "MASTER Plastic LEDcandles and lusters",
+      "price": "200",
+      "sdes": "The MASTER Plastic LEDcandle and luster range delivers a",
+      "mdes": "The MASTER Plastic LEDcandle and luster range delivers a dimmable glow effect for a welcoming, warm atmosphere, making it ideal for general lighting applications in the hospitality industry. Its unique design radiates warm light in all directions, making it a true alternative to incandescent lamps. They are particularly suitable for public areas such as lobbies, corridors, stairwells, where the light is always on. Compatible with existing fixtures with an E14 holder for candles and E14 and E27 holders for lusters. MASTER Plastic LEDcandle and luster deliver huge energy savings of up to 80% compared with traditional incandescent lamps and provides excellent quality of light. By offering a lifetime of 25,000 hours it lowers maintenance costs. They can be used together with most leading-edge dimmers, enabling further efficiencies while helping to create the desired atmosphere.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SPBS1_MLEDCAN_PHL_0003?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 73,
+      "heading": "CorePro Plastic LEDcandles and lusters",
+      "price": "300",
+      "sdes": "The CorePro LEDcandles and lusters are designed for retrofit",
+      "mdes": "The CorePro LEDcandles and lusters are designed for retrofit replacement of incandescent lamps and are particularly attractive for chandeliers. They are compatible with fixtures with an E14 holder for candles and E14 or E27 holders for lusters and are available in multiple color temperatures. LED lamps deliver huge energy savings of up to 80% energy-saving compared with halogen lamps and provide excellent quality of light. By offering a lifetime of 15,000 hours it lowers maintenance costs. The CorePro LED candles and lusters are perfect for your basic lighting needs.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/SPBS1_CORPLCAN_PHL_0001?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 74,
+      "heading": "Standard LED candles and lusters",
+      "price": "400",
+      "sdes": "Standard LED candles are compatible with existing fixtures with a",
+      "mdes": "Standard LED candles are compatible with existing fixtures with a E27 holder and are designed for retrofit replacement of incandescent, halogen and energy saving candles. They deliver huge energy savings and minimize maintenance costs. The Standard LED candle is the perfect candle for your basic lighting needs. It provides the beautiful light and performance you expect from the LED technology at an affordable price.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/30230a0ffe55463890c6a84800408e83?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 75,
+      "heading": "Classic filament LED candles and lusters",
+      "price": "500",
+      "sdes": "Featuring a classic heritage design, Classic filament LED candles",
+      "mdes": "Featuring a classic heritage design, Classic filament LED candles and lusters combine the familiar shapes of classic incandescent candle or luster with the benefits of the long lasting LED technology. They deliver beautiful, decorative warm-white light while saving around 90% on energy costs compared with traditional light candles and lusters.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/32feecabdb304e629a53a90b006b57c9?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 76,
+      "heading": "Master Value Decorative LED candles and lusters",
+      "price": "600",
+      "sdes": "The new Deco collection (candles and lusters) transforms your",
+      "mdes": "The new Deco collection (candles and lusters) transforms your home with a perfect blend of (warm) white light and a lean, minimalistic lighting experience. With very long lifetime, up to 90% energy savings, no flickering and an instant full level brightness, you will also enjoy soft and evenly distributed light with that trendy and stylish charm for a welcoming harmony in your space.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/f8214416550c4a89ba61a90b006b61c9?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 77,
+      "heading": "LED BA11",
+      "price": "700",
+      "sdes": "Philips LED BA11 candles offer energy saving ambiance with the",
+      "mdes": "Philips LED BA11 candles offer energy saving ambiance with the elegant effect of incandescent candles. These designs provides light in an omnidirectional manner, giving lighting designers a long life alternative to standard incandescent sources.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/9cbf93b48f3146b4b039aa3e00ef749e?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 78,
+      "heading": "LED B11",
+      "price": "800",
+      "sdes": "Philips LED B11 candles offer energy saving ambiance with the",
+      "mdes": "Philips LED B11 candles offer energy saving ambiance with the elegant effect of incandescent candles. These designs provides light in an omnidirectional manner, giving lighting designers a long life alternative to standard incandescent sources.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/d771c86221ab42e2a069aa3e00ef7758?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 79,
+      "heading": "LED G25",
+      "price": "900",
+      "sdes": "Philips G25 LED Lamps offer energy saving ambience with an elegant ",
+      "mdes": "Philips G25 LED Lamps offer energy saving ambience with an elegant effect. Their unique design provides light in all directions, giving lighting designers a long life alternative to standard incandescent sources.Philips G25 LED Lamps offer energy saving ambience with an",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/036ef88972e3442292dbaa3e00ef7a62?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 80,
+      "heading": "LED G16.5",
+      "price": "1000",
+      "sdes": "Philips G16.5 LED Lamps offer energy saving ambience with an",
+      "mdes": "Philips G16.5 LED Lamps offer energy saving ambience with an elegant effect. Their unique design provides light in all directions, giving lighting designers a long life alternative to standard incandescent sources",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/e37076b4233f4cc8a839aa3e00ef7d38?wid=655&hei=368&qlt=82"
+    }
+  ],
+  "phillips_lamps_ledtube": [
+    {
+      "id": 81,
+      "heading": "MASTER LEDtube EM/Mains T8",
+      "price": "100",
+      "sdes": "The Philips MASTER LEDtube integrates a LED light source into a",
+      "mdes": "The Philips MASTER LEDtube integrates a LED light source into a traditional fluorescent form factor. Its unique design creates a perfectly uniform visual appearance, which cannot be distinguished from traditional fluorescent. These T8 LED tubes are the right choice for absolute performance and are designed to stand up to everyday conditions. Unparalleled savings thanks to low energy consumption and an exceptionally long lifetime ensure this tube masters every demanding application.",
+      "img": "https://www.assets.signify.com/is/image/Signify/0670cfd425864f868f19b065006fb142?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 82,
+      "heading": "CorePro LEDtube EM/Mains T8",
+      "price": "200",
+      "sdes": "Philips CorePro LEDtubes are the quick and easy way to replace",
+      "mdes": "Philips CorePro LEDtubes are the quick and easy way to replace T8 fluorescent or other LED tubes with a fast pack back time. Not only does the Core range of LEDtubes require a low initial investment, but LED energy efficiency also delivers instant savings that you can bank on over a long and reliable lifetime. Plus, with the same lamp size and light distribution as fluorescent alternatives, you’ll never know the difference. There are two ways to install these LED tubes: Rewire your existing fluorescent-based luminaires so the CorePro LEDtubes work directly on the Mains. Or simply change the fluorescent starter to an LED starter that can be used with your Electromagnetic ballasts.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/CorePro_LEDtube_EM_Mains_T8-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 83,
+      "heading": "Essential LEDtube",
+      "price": "300",
+      "sdes": "Essential LEDtube is an affordable LED tube that is suitable for",
+      "mdes": "Essential LEDtube is an affordable LED tube that is suitable for replacing T8 fluorescent lamps. The product provides a natural lighting effect for use in general lighting applications, as well as instant energy savings – an environmentally friendly solution.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/423a7cbb9b07497c897ba4ad0155a4d1?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 84,
+      "heading": "MASTER LEDtube InstantFit HF T8",
+      "price": "400",
+      "sdes": "Philips MASTER LEDtube InstantFit T8 integrates a LED light",
+      "mdes": "Philips MASTER LEDtube InstantFit T8 integrates a LED light source into a traditional fluorescent form factor. Its unique design creates a perfectly uniform visual appearance which cannot be distinguished from traditional fluorescent. Philips MASTER LEDtube InstantFit T8 is the ideal solution for customers who have higher light requirements and want to maximize value over lifetime. Full energy savings & longer lifetime result in attractive payback times and TCO benefits.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/MASTER_LEDtube_InstantFit_HF_T8-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 85,
+      "heading": "Ecofit Ledtubes T8",
+      "price": "500",
+      "sdes": "Upgrade to efficient, long-lasting LED tubes with the Ecofit LED",
+      "mdes": "Upgrade to efficient, long-lasting LED tubes with the Ecofit LED tubes. Ecofit LED tubes are a fast and easy way to replace your old fluorescent tubes with modern, efficient LED technology. Good quality of light with a natural lighting effect for use in general lighting applications with low initial investment – an environmentally friendly solution.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/2036663396244a529c4ca848004072cb?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 86,
+      "heading": "Essential LED tubes T5 Mains",
+      "price": "600",
+      "sdes": "The Essential LEDtube T5 is an affordable LED solution suitable",
+      "mdes": "The Essential LEDtube T5 is an affordable LED solution suitable for replacing T5 fluorescent lamps. Thanks to a unique design, Philips Essential LED tube T5 Mains can be directly installed in luminaires operating on mains power connection.The product provides a natural lighting effect for use in general lighting applications, as well as instant energy savings – an environmentally friendly solution.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/a6d998380353463dbc08a84800407e0b?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 87,
+      "heading": "MASTER LEDtube InstantFit HF T5",
+      "price": "700",
+      "sdes": "The Philips MASTER LEDtube integrates a LED light source into a",
+      "mdes": "The Philips MASTER LEDtube integrates a LED light source into a traditional fluorescent form factor. Its unique design creates a perfectly uniform visual appearance, which cannot be distinguished from traditional fluorescent. These T5 lighting tubes are the right choice for absolute performance and are designed to stand up to everyday conditions. Unparalleled savings thanks to low energy consumption and an exceptionally long lifetime make these T5 LED tubes the choice for every demanding application.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/MASTER_LEDtube_InstantFit_HF_T5_1-BSP?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 88,
+      "heading": "Other LEDtube",
+      "price": "800",
+      "sdes": "Philips LEDtube integrates a LED light source into a traditional",
+      "mdes": "Philips LEDtube integrates a LED light source into a traditional fluorescent form factor. This product is the ideal solution for uplamping in general lighting applications: it meets basic lighting requirements, offers significant energy savings, and is environmentally friendly.",
+      "img": "https://www.assets.signify.com/is/image/PhilipsLighting/f54ccadf5ff04476a795a4ad01577680?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 89,
+      "heading": "MASTER LEDtube T8 UltraEfficient",
+      "price": "900",
+      "sdes": "With energy prices rising and the EU‘s Green Deal2 continuing to",
+      "mdes": "With energy prices rising and the EU‘s Green Deal2 continuing to fund energy efficient building renovations, many are looking into make their company‘s lighting more sustainable. The new Philips MASTER LEDtube Ultra Efficient T8 is a true breakthrough on the way to more sustainable lighting. It replaces your current fluorescent tube or LED tube directly and offers immediately great energy cost reduction as well as a much longer lifetime!",
+      "img": "https://www.assets.signify.com/is/image/Signify/9eb1f19d05524415bbffae9000e16886?wid=655&hei=368&qlt=82"
+    },
+    {
+      "id": 90,
+      "heading": "MASTER Value LEDtube Universal T8",
+      "price": "1000",
+      "sdes": "The new Philips MASTER Value LEDtube Universal T8 brings ease",
+      "mdes": "The new Philips MASTER Value LEDtube Universal T8 brings ease and simplicity to your lighting project. That’s because you do not need to match the driver technology anymore: a unique design enables the Philips MASTER Value LEDtube Universal T8 to directly fit in luminaires operating on either electromagnetic ballasts or HF electronic ballasts or mains power connection. It is so simple to operate and you no longer need to stock two types of tubes! Perfectly safe, reliable & easy to install Philips MASTER Value LEDtube Universal T8 is the ideal alternative to standard fluorescent tubes to maximize value over lifetime with high energy saving and lower maintenance costs",
+      "img": "https://www.assets.signify.com/is/image/Signify/dab4ff844ac84271b1ceae0600b97560?wid=655&hei=368&qlt=82"
+    }
+  ],
   "vorlane_downlight_cobled": [
     {
       "id": 91,

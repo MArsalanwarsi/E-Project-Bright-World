@@ -15,4 +15,15 @@ if (username == null) {
     sessionStorage.removeItem("username");
     window.location.reload();
   });
-}
+};
+
+let submitbtn = document.querySelector(".submitbtn");
+let nameinput = document.querySelector(".nameinput");
+let emailinput = document.querySelector(".emailinput");
+let numberinput = document.querySelector(".numberinput");
+let message = document.querySelector(".messageinput");
+let addressinput = document.querySelector(".addressinput");
+
+submitbtn.addEventListener("click", (e) => {
+  e.preventDefault();
+});
