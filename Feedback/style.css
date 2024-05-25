@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 991px) {
+  .nav-item {
+    position: relative;
+  }
+  .nav-item a::before {
+    content: "";
+    width: 0;
+    height: 3px;
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all 0.4s linear;
+  }
+  .nav-item a:hover::before {
+    width: 100%;
+  }
+}
+.dropdown-item:hover {
+  background-color: white;
+}
+.footerlinks a {
+  color: green;
+  transition: all 0.3s ease-in-out;
+}
+.footerlinks a:hover {
+  color: green;
+  text-shadow: 1px 1px rgba(0, 128, 0, 0.619) ;
+  box-shadow: 2px 3px 2px 2px green ;
+}
+
+footer .bg_img{
+  background-image: url(/Images/Logo/logo.png);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  max-height: 300px;
+  min-height: 300px;
+  opacity: 0.07;
+  z-index: -1;
+}
+footer .container-fluid{
+  background: transparent;
+  z-index: 99;
+}
+.currentpage::before {
+  content: "";
+  width: 100% !important;
+  height: 3px;
+  background-color: green;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+};
+
+.contact-form input{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+   
+}
+.contact-form textarea{
+    width: 100%;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+ 
+}
+.backgrounddata{
+    background-image: url(/Images/Logo/logo.png);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    max-height: 500px;
+    min-height: 500px;
+    opacity: 0.07;
+    z-index: -1;
+    object-fit: contain;
+}
