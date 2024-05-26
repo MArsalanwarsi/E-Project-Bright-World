@@ -127,6 +127,13 @@ fetch("/Json/fetch.json")
   fetch(json_url)
     .then((res) => res.json())
     .then((data) => {
+      var cartcount = 0;
+      for (i in data) {
+        var quantity = parseInt(data[i].quantity);
+        cartcount = cartcount + quantity;
+      }
+      document.querySelector(".cartcounting").innerHTML = cartcount;
+
       var main = "";
       for (i in data) {
         main += ` <div class="col-12 mt-3"><div class="card p-2 h-100" >

@@ -24,6 +24,13 @@
             </div>
         </div>
     </div>
+    <a href="/Feedback/index.html">
+        <div class="position-fixed top-0 end-0" style="z-index: 80;margin-top: 300px;" role="button">
+            <div class="box"
+                style="writing-mode: vertical-lr; text-orientation: upright;background-color: black;color: white;border-radius: 50px 0px 0px 50px; font-size: 10px;padding: 25px 10px 25px 10px;">
+                Feedback</div>
+        </div>
+    </a>
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
         <div class="container-fluid p-2">
             <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 70px; max-height: 70px;">
@@ -114,14 +121,15 @@
                         <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Gallery</a>
+                        <a class="nav-link active" aria-current="page" href="/Gallery/index.html">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active currentpage" aria-current="page" href="/About_Us/index.html">About Us</a>
+                        <a class="nav-link active  currentpage" aria-current="page" href="/About_Us/index.html">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
+                        <a class="nav-link active" aria-current="page" href="/Contact_Us/index.html">Contact Us</a>
                     </li>
+    
                 </ul>
             </div>
             <div class="d-flex justify-content-center align-items-center me-lg-5 me-md-5 me-sm-3 gap-4">
@@ -140,7 +148,12 @@
                 </div>
                 <div class="btn-group">
                     <a href="#" class="cart text-dark pe-4 fs-5" data-bs-toggle="offcanvas" data-bs-target="#ShoppingCart"
-                        aria-controls="ShoppingCart"><i class="fa-solid fa-cart-shopping text-success"></i></a>
+                        aria-controls="ShoppingCart"><i class="fa-solid fa-cart-shopping text-success"></i>
+                        <span
+                            class="position-absolute top-0 translate-middle badge rounded-pill bg-danger cartcounting" style="left: 70%;font-size: 10px;">
+    
+                        </span>
+                    </a>
                 </div>
             </div>
     
@@ -162,13 +175,13 @@
                             <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Gallery</a>
+                            <a class="nav-link active" aria-current="page" href="/Gallery/index.html">Gallery</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="/About_Us/index.html">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
+                            <a class="nav-link active" aria-current="page" href="/Contact_Us/index.html">Contact Us</a>
                         </li>
                         <li class="nav-item">
                         <li class="nav-item dropdown">
@@ -242,7 +255,7 @@
                 <div class="offcanvas-body">
                     <div class="container-fluid">
                         <div class="row" id="ShoppingCartBody">
-    
+                            <h5 class="text-center text-danger">No items in your cart</h5>
                         </div>
                     </div>
                 </div>
@@ -258,7 +271,7 @@
         </div>
         <div class="container-fluid p-lg-5 p-md-5 p-sm-1 my-5">
             <div class="row">
-                <div class="col-md-6 col-lg-6 p-lg-5 p-md-0 p-sm-1">
+                <div class="col-md-6 col-lg-6 p-lg-5 p-md-2 p-sm-3">
                     <h3 class="text-dark">Our lighting products,<br> systems and services</h3>
                     <p>Bright World enhances public spaces, work places, and homes. Our lighting products, systems and
                         services enable our customers
@@ -284,7 +297,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-6 col-lg-6 p-lg-5 p-md-0 p-sm-1">
+                <div class="col-md-6 col-lg-6 p-lg-5 p-md-2 p-sm-3">
                     <h3 class="text-dark">Our innovation leadership</h3>
                     <p>Bright World leads in LED lighting innovation and is at the forefront of the industry’s expansion
                         into systems and services <br> As the industry’s leader in connected lighting, we are the
@@ -296,7 +309,7 @@
         </div>
         <div class="container-fluid p-lg-5 p-md-5 p-sm-1 my-5">
             <div class="row">
-                <div class="col-md-6 col-lg-6 p-lg-5 p-md-0 p-sm-1">
+                <div class="col-md-6 col-lg-6 p-lg-5 p-md-2 p-sm-3">
                     <h3 class="text-dark">Our passion for sustainability</h3>
                     <p>Sustainability is core to everything we do. Our Brighter Lives, Better World program sets
                         ambitious targets for
@@ -327,7 +340,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-6 col-lg-6 p-lg-5 p-md-0 p-sm-1">
+                <div class="col-md-6 col-lg-6 p-lg-5 p-md-2 p-sm-3">
                     <h3 class="text-dark">Let’s build a future together</h3>
                     <p>We invite you to join the leader in the lighting industry which is reshaping the industry. You
                         will be part of a global
@@ -353,7 +366,7 @@
                         <h5 class="text-dark">Address</h5>
                         <p class="text-black-50">7643 N Ingram Ave,<br> Suite 101, Fresno,<br> CA 93711</p>
                     </div>
-                    <button class="btn btn btn-outline-success ms-3 px-5">Contact Us</button>
+                    <a class="btn btn btn-outline-success ms-3 px-5" href="/Contact_Us/index.html">Contact Us</a>
     
                 </div>
                 <div class="col-md-9 col-lg-9 col-sm-12">
@@ -363,7 +376,7 @@
                                 <h3 class="text-dark py-3">Quick Links</h3>
                                 <li class="footerlinks list-unstyled"><a href="/index.html"
                                         class="nav-link d-inline-block">Home</a></li>
-                                <li class="footerlinks list-unstyled"><a href="#"
+                                <li class="footerlinks list-unstyled"><a href="/Gallery/index.html"
                                         class="nav-link d-inline-block">Gallery</a></li>
                                 <li class="footerlinks list-unstyled"><a href="/About_Us/index.html"
                                         class="nav-link d-inline-block">About

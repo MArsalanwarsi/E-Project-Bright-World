@@ -1421,12 +1421,482 @@
       "img": "https://vorlane.com/wp-content/uploads/2021/08/%E6%8A%95%E5%85%89%E7%81%AF-%E4%B8%BB%E5%9B%BE2.jpg.webp"
     }
   ],
-  "feit_downlights_smart": [],
-  "feit_downlights_canless": [],
-  "feit_downlights_adjustable": [],
-  "feit_string_smart": [],
-  "feit_string_led": [],
-  "feit_string_fairy": [],
+  "feit_downlights_smart": [
+    {
+      "id": 165,
+      "heading": "Tethered J-Box Smart Canless LED Downlight",
+      "price": "700",
+      "sdes": "Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants",
+      "mdes": "Turn on/off and adjust lighting with your smart speaker or mobile device. Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants. Easy DIY installation without the need for smart hubs View More Product Details",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-RGBW-CA-AG-2024-05-26-main_large.jpg?v=1716697235"
+    },
+    {
+      "id": 166,
+      "heading": "Color Changing Alexa Google Siri Smart Wi-Fi Downlight",
+      "price": "850",
+      "sdes": "Convert old recessed lighting to energy-efficient LEDs",
+      "mdes": "Convert old recessed lighting to energy-efficient LEDs, Control lighting with simple voice commands using either Amazon Alexa or Google Assistant. Get creative with multiple light color options",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4-RGBW-AG-2024-05-06-main_large.jpg?v=1714977064"
+    },
+    {
+      "id": 167,
+      "heading": "Tethered J-Box Smart Canless LED Downlight",
+      "price": "910",
+      "sdes": "Install in new constructions or remove recessed lighting cans and wire directly",
+      "mdes": "Install in new constructions or remove recessed lighting cans and wire directly, Turn on/off and adjust lighting with your smart speaker or mobile device. Easy DIY hardwire installation without the need for smart hubs",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6XT-RGBW-CA-AG-2024-05-26-main_large.jpg?v=1716697859"
+    },
+    {
+      "id": 168,
+      "heading": "Color Changing Smart Alexa Google Wi-Fi",
+      "price": "1020",
+      "sdes": " Easy DIY installation, Customize your light to suit any room or mood",
+      "mdes": "Converts conventional recessed lighting to energy saving LED technology, Easy DIY installation, Customize your light to suit any room or mood",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600"
+    },
+    {
+      "id": 169,
+      "heading": "Color Changing Smart Alexa Google",
+      "price": "2,050",
+      "sdes": "Converts conventional recessed lighting to energy saving LED technology",
+      "mdes": "Converts conventional recessed lighting to energy saving LED technology, Easy DIY installation, Customize your light to suit any room or mood",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600"
+    },
+    {
+      "id": 170,
+      "heading": "Color Changing Smart Alexa Google",
+      "price": "800",
+      "sdes": "Converts conventional recessed lighting to energy saving LED technology",
+      "mdes": "Converts conventional recessed lighting to energy saving LED technology, Easy DIY installation, Customize your light to suit any room or mood",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600"
+    },
+    {
+      "id": 171,
+      "heading": "Color Changing Alexa Google Siri Smart Wi-Fi",
+      "price": "850",
+      "sdes": "Convert old recessed lighting to energy-efficient LEDs",
+      "mdes": "Convert old recessed lighting to energy-efficient LEDs, Control lighting with simple voice commands using either Amazon Alexa or Google Assistant. Get creative with multiple light color options",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4-RGBW-AG-2024-05-06-main_large.jpg?v=1714977064"
+    },
+    {
+      "id": 172,
+      "heading": "Tethered J-Box Smart Canless LED Downlight",
+      "price": "700",
+      "sdes": "Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants",
+      "mdes": "Turn on/off and adjust lighting with your smart speaker or mobile device. Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants. Easy DIY installation without the need for smart hubs View More Product Details",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-RGBW-CA-AG-2024-05-26-main_large.jpg?v=1716697235"
+    },
+    {
+      "id": 173,
+      "heading": "Color Changing Smart Alexa Google",
+      "price": "2,050",
+      "sdes": "Converts conventional recessed lighting to energy saving LED technology",
+      "mdes": "Converts conventional recessed lighting to energy saving LED technology, Easy DIY installation, Customize your light to suit any room or mood",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600"
+    },
+    {
+      "id": 174,
+      "heading": "Tethered J-Box Smart Canless LED Downlight",
+      "price": "700",
+      "sdes": "Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants",
+      "mdes": "Turn on/off and adjust lighting with your smart speaker or mobile device. Compatible with Google Home, Amazon Alexa and Apple Siri voice assistants. Easy DIY installation without the need for smart hubs View More Product Details",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-RGBW-CA-AG-2024-05-26-main_large.jpg?v=1716697235"
+    }
+  ],
+  "feit_downlights_canless": [
+    {
+      "id": 191,
+      "heading": "Bright White (3000K) Integrated J-Box Canless",
+      "price": "700",
+      "sdes": "Integrated junction box for easy can-less installation",
+      "mdes": "Install recessed lighting in areas with low clearance or replace recessed cans with energy-saving LED fixtures with the LEDR56JBX/930 high-CRI recessed downlight from Feit Electric. This light features an integrated J-Box and built-in trim for installation directly into finished ceilings without recessed cans. It produces 800 lumens using only 12 watts - up to 84% less energy than an equivalent 75-watt incandescent light bulb. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more. Choose a California Title 24-certified recessed downlight for your residential or commercial needs.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR56JBX-930-2024-05-26-main.jpg?v=1716698165&width=1500"
+    },
+    {
+      "id": 192,
+      "heading": "Selectable White Tethered J-Box Adjustable Angle",
+      "price": "900",
+      "sdes": "LED technology uses 78% less power compared to equivalent incandescent lights",
+      "mdes": "Enjoy directional recessed lighting wherever you need it with the LEDR4XT/ADJ/6WYCA color-selectable 4-inch canless tethered adjustable recessed downlight from Feit Electric. This light features a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. Simply cut a hole in the drywall, connect, then push the spring-loaded clips through your hole for a secure fit. The springs will pull up on the fixture for an airtight seal. The low-profile design makes it the perfect option for low-clearance indoor and outdoor residential, and commercial applications with confined, hard-to-reach spaces such as closets, attics, bathrooms, hallways, stairwells, elevators, soffits, porches, and entryways. An innovative swivel gimbal mechanism allows directional focus to accent artwork, furniture or areas of the home. LED technology outputs 700 lumens of light while using only 11 watts - up to 78% less than an equivalent 50-watt incandescent. Preset your preferred color temperature on the fixture or adjust after install with a toggle of a standard wall switch: get warm, cool or daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-26-main.jpg?v=1716697139&width=1500"
+    },
+    {
+      "id": 193,
+      "heading": "Tethered J-Box Selectable White LED Downlight",
+      "price": "1,000",
+      "sdes": "90+ CRI makes colors appear vibrant and skin tones look more natural",
+      "mdes": "Install energy-saving LED recessed lighting anywhere with this 4-inch selectable white canless recessed downlight from Feit Electric. Innovative technology allows you to choose from five color temperatures, and change at any time with the flip of a light switch. Each downlight comes with a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable LED design produces 540 lumens using only 9 watts - up to 82% less energy than an equivalent 50-watt incandescent. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4XT-6WYCA-2024-05-26-main.jpg?v=1716697160&width=1500"
+    },
+    {
+      "id": 194,
+      "heading": "High Output Integrated J-Box",
+      "price": "700",
+      "sdes": "Integrated J-box eliminates the need for recessed can housing",
+      "mdes": "Install recessed lighting in areas with low clearance or replace recessed cans with energy-saving LED fixtures with the LEDR4HOJBX/6WYCA selectable white 4-inch canless recessed downlight from Feit Electric. This high-output light features an integrated J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable edge-lit design produces 850 lumens using only 12.5 watts - up to 83% less energy than an equivalent 75-watt incandescent. Preset your preferred color temperature on the fixture or adjust after installation with a toggle of a standard wall switch: get warm, cool, or daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4HOJBX-6WYCA-2024-05-26-main.jpg?v=1716697182&width=1500"
+    },
+    {
+      "id": 195,
+      "heading": "Selectable White (5CCT) Integrated J-box",
+      "price": "650",
+      "sdes": "Preset color temperature or adjust after install. Get warm, cool or daylight with a flip of a switch",
+      "mdes": "Install recessed lighting in areas with low clearance or replace recessed cans with energy-saving LED fixtures with 4-inch Selectable White Downlights from Feit Electric. These canless LED lights feature an integrated J-Box for installation directly into finished ceilings. No recessed cans are necessary. They come with a low-profile white trim and sleek edge-lit design that looks great in any space. Wago connectors and spring clips let you easily install in minutes. Selectable White downlights have 5 color temperatures in one fixture: 2700K/3000K/3500K/4000K/5000K. Choose between warm, cool, or daylight white on the fixture, or select Switch to adjust after installation. With Switch, you can toggle a standard wall switch to change color temperatures for the perfect mood in any room. Set the mood further with smooth, flicker-free dimmable lighting. Their 90+ CRI light makes colors appear more vibrant and skin tones look more natural. Each light produces 650 lumens using only 10 watts, for 80% less energy use than 50-watt incandescent bulbs. LEDR4JBX/6WYCA downlights are California Title 24-certified for the highest efficiency standards. Up to 50,000 hours of life/45.7 years without the hassle of replacing bulbs saves both time and money over the life of the fixture. Choose dependable, long-lasting recessed downlights for residential or commercial applications.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4JBX-6WYCA-2024-05-26-main.jpg?v=1716697209&width=1500"
+    },
+    {
+      "id": 196,
+      "heading": "Tethered J-Box Selectable White LED Downlight",
+      "price": "7,000",
+      "sdes": "90+ CRI makes colors appear vibrant and skin tones look more natural",
+      "mdes": "Install energy-saving LED recessed lighting anywhere with this 6-pack of selectable white 4-inch canless recessed downlights from Feit Electric. Innovative technology allows you to choose from five color temperatures, and change at any time with the flip of a light switch. Each downlight comes with a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable LED design produces 540 lumens using only 9 watts - up to 82% less energy than an equivalent 50-watt incandescent. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-6WYCA-6-2024-05-26-main_large.jpg?v=1716697265"
+    },
+    {
+      "id": 197,
+      "heading": "Tethered J-Box Selectable White With Night Light Mode",
+      "price": "950",
+      "sdes": "Integrated tethered J-box eliminates the need for recessed can housing",
+      "mdes": "Install energy-saving LED recessed lighting anywhere with the LEDR4XT/HO/NL/5CCTCA selectable white 4-inch canless recessed downlight from Feit Electric. This innovative recessed downlight features five selectable color temperatures and a 2200K warm color night light option. Each downlight comes with a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable LED design produces 850 lumens using only 14 watts - up to 81% less energy than an equivalent 75-watt incandescent. Preset your preferred color temperature using the toggle on the fixture, and go from regular lighting to night mode with just a flip of a standard light switch. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-HO-NL-5CCTCA-2024-05-26-main_large.jpg?v=1716697289"
+    },
+    {
+      "id": 198,
+      "heading": "Selectable White High Output Integrated J-Box",
+      "price": "700",
+      "sdes": "Dimmable design lets you create the right environment in any room",
+      "mdes": "Install recessed lighting in areas with low clearance or replace recessed cans with energy-saving LED fixtures with the LEDR56HOJBX/6WYCA selectable white 6-inch canless recessed downlight from Feit Electric. This light features an integrated J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable edge-lit design produces 1200 lumens using only 17 watts - up to 80% less energy than an equivalent 85-watt incandescent. Preset your preferred color temperature on the fixture or adjust after install with a toggle of a standard wall switch: get warm, cool or daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR56HOJBX-6WYCA-2024-05-26-main_large.jpg?v=1716697812"
+    },
+    {
+      "id": 199,
+      "heading": "Tethered J-Box Selectable White With Night Light Mode",
+      "price": "500",
+      "sdes": "Integrated tethered J-box eliminates the need for recessed can housing",
+      "mdes": "Install energy-saving LED recessed lighting anywhere with the LEDR6XT/HO/NL/5CCTCA selectable white 6-inch canless recessed downlight from Feit Electric. This innovative recessed downlight features five selectable color temperatures and a 2200K warm color night light option. Each downlight comes with a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable LED design produces 1200 lumens using only 17 watts - up to 80% less energy than an equivalent 85-watt incandescent. Preset your preferred color temperature using the toggle on the fixture, and go from regular lighting to night mode with just a flip of a standard light switch. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR6XT-HO-NL-5CCTCA-2024-05-26-main.jpg?v=1716697897&width=1500"
+    },
+    {
+      "id": 200,
+      "heading": "Color Selectable Integrated J-box Recessed Downlight",
+      "price": "2,000",
+      "sdes": "Integrated tethered J-box eliminates the need for recessed can housing",
+      "mdes": "Install energy-saving LED recessed lighting anywhere with the LEDR6XT/HO/NL/5CCTCA selectable white 6-inch canless recessed downlight from Feit Electric. This innovative recessed downlight features five selectable color temperatures and a 2200K warm color night light option. Each downlight comes with a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. A dimmable LED design produces 1200 lumens using only 17 watts - up to 80% less energy than an equivalent 85-watt incandescent. Preset your preferred color temperature using the toggle on the fixture, and go from regular lighting to night mode with just a flip of a standard light switch. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR56JBX-6WYCA-PS-2024-05-26-main.jpg?v=1716697566&width=1500"
+    }
+  ],
+  "feit_downlights_adjustable": [
+    {
+      "id": 201,
+      "heading": "Selectable White Adjustable Angle",
+      "price": "2,000",
+      "sdes": "6 in. Selectable White Adjustable Angle Recessed LED Downlight",
+      "mdes": "Convert your old recessed downlights to advanced LED energy-saving technology with the LEDR6XT/ADJ/6WYCA selectable white 6-inch canless recessed downlight from Feit Electric. This light features a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. An innovative swivel gimbal mechanism allows directional focus to accent artwork, furniture or areas of the home. LED technology outputs 850 lumens of light while using only 13 watts - up to 78% less than an equivalent 65-watt incandescent. Preset your preferred color temperature on the fixture or adjust after install with a toggle of a standard wall switch: get Soft White, Bright White, Neutral White, Cool White, or Daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR6XT-ADJ-6WYCA-2024-05-06-main.jpg?v=1714978012&width=1500"
+    },
+    {
+      "id": 202,
+      "heading": "Selectable White (5CCT) Tethered J-Box Adjustable Angle",
+      "price": "1,000",
+      "sdes": "4 in. 11W (50W Replacement) Recessed LED Downlight",
+      "mdes": "Enjoy directional recessed lighting wherever you need it with the LEDR4XT/ADJ/6WYCA color-selectable 4-inch canless tethered adjustable recessed downlight from Feit Electric. This light features a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. Simply cut a hole in the drywall, connect, then push the spring-loaded clips through your hole for a secure fit. The springs will pull up on the fixture for an airtight seal. The low-profile design makes it the perfect option for low-clearance indoor and outdoor residential, and commercial applications with confined, hard-to-reach spaces such as closets, attics, bathrooms, hallways, stairwells, elevators, soffits, porches, and entryways. An innovative swivel gimbal mechanism allows directional focus to accent artwork, furniture or areas of the home. LED technology outputs 700 lumens of light while using only 11 watts - up to 78% less than an equivalent 50-watt incandescent. Preset your preferred color temperature on the fixture or adjust after install with a toggle of a standard wall switch: get warm, cool or daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4XT-ADJ-6WYCA-2024-05-26-main.jpg?v=1716697139&width=1500"
+    },
+    {
+      "id": 203,
+      "heading": "Equivalent Bright White Adjustable LED Recessed Downlight",
+      "price": "2,000",
+      "sdes": "75W Equivalent Bright White 5/6 in. Adjustable LED Recessed Downlight",
+      "mdes": "Convert your current recessed lighting to energy saving LED with an Adjustable Head Enhance LED Downlight Retrofit Kit. Our high-powered LEDs with a 90+ CRI rating provide bolder color rendering and enhanced contrast . This kit will fit most 5 or 6 inch recessed cans, and comes with a standard base adapter and a pre-mounted trim for a hassle- free do-it-yourself installation. Ideal for residential use in kitchens, living rooms and dining rooms and for commercial use as general lighting in retail and hospitality spaces.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR56SCP-930CA-2024-05-10-main.jpg?v=1715385838&width=1500"
+    },
+    {
+      "id": 204,
+      "heading": "Equivalent Bright White Adjustable LED",
+      "price": "4,000",
+      "sdes": "65W Equivalent Bright White 4 in. Adjustable LED Recessed Downlight",
+      "mdes": "Convert your current recessed lighting to energy saving LED with the Feit Electric LEDR4SCP/950CA recessed downlight, featuring an adjustable head and a high CRI light. Our high-powered LEDs with a 90+ CRI rating provide bolder color rendering and enhanced contrast.  This kit will fit most 4 inch recessed cans and includes a standard base adapter and a pre-mounted trim for trouble-free do-it-yourself installation. Ideal for residential use in kitchens, living rooms and dining rooms and for commercial use as general lighting in retail and hospitality spaces. Choose a dependable Energy Star-approved recessed downlight for residential or commercial applications.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR4SCP-950CA-2024-05-10-main.jpg?v=1715386012&width=1500"
+    },
+    {
+      "id": 205,
+      "heading": "Daylight (5000K) Adjustable Head LED",
+      "price": "2,350",
+      "sdes": "5/6 in. 11.3W (75W Replacement) Daylight (5000K) Adjustable Head LED Recessed Downlight",
+      "mdes": "Convert your current recessed lighting to energy-saving LED with an Enhance LED Downlight Retrofit Kit. Our high-powered 850-lumen LEDs with a 90+ CRI rating provide bolder color rendering and enhanced. This kit will fit most 5 or 6-inch recessed cans and comes with a standard base adapter and a pre-mounted trim. This 5000K Daylight color temperature light is ideal for residential use in kitchens, living rooms, and dining rooms or for commercial use as general lighting in retail and hospitality spaces.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR56SCP-950CA-2024-05-10-main_large.jpg?v=1715386022"
+    },
+    {
+      "id": 206,
+      "heading": "Adjustable White Linear LED Canless",
+      "price": "3,800",
+      "sdes": "1 ft. 15W (75W Replacement) Adjustable White Linear LED Canless Recessed Downlight",
+      "mdes": "Rethink recessed light with Adjustable White Recessed LED downlights from Feit Electric. This 1-foot by 4-inch downlight installs directly into ceilings, no recessed can needed. Simply cut a hole to fit the light and run power. Its sleek, ultra-thin design seamlessly blends into any environment. With removable end trim and magnetic plates, you can mount multiple lights in a row. Create a continuous appearance that enhances the aesthetic of your space. Experience exceptional brightness with its 1000-lumen light output. The high Color Rendering Index (CRI) of 90 ensures accurate color representation, bringing out the true hues of your surroundings. 5 selectable white options offer a range of color temperatures (2700K, 3000K, 3500K, 4000K, and 5000K). Get the perfect color for your needs or match your current lighting. In Switch mode, you can change color temperatures to change the mood with the flip of a light switch. Adjust the light intensity according to your mood with full dimming. A tethered junction box and spring-loaded clips ensure easy installation. Whether upgrading your home, office, or commercial space, this downlight delivers both style and functionality. Upgrade your lighting experience with the LEDR12XT/6WYCA Recessed Downlight, and enjoy enhanced illumination in a sleek, customizable package.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR12XT-6WYCA-2024-05-26-main.jpg?v=1716696442&width=1500"
+    },
+    {
+      "id": 207,
+      "heading": "Adjustable White L-Shape Linear LED Canless",
+      "price": "4,200",
+      "sdes": "1 ft. x 1 ft. 30W (125W Replacement) Recessed Downlight",
+      "mdes": "Rethink recessed light with Adjustable White Recessed LED downlights from Feit Electric. This L-shaped downlight installs directly into ceilings, no recessed can needed. Simply cut a hole to fit the light and run power. Its sleek, ultra-thin design seamlessly blends into any environment. With removable end trim and magnetic plates, you can mount multiple lights in a row. Create a continuous appearance that enhances the aesthetic of your space. Experience exceptional brightness with its 2000-lumen light output. The high Color Rendering Index (CRI) of 90 ensures accurate color representation, bringing out the true hues of your surroundings. 5 selectable white options offer a range of color temperatures (2700K, 3000K, 3500K, 4000K, and 5000K). Get the perfect color for your needs or match your current lighting. In Switch mode, you can change color temperatures to change the mood with the flip of a light switch. Adjust the light intensity according to your mood with full dimming. A tethered junction box and spring-loaded clips ensure easy installation. Whether upgrading your home, office, or commercial space, this downlight delivers both style and functionality. Upgrade your lighting experience with the LEDR12LXT/6WYCA Recessed Downlight, and enjoy enhanced illumination in a sleek, customizable package.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR12LXT-6WYCA-2024-05-06-main_large.jpg?v=1714968880"
+    },
+    {
+      "id": 208,
+      "heading": "Adjustable White Linear LED Canless",
+      "price": "2,000",
+      "sdes": "3 ft. 45W (150W Replacement) Adjustable White Linear LED Canless Recessed Downlight",
+      "mdes": "Rethink recessed light with Adjustable White Recessed LED downlights from Feit Electric. This 3-foot by 4-inch downlight installs directly into ceilings, no recessed can needed. Simply cut a hole to fit the light and run power. Its sleek, ultra-thin design seamlessly blends into any environment. With removable end trim and magnetic plates, you can mount multiple lights in a row. Create a continuous appearance that enhances the aesthetic of your space. Experience exceptional brightness with its 3000-lumen light output. The high Color Rendering Index (CRI) of 90 ensures accurate color representation, bringing out the true hues of your surroundings. 5 selectable white options offer a range of color temperatures (2700K, 3000K, 3500K, 4000K, and 5000K). Get the perfect color for your needs or match your current lighting. In Switch mode, you can change color temperatures to change the mood with the flip of a light switch. Adjust the light intensity according to your mood with full dimming. A tethered junction box and spring-loaded clips ensure easy installation. Whether upgrading your home, office, or commercial space, this downlight delivers both style and functionality. Upgrade your lighting experience with the LEDR36XT/6WYCA Recessed Downlight, and enjoy enhanced illumination in a sleek, customizable package.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR36XT-6WYCA-2024-05-26-main_large.jpg?v=1716697000"
+    },
+    {
+      "id": 209,
+      "heading": "Equivalent Bright White Adjustable LED",
+      "price": "2,000",
+      "sdes": "75W Equivalent Bright White 5/6 in. Adjustable LED Recessed Downlight",
+      "mdes": "Convert your current recessed lighting to energy saving LED with an Adjustable Head Enhance LED Downlight Retrofit Kit. Our high-powered LEDs with a 90+ CRI rating provide bolder color rendering and enhanced contrast . This kit will fit most 5 or 6 inch recessed cans, and comes with a standard base adapter and a pre-mounted trim for a hassle- free do-it-yourself installation. Ideal for residential use in kitchens, living rooms and dining rooms and for commercial use as general lighting in retail and hospitality spaces.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR56SCP-930CA-2024-05-10-main.jpg?v=1715385838&width=1500"
+    },
+    {
+      "id": 210,
+      "heading": "Selectable White Adjustable Angle",
+      "price": "2,000",
+      "sdes": "6 in. Selectable White Adjustable Angle Recessed LED Downlight",
+      "mdes": "Convert your old recessed downlights to advanced LED energy-saving technology with the LEDR6XT/ADJ/6WYCA selectable white 6-inch canless recessed downlight from Feit Electric. This light features a tethered J-Box and built-in trim for installation directly into finished ceilings without recessed cans. An innovative swivel gimbal mechanism allows directional focus to accent artwork, furniture or areas of the home. LED technology outputs 850 lumens of light while using only 13 watts - up to 78% less than an equivalent 65-watt incandescent. Preset your preferred color temperature on the fixture or adjust after install with a toggle of a standard wall switch: get Soft White, Bright White, Neutral White, Cool White, or Daylight color light with just a flip. A 90+ CRI light makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more.",
+      "img": "https://www.feit.com/cdn/shop/files/LEDR6XT-ADJ-6WYCA-2024-05-06-main.jpg?v=1714978012&width=1500"
+    }
+  ],
+  "feit_string_smart": [
+    {
+      "id": 211,
+      "heading": "24-foot LED Smart String Light",
+      "price": "780",
+      "sdes": "24-foot LED Smart String Light",
+      "mdes": "Enhance your outdoor décor with the glow of color-changing Feit Electric LED Smart String Lights. Enjoy the best of both worlds with traditional filament bulbs that feature the latest smart technology. Use your favorite smart device to easily turn lights on/off, dim, and set groups and schedules from anywhere. Choose a cozy 2000K Amber glow or get creative with color, it’s all up to you. Control lighting with simple voice commands using a smart home assistant like Alexa or Google Home or use an intuitive mobile app. No hub is required and there are no subscription fees. Set up is simple: connect directly to your home Wi-Fi with a 2.4GHz network and control from anywhere in minutes. Lights can also be used without Wi-Fi with the included remote. Select from 8 color options and 5 festive preset color modes. Suitable for indoor or outdoor use and wet location rated, the string lights are made with a heavy-duty 18/5 cord and are engineered to withstand extreme temperatures and weather for year-round enjoyment. Each light set comes with 12 shatter-resistant bulbs and 2 replacement bulbs. Connect up to 23 sets end-to-end for larger spaces. Perfect for lighting gazebos, patios, restaurants, and more.",
+      "img": "https://www.feit.com/cdn/shop/files/SL24-12-RGBW-AG-2024-02-06-main.jpg?v=1707244995&width=1500"
+    },
+    {
+      "id": 212,
+      "heading": "24 ft. RGBW LED Smart String Light",
+      "price": "1,000",
+      "sdes": "24 ft. RGBW LED Smart String Light",
+      "mdes": "Enhance your outdoor décor with the magical glow of Smart LED String Lights from Feit Electric. Enjoy the best of both worlds with the traditional look of filament bulbs and the latest smart technology. Each 24-foot string of lights includes 12 shatter-resistant LED bulbs and two spares. Use the remote control, your favorite smart device and the Feit Electric app, or add an Alexa/Google assistant to easily turn lights on/off, dim, and set groups and schedules from anywhere. Choose a cozy 2000K amber warm white glow or get creative with millions of colors and 5 preset color modes. Setup is simple: connect directly to your home Wi-Fi using a 2.4GHz network. Suitable for indoor or outdoor use and wet location rated, SL24-12/RGBW/AG/RP string lights use a heavy-duty black 18/5 cord and are engineered to withstand extreme temperatures and weather for year-round enjoyment. Connect up to 23 sets end-to-end to light larger areas like gazebos, patios, restaurants, and more.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL24-12-RGBW-AG-RP-2024-05-10-main_large.jpg?v=1715386786"
+    },
+    {
+      "id": 213,
+      "heading": "50 ft. Smart Chasing Permanent Lights",
+      "price": "660",
+      "sdes": "50 ft. Smart Chasing Permanent Lights",
+      "mdes": "Get decorative outdoor lighting all year long with Smart Chasing Permanent Outdoor Lights from Feit Electric. The ultimate lighting solution for your outdoor space, these smart lights install around eaves to paint your home in rich color. Install them once and enjoy bright colors for holidays, events, and mood lighting for years to come. Use with or without Wi-Fi, with 8 built-in preset scenes and 75+ preset scenes in the app. Millions of customizable colors let you light up your entire home with a personalized touch. Control individual lights within the string, creating unique patterns and sequences. Set schedules and automate scenes to match your mood or routine effortlessly from the free Feit Electric app. Create longer lighting displays by adding the 16-foot extension (sold separately). This set installs in two ways: use the included heavy-duty 3M foam adhesive or screw into the mounting surface. Lights are IP67 outdoor rated, ensuring durability and water resistance. Enjoy seamless connectivity via 2.4 GHz Wi-Fi and Bluetooth, giving you complete control over your lights from your smartphone or tablet. Add voice control with Alexa and Google Assistant compatibility. With RGBIC technology, colors are vibrant and dynamic, allowing you to create captivating lighting displays. Available in 50-foot length with 16.8 inches between each LED. Smart Permanent Outdoor LED Lights are the epitome of enchanting outdoor lighting.",
+      "img": "https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-2024-05-06-main.jpg?v=1714976995"
+    },
+    {
+      "id": 214,
+      "heading": "24 ft. Color Changing Smart LED String Lights",
+      "price": "1,500",
+      "sdes": "24 ft. Color Changing Smart LED String Lights",
+      "mdes": "Enhance your outdoor décor with the enchanting glow of Color Changing Smart LED String Lights from Feit Electric. Enjoy the best of both worlds with a traditional string light look and smart technology. Perfect for lighting gazebos, patios, restaurants, and more, these lights work with or without Wi-Fi. Use the included RF remote control to change colors and brightness or select preset modes, even through walls. Or, connect to Wi-Fi and control using the Feit Electric app. No subscription fees or hubs needed. Easily turn lights on/off, adjust colors, dim, and set groups and schedules from anywhere. Choose an inviting white glow or get creative with millions of colors and preset color modes. Turn on music sync for lights that flash to the beat of your music (keep app open to music sync to continue syncing). Add voice control with Alexa/Google Assistant compatibility. Each 24-foot string of lights includes 12 shatter-resistant LED bulbs and two spares. Smart setup is simple: connect to your Wi-Fi using a 2.4GHz network in minutes. Wet location rated, LVSL24-12/RGBW/AG string lights use a heavy-duty black 18/5 cord. Transform your outdoor space with lighting that withstands tough weather for year-round enjoyment.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LVSL24-12-RGBW-AG-2024-05-06-main_large.jpg?v=1714971708"
+    },
+    {
+      "id": 215,
+      "heading": "16 ft. Extension for Smart Outdoor Lights",
+      "price": "2,000",
+      "sdes": "16 ft. Extension for Smart Chasing Permanent Outdoor Lights",
+      "mdes": "Extend your decorative outdoor lighting for even greater coverage with the 16-foot Smart Permanent Outdoor Light Extension from Feit Electric. The ultimate lighting solution for your outdoor space, this smart light extension attaches to SL50-36/RGB/AG permanent outdoor string lights (sold separately) to paint your home in rich color. Install them once and enjoy bright colors for holidays, events, and mood lighting for years to come. With dozens of preset scenes and millions of customizable colors, you can light up your entire home with a personalized touch. With RGBIC technology, colors are vibrant and dynamic, allowing you to create captivating lighting displays. Control individual lights within the string, creating unique patterns and sequences. Set schedules and automate scenes to match your mood or routine effortlessly from the free Feit Electric app. These lights are IP67 outdoor rated, ensuring durability and water resistance. Note: This extension must be used in connection with SL50-36/RGB/AG permanent outdoor lights. Package does not include a controller or accessories. Expand your Smart Permanent Outdoor LED Lights for a truly enchanting outdoor experience.",
+      "img": "https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-16EXT-2024-05-26-main.jpg?v=1716696725"
+    },
+    {
+      "id": 216,
+      "heading": "24 ft. Color Changing Smart LED String Lights",
+      "price": "1,500",
+      "sdes": "24 ft. Color Changing Smart LED String Lights",
+      "mdes": "Enhance your outdoor décor with the enchanting glow of Color Changing Smart LED String Lights from Feit Electric. Enjoy the best of both worlds with a traditional string light look and smart technology. Perfect for lighting gazebos, patios, restaurants, and more, these lights work with or without Wi-Fi. Use the included RF remote control to change colors and brightness or select preset modes, even through walls. Or, connect to Wi-Fi and control using the Feit Electric app. No subscription fees or hubs needed. Easily turn lights on/off, adjust colors, dim, and set groups and schedules from anywhere. Choose an inviting white glow or get creative with millions of colors and preset color modes. Turn on music sync for lights that flash to the beat of your music (keep app open to music sync to continue syncing). Add voice control with Alexa/Google Assistant compatibility. Each 24-foot string of lights includes 12 shatter-resistant LED bulbs and two spares. Smart setup is simple: connect to your Wi-Fi using a 2.4GHz network in minutes. Wet location rated, LVSL24-12/RGBW/AG string lights use a heavy-duty black 18/5 cord. Transform your outdoor space with lighting that withstands tough weather for year-round enjoyment.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LVSL24-12-RGBW-AG-2024-05-06-main_large.jpg?v=1714971708"
+    },
+    {
+      "id": 217,
+      "heading": "50 ft. Smart Chasing Permanent Lights",
+      "price": "660",
+      "sdes": "50 ft. Smart Chasing Permanent Lights",
+      "mdes": "Get decorative outdoor lighting all year long with Smart Chasing Permanent Outdoor Lights from Feit Electric. The ultimate lighting solution for your outdoor space, these smart lights install around eaves to paint your home in rich color. Install them once and enjoy bright colors for holidays, events, and mood lighting for years to come. Use with or without Wi-Fi, with 8 built-in preset scenes and 75+ preset scenes in the app. Millions of customizable colors let you light up your entire home with a personalized touch. Control individual lights within the string, creating unique patterns and sequences. Set schedules and automate scenes to match your mood or routine effortlessly from the free Feit Electric app. Create longer lighting displays by adding the 16-foot extension (sold separately). This set installs in two ways: use the included heavy-duty 3M foam adhesive or screw into the mounting surface. Lights are IP67 outdoor rated, ensuring durability and water resistance. Enjoy seamless connectivity via 2.4 GHz Wi-Fi and Bluetooth, giving you complete control over your lights from your smartphone or tablet. Add voice control with Alexa and Google Assistant compatibility. With RGBIC technology, colors are vibrant and dynamic, allowing you to create captivating lighting displays. Available in 50-foot length with 16.8 inches between each LED. Smart Permanent Outdoor LED Lights are the epitome of enchanting outdoor lighting.",
+      "img": "https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-2024-05-06-main.jpg?v=1714976995"
+    },
+    {
+      "id": 218,
+      "heading": "16 ft. Extension for Smart Outdoor Lights",
+      "price": "2,000",
+      "sdes": "16 ft. Extension for Smart Chasing Permanent Outdoor Lights",
+      "mdes": "Extend your decorative outdoor lighting for even greater coverage with the 16-foot Smart Permanent Outdoor Light Extension from Feit Electric. The ultimate lighting solution for your outdoor space, this smart light extension attaches to SL50-36/RGB/AG permanent outdoor string lights (sold separately) to paint your home in rich color. Install them once and enjoy bright colors for holidays, events, and mood lighting for years to come. With dozens of preset scenes and millions of customizable colors, you can light up your entire home with a personalized touch. With RGBIC technology, colors are vibrant and dynamic, allowing you to create captivating lighting displays. Control individual lights within the string, creating unique patterns and sequences. Set schedules and automate scenes to match your mood or routine effortlessly from the free Feit Electric app. These lights are IP67 outdoor rated, ensuring durability and water resistance. Note: This extension must be used in connection with SL50-36/RGB/AG permanent outdoor lights. Package does not include a controller or accessories. Expand your Smart Permanent Outdoor LED Lights for a truly enchanting outdoor experience.",
+      "img": "https://www.feit.com/cdn/shop/files/SL50-36-RGB-AG-16EXT-2024-05-26-main.jpg?v=1716696725"
+    }
+  ],
+  "feit_string_led": [
+    {
+      "id": 221,
+      "heading": "24-foot LED Smart String Light",
+      "price": "600",
+      "sdes": "24-foot LED Smart String Light",
+      "mdes": "schedules from anywhere. Choose a cozy 2000K Amber glow or get creative with color, it’s all up to you. Control lighting with simple voice commands using a smart home assistant like Alexa or Google Home or use an intuitive mobile app. No hub is required and there are no subscription fees. Set up is simple: connect directly to your home Wi-Fi with a 2.4GHz network and control from anywhere in minutes. Lights can also be used without Wi-Fi with the included remote. Select from 8 color options and 5 festive preset color modes. Suitable for indoor or outdoor use and wet location rated, the string lights are made with a heavy-duty 18/5 cord and are engineered to withstand extreme temperatures and weather for year-round enjoyment. Each light set comes with 12 shatter-resistant bulbs and 2 replacement bulbs. Connect up to 23 sets end-to-end for larger spaces. Perfect for lighting gazebos, patios, restaurants, and more.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL24-12-RGBW-AG-2024-02-06-main_large.jpg?v=1707244995"
+    },
+    {
+      "id": 222,
+      "heading": "30-Foot LED S14 Amber String Lights",
+      "price": "900",
+      "sdes": "30-Foot LED S14 Amber String Lights",
+      "mdes": "Turn up the comfort dial in any space with the Feit Electric SL30-15/FIL 30 Ft String Lights. These S14 String Light Bulbs give off a warm amber glow that creates the perfect atmosphere for gazebos, patios, pergolas and any other outdoor area where you can see gatherings and get togethers enhanced by a soft white glow. These String Lights are made with commercial-strength, heavy duty 18/2 cord that is built to withstand extreme temperatures and harsh environments making it the perfect lighting solution year round. Each 30-Foot String light set includes 15 light sockets which are distanced 2 feet apart with 15 decorative clear LED bulbs and 2 Spare Bulbs. The String-light set is designed to allow the entire chain to stay lit even if one bulb goes out. Choose a dependable energy efficient lighting solution set that’s simple to install and easy to extend up to 50 sets end to end safely to illuminate your space making it the next outdoor destination.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL30-15-FIL-2024-03-13-main_large.jpg?v=1710311323"
+    },
+    {
+      "id": 223,
+      "heading": "12 ft. Amber (1800K) Flame Effect LED String Lights",
+      "price": "850",
+      "sdes": "12 ft. Amber (1800K) Flame Effect LED String Lights",
+      "mdes": "Enhance your outdoor décor with the magical glow of SL12-6/FLAME Flame Effect LED string lights from Feit Electric. Six shatter-proof amber bulbs imitate a flame effect or glow soft white with the flip of a wall switch. Dual lighting mode allows a choice of either Soft White color temperature or a flame effect, with just a flip of a switch. IP65 rated and engineered with heavy-duty materials, these string lights are able to withstand extreme temperatures and weather for year-round enjoyment. Installation is easy, and up to 36 sets connect end-to-end safely so you can easily illuminate a variety of outdoor spaces.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL12-6-FLAME-2024-03-13-main_large.jpg?v=1710324271"
+    },
+    {
+      "id": 224,
+      "heading": "12 ft. LED Fence String Lights",
+      "price": "400",
+      "sdes": "12 ft. LED Fence String Lights",
+      "mdes": "Enhance outdoor spaces with drop-style SLM12-10/FIL LED String Lights from Feit Electric. Their bulbs give off an amber glow that enchants backyards, patios, and café sidewalks with even, soft light. This set is made with commercial-strength, heavy-duty 18/2 cord to withstand extreme temperatures and wet weather for year-round enjoyment. Each 12-foot set has 10 sockets with decorative filament LED bulbs arranged in a drop formation spread 3 feet apart. If one bulb goes out, the rest will remain lit. The cord features eyelets for easy hanging with screw hooks or temporary ties (sold separately). Create a charming atmosphere for your next celebration, festival, or outdoor event with Feit Electric LED string lights.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SLM12-10-FIL-2023-12-04-main_large.jpg?v=1701679514"
+    },
+    {
+      "id": 225,
+      "heading": "50 ft. 8000 Lumens ProSeries 5-Lamp Flood String LED Work Light",
+      "price": "900",
+      "sdes": "50 ft. 8000 Lumens ProSeries 5-Lamp Flood String LED Work Light",
+      "mdes": "Light up the worksite with the Feit Electric premium WORKSL50-5 high-output string work light. Designed for professional use, this item features a 50-foot heavy-duty 18/3 grounded power cord and five dimmable shatter-resistant LED light heads. They are wet rated, for use outdoors. Lamp heads are spaced 10 feet apart and each has its own carabiner clip for quick and easy setup. Each lamp head emits 1600 lumens, for a total of 8000 lumens. This string is dimmable with LED-compatible wall dimmers. Each work light string is linkable with up to 10 others, for greater area coverage or brighter illumination. These long-lasting LED lights are rated for 50,000 hours of life.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/WORKSL50-5-2023-12-12-main_large.jpg?v=1702380406"
+    },
+    {
+      "id": 226,
+      "heading": "24 ft. 12W Soft White (2200K) LED S14 String Lights",
+      "price": "1,000",
+      "sdes": "24 ft. 12W Soft White (2200K) LED S14 String Lights",
+      "mdes": "Turn on the wow factor in any outdoor space with Feit Electric SL24-12/FIL/REM LED String Lights. These string lights extend up to 24 feet in length and are illuminated by 12 1-watt S14 String Light Bulbs which give off a warm amber glow that creates the perfect atmosphere for gazebos, patios, pergolas, and other outdoor areas. Their 70-lumen output provides an inviting glow for barbecues, parties, birthdays, and other outdoor gatherings. These string lights are made with commercial-strength, heavy-duty 18/2 cord that is built to withstand extreme temperatures and harsh environments making it the perfect year-round lighting solution. Each 24-foot string light set includes 12 clear LED bulbs set 2 feet apart, and 2 spare bulbs. The set is designed to allow the entire chain to stay lit even if one bulb goes out. Choose a dependable energy-efficient lighting solution that is simple to install. Extend up to 29 sets end-to-end to illuminate your space, making it the next big outdoor destination just in time for cozy get-togethers.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL24-12-FIL-REM-2024-04-04-main_large.jpg?v=1712207343"
+    },
+    {
+      "id": 227,
+      "heading": "24 ft. 8W Color Changing LED String Lights",
+      "price": "2,100",
+      "sdes": "24 ft. 8W Color Changing LED String Lights",
+      "mdes": "Enhance any outdoor area with this 24 ft. LED color-changing string light from Feit Electric. Select between vintage white or red, blue, and green color lights on the controller box or with a wireless remote. Adjust the brightness level and color-changing speed. Each LED bulb uses just a single watt of electricity - for up to 91% less energy use than standard incandescent string lights. The set includes a 24-foot heavy-duty 18/2 black cord, with 12 light sockets and decorative clear LED bulbs set 2 feet apart. It comes with 2 spare replacement bulbs. Perfect for outdoor spaces like patios, gardens, cafes, and lounge areas, SL24-12/RGBW string lights are weather-resistant and durable. If one bulb goes out, the rest will remain lit. Connect up to 4 sets to cover larger spaces. These long-lasting LEDs have an average life of 25,000 hours/22.8 years. Get a dependable, durable Feit Electric string light set for your residential or commercial space.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL24-12-RGBW-2024-04-04-main_large.jpg?v=1712207356"
+    },
+    {
+      "id": 228,
+      "heading": "48ft LED Filament String Light White Cord",
+      "price": "1,500",
+      "sdes": "48ft LED Filament String Light White Cord",
+      "mdes": "Enhance your outdoor décor with the enchanting glow of Feit Electric 48-foot White Cord String Lights. Enjoy the best of both worlds with traditional-style filament bulbs and the latest energy-saving LED technology. These string lights emit a warm amber glow perfect for lighting gazebos, patios, restaurants and more. The set is rated to provide up to 13 years or 15,000 hours of illumination using only 24 watts of energy per set. Suitable for indoor or outdoor use and wet location rated, it is engineered with heavy-duty 16/3 cord to withstand extreme temperatures and weather for year-round enjoyment. Connect multiple sets end-to-end safely so you can easily illuminate a variety of outdoor spaces. Includes 24 single-watt bulbs and 2 extra replacement bulbs for added convenience.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/72121-2024-04-04-main_large.jpg?v=1712211275"
+    },
+    {
+      "id": 229,
+      "heading": "30 ft. Silver Wire Warm White LED Fairy String Light with Remote",
+      "price": "500",
+      "sdes": "30 ft. Silver Wire Warm White LED Fairy String Light with Remote",
+      "mdes": "Add a touch of magic to any room in the house with this LED fairy string light from Feit Electric. Powered by three AA batteries or USB, this 30-foot silver-wire strand creates a Warm White glow perfect for creating that cozy feel. Lightweight and flexible, it can accentuate any room in the house, or go into mason jars and lanterns for easy DIY outdoor ornaments. Use the included remote to turn the lights on or off, adjust the brightness, or select light modes like twinkling or glowing.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/FY30-100-WW-SLV-2024-03-13-main_large.jpg?v=1710311341"
+    },
+    {
+      "id": 230,
+      "heading": "30 ft. LED String Lights with Filament ST19 bulbs",
+      "price": "1,100",
+      "sdes": "30 ft. LED String Lights with Filament ST19 bulbs",
+      "mdes": "Bring the magical glow of string lights into your space and transform any space into a cozy summer getaway. Enhance your outdoor décor with the Feit Electric SL30-15/ST19/FIL String lights with 15 ST19 Filament style LED bulbs. Each standard E26 bulb uses only 6 watts of electricity and can output up to 400 lumens of 2100K Soft White light. Get the best of both worlds and introduce an energy-efficient glow into your space with up to 90% energy savings compared to equivalent incandescent lights. Each non-dimmable set is wet rated, for indoor or outdoor use. Lights are spaced 2 feet apart. Heavy-duty 18/2 cord withstands extreme temperatures and weather for year-round enjoyment. Perfect for patios, gazebos, restaurants, porches, perimeter lighting, and more. Connect up to 8 sets end to end safely to light up a variety of spaces. Includes 15 6-watt bulbs and 2 extra replacement bulbs for added convenience and peace of mind.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/SL30-15-ST19-FIL-2024-05-26-main_large.jpg?v=1716696671"
+    }
+  ],
+  "feit_string_fairy": [
+    {
+      "id": 231,
+      "heading": "6 ft. Copper Wire Fairy String Light",
+      "price": "650",
+      "sdes": "6 ft. Copper Wire Fairy String Light",
+      "mdes": "Add a touch of magic to any room in the house with this battery LED fairy string light stand from Feit Electric. Powered by two AA batteries, this 6 ft. copper-wire strand creates a Warm White glow perfect for creating that cozy feel. Lightweight and flexible, it can accentuate any room in the house or go into mason jars and lanterns for easy DIY outdoor ornaments.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/FY6-20-CPR-2024-04-04-main_large.jpg?v=1712213314"
+    },
+    {
+      "id": 232,
+      "heading": "6 ft. Silver Wire Fairy String Light",
+      "price": "450",
+      "sdes": "6 ft. Silver Wire Fairy String Light",
+      "mdes": "Add a touch of magic to any room in the house with this battery LED fairy string light stand from Feit Electric. Powered by two AA batteries, this 6 ft. silver-wire strand creates a Warm White glow perfect for creating that cozy feel. Lightweight and flexible, it can accentuate any room in the house or go into mason jars and lanterns for easy DIY outdoor ornaments.",
+      "img": "https://www.feit.com/cdn/shop/files/FY6-20-SLV-2024-04-04-main.jpg?v=1712213343&width=1500"
+    },
+    {
+      "id": 233,
+      "heading": "8 ft. Warm White (3000K) Fairy String Light Curtain",
+      "price": "800",
+      "sdes": "8 ft. Warm White (3000K) Fairy String Light Curtain",
+      "mdes": "Add a touch of magic to any room in the house with this LED fairy light curtain from Feit Electric. Twelve 5-foot long copper strands with embedded mini-LEDs descend from the 8 ft. wide wire to create a Warm White glow perfect for creating that cozy, enchanting feel. Lightweight and flexible, it can accent any room in the house or outdoor spaces. Use the included remote to turn the lights on or off, dim them up and down, or select light modes like twinkling or glowing.",
+      "img": "https://www.feit.com/cdn/shop/files/FY8-120-CURTAIN-2024-04-04-main.jpg?v=1712216888&width=1500"
+    },
+    {
+      "id": 234,
+      "heading": "30 ft. Cool White Silver Wire Fairy String Lights",
+      "price": "700",
+      "sdes": "30 ft. Cool White Silver Wire Fairy String Lights",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative silver wire light includes 100 mini lights. Its 6500K Cool White light is perfect for creating an invigorating, magical atmosphere. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing.",
+      "img": "https://www.feit.com/cdn/shop/files/FY30-100-CW-SLV-2024-04-04-main.jpg?v=1712208809&width=1500"
+    },
+    {
+      "id": 235,
+      "heading": "30 ft. Warm White Copper Wire Fairy String Lights",
+      "price": "950",
+      "sdes": "30 ft. Warm White Copper Wire Fairy String Lights",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY30-100-WW-CPR-2024-04-04-main.jpg?v=1712208825&width=1500"
+    },
+    {
+      "id": 236,
+      "heading": "30 ft. Rose Gold Wire Fairy String Lights",
+      "price": "700",
+      "sdes": "30 ft. Rose Gold Wire Fairy String Lights",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY30-100-WW-ROSE-2024-04-04-main.jpg?v=1712208846&width=1500"
+    },
+    {
+      "id": 237,
+      "heading": "30 ft. Silver Wire RGB Fairy String Light",
+      "price": "350",
+      "sdes": "30 ft. Silver Wire RGB Fairy String Light",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY30-100-RGB-SLV-2024-04-04-main.jpg?v=1712208862&width=1500"
+    },
+    {
+      "id": 238,
+      "heading": "6 ft. Silver Wire Fairy String Light (6-Pack)",
+      "price": "800",
+      "sdes": "6 ft. Silver Wire Fairy String Light (6-Pack)",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY6-20-SLV-6-2024-05-10-main.jpg?v=1715386562&width=1500"
+    },
+    {
+      "id": 239,
+      "heading": "10 ft. Warm White (3000K) USB & Battery Copper Wire",
+      "price": "1,000",
+      "sdes": "10 ft. Warm White (3000K) USB & Battery Copper Wire Fairy String Light",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY10-30-USB-CPR-2024-05-10-main.jpg?v=1715386584&width=1500"
+    },
+    {
+      "id": 240,
+      "heading": "10 ft. Cool White (6500K) Silver Wire Fairy String Light",
+      "price": "250",
+      "sdes": "10 ft. Cool White (6500K) Silver Wire Fairy String Light",
+      "mdes": "Add a touch of magic to any room in the house with Feit Electric’s LED fairy string lights. Powered by three AA batteries (not included), this 30 ft. decorative rose gold wire light includes 100 mini lights. Its 3000K Warm White light is perfect for creating an inviting feeling. Lightweight and flexible, it accentuates any room in the house. Place it in mason jars and lanterns for easy DIY outdoor ornaments. The included remote turns the lights on or off, adjusts brightness, or selects light modes like twinkling or glowing..",
+      "img": "https://www.feit.com/cdn/shop/files/FY10-30-USB-CW-SLV-2024-05-10-main.jpg?v=1715386615&width=1500"
+    }
+  ],
   "feit_fixtures_security": [],
   "feit_fixtures_flatpanel": [],
   "feit_fixtures_bath": []

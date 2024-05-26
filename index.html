@@ -155,7 +155,11 @@
                 <div class="btn-group">
                     <a href="#" class="cart text-dark pe-4 fs-5" data-bs-toggle="offcanvas"
                         data-bs-target="#ShoppingCart" aria-controls="ShoppingCart"><i
-                            class="fa-solid fa-cart-shopping text-success"></i></a>
+                            class="fa-solid fa-cart-shopping text-success"></i>
+                            <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger cartcounting" style="left: 70%;font-size: 10px;">
+                               
+                            </span>
+                        </a>
                 </div>
             </div>
 
@@ -257,7 +261,7 @@
                 <div class="offcanvas-body">
                 <div class="container-fluid">
                     <div class="row" id="ShoppingCartBody">
-                
+                <h5 class="text-center text-danger">No items in your cart</h5>
                     </div>
                 </div>
                 </div>
@@ -280,7 +284,7 @@
                     Upto <span class="span2">50%</span> Off
                 </h1>
                 <p class="text-white">On Every Rs 9,999 Spent</p>
-                <button class="btn btn-outline-light" style="box-shadow: 2px 2px black;">Visit Gallery</button>
+                <a class="btn btn-outline-light" href="/Gallery/index.html" style="box-shadow: 2px 2px black;">Visit Gallery</a>
 
             </div>
         </div>
@@ -288,7 +292,7 @@
     <!-- header end -->
     <!-- category cart start -->
     <div class="container-fluid">
-        <div class="container p-5 border">
+        <div class="container p-5 border-bottom">
             <h1 class="text-center fw-bold" style="letter-spacing: 5px;">Top Brands</h1>
         </div>
         <div class="container p-5">
