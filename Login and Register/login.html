@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <script src="sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="sweetalert2.min.css">
 
 </head>
 
@@ -54,6 +56,7 @@
         </div>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script>
         let SignUp = document.querySelector(".signupbtn");
         let SignIn = document.querySelector(".signinbtn");
@@ -107,40 +110,59 @@
         submit_up.addEventListener('click', (e) => {
             e.preventDefault()
             if (input_Name.value == "") {
-                alert("Please fill all the fields");
+                Swal.fire({
+                icon: "error",
+               title: "fill the input fields",
+               text: "Something went wrong!",
+               });;
                 return false;
             }
-            if (!input_Name.value.match(/^[a-zA-Z\s]+$/)) {
-                alert("Name can only contain letters and spaces");
+            if (!input_Name.value.match(/^[a-zA-Z]+$/)) {
+                Swal.fire({
+                icon: "error",
+               title: "Name can only contain letters and spaces",
+               text: "Something went wrong!",
+               });;
                 return false;
             }
             if (input_Email.value == "" || input_Password.value == "") {
-                alert("Please fill all the fields");
+                Swal.fire({
+                icon: "error",
+               title: "fill the input fields",
+               text: "Something went wrong!",
+               });;
                 return false;
             }
 
 
-            if (!input_Email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
-                alert("Please enter a valid email address");
+            if (!input_Email.value.match(/[A-z0-9]+[@]+[a-z]{5}[.]+[a-z]{3}/)) {
+                Swal.fire({
+                icon: "error",
+               title: "Please enter a valid email address",
+               text: "Something went wrong!",
+               });;;
                 return false;
             }
             // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
             if (input_Password.value.length < 8) {
-                alert("Password must be at least 8 characters long");
+                Swal.fire({
+                icon: "error",
+               title: "Password Must be 8 Characters Atleast",
+               text: "Something went wrong!",
+               });;;
                 return false;
             }
             if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
-                alert("Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character");
+                Swal.fire({
+                icon: "error",
+               title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
+               text: "Something went wrong!",
+               });;
                 return false;
             }
 
             fetch(url)
-                .then(res => {
-                    if (!res.ok) {
-                        console.error("could not fetch the data for that resource")
-                    }
-                    return res.json()
-                }
+                .then(res => res.json()
                 )
                 .then(data => {
                     function check() {
@@ -153,7 +175,11 @@
                     }
                     console.log(check())
                     if (check() == true) {
-                        alert("Email already exists");
+                        Swal.fire({
+                icon: "error",
+               title: "Email Already Exist",
+               text: "Something went wrong!",
+               });;
                     } else {
                         fetch(url, {
                             method: "POST",
@@ -166,7 +192,11 @@
                                 password: input_Password.value
                             })
                         })
-                        alert("Registration successful!");
+                        Swal.fire({
+  title: "Good job!",
+  text: "Registration Sucessfull!",
+  icon: "success"
+});
                         document.location.reload();
                     }
 
@@ -176,31 +206,43 @@
         submit_in.addEventListener('click', (e) => {
             e.preventDefault()
             if (input_Email.value == "" || input_Password.value == "") {
-                alert("Please fill all the fields");
-                return false;
+                Swal.fire({
+                icon: "error",
+               title: "fill the input fields",
+               text: "Something went wrong!",
+               });;
+                   return false;
             }
 
 
-            if (!input_Email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/)) {
-                alert("Please enter a valid email address");
+            if (!input_Email.value.match(/[A-z0-9]+[@]+[a-z]{5}[.]+[a-z]{3}/)) {
+                Swal.fire({
+                icon: "error",
+               title: "Please enter a valid email address",
+               text: "Something went wrong!",
+               });;
                 return false;
             }
             // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
             if (input_Password.value.length < 8) {
-                alert("Password must be at least 8 characters long");
+                Swal.fire({
+                icon: "error",
+               title: "Password must be at least 8 characters long",
+               text: "Something went wrong!",
+               });
                 return false;
             }
             if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
-                alert("Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character");
+                Swal.fire({
+                icon: "error",
+               title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
+               text: "Something went wrong!",
+               });
                 return false;
             }
             fetch(url)
-                .then(res => {
-                    if (!res.ok) {
-                        console.error("could not fetch the data for that resource")
-                    }
-                    return res.json()
-                })
+                .then(res =>res.json()
+                )
                 .then(data => {
                     function checkemail() {
                         for (var i in data) {
@@ -222,14 +264,27 @@
                             return false
                         }
                         if (checkpassword() == true) {
-                            alert("Login successful!");
+                            Swal.fire({
+  title: "Good job!",
+  text: "Login successful!",
+  icon: "success"
+});
                             window.location.assign("/index.html")
 
                         } else {
-                            alert("Password is incorrect!");
+                            Swal.fire({
+                icon: "error",
+               title: "Password is incorrect!",
+               text: "Something went wrong!",
+               });
                         }
                     } else {
-                        alert("Email does not exist! Please Sign Up");
+                        Swal.fire({
+                icon: "error",
+               title: "Email does not exist! Please Sign Up",
+               text: "Something went wrong!",
+               });
+                        
                     }
                 })
         });
