@@ -26,34 +26,6 @@ document.querySelector(".box2").addEventListener("click", () => {
 document.querySelector(".box3").addEventListener("click", () => {
   color_change_img.src = "/Images/color_change_slider/slider3.webp";
 });
-// owl slider
-
-$(document).ready(function () {
-  $(".owl-carousel").owlCarousel({
-    loop: true,
-    center: true,
-    margin: 15,
-    nav: false,
-    dots: true,
-    dotsEach: true,
-    autoplay: true,
-    autoplayTimeout: 2000,
-    autoplayHoverPause: false,
-    URLhashListener: true,
-    startPosition: "URLHash",
-    responsive: {
-      0: {
-        items: 1,
-      },
-      600: {
-        items: 3,
-      },
-      1000: {
-        items: 3,
-      },
-    },
-  });
-});
 
 //  add to cart
 let json_url =
@@ -62,11 +34,16 @@ fetch(json_url)
   .then((res) => res.json())
   .then((data) => {
     var cartcount = 0;
+    var totalprice = 0;
     for (i in data) {
       var quantity = parseInt(data[i].quantity);
       cartcount = cartcount + quantity;
+      var tprice = parseInt(data[i].price);
+      totalprice = totalprice + tprice * quantity;
     }
     document.querySelector(".cartcounting").innerHTML = cartcount;
+
+    document.querySelector(".totalamount").innerHTML = totalprice;
 
     var main = "";
     for (i in data) {
@@ -123,4 +100,4 @@ fetch(json_url)
 
 setTimeout(() => {
   document.querySelector("#spinloader").style.display = "none";
-}, 3000);
+}, 2000);

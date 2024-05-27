@@ -188,4 +188,4 @@ fetch("/Json/fetch.json")
     });
     setTimeout(() => {
       document.querySelector("#spinloader").style.display = "none";
-    }, 3000);
+    }, 2000);

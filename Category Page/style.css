@@ -65,3 +65,10 @@ footer .container-fluid{
 #cardmain:hover .card-title{
   color: green !important;
 }
+.feedbackbox{
+  padding: 25px 10px 25px 10px;
+  transition: all 0.5s ease-in-out;
+}
+.feedbackbox:hover{
+  padding: 25px 20px 25px 20px;
+}

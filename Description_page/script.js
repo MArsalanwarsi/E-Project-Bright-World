@@ -159,4 +159,4 @@ document.querySelector("#buy").addEventListener("click", () => {
 });
 setTimeout(() => {
   document.querySelector("#spinloader").style.display = "none";
-}, 3000);
+}, 2000);

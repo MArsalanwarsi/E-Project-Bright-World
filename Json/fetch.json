@@ -1897,7 +1897,88 @@
       "img": "https://www.feit.com/cdn/shop/files/FY10-30-USB-CW-SLV-2024-05-10-main.jpg?v=1715386615&width=1500"
     }
   ],
-  "feit_fixtures_security": [],
+  "feit_fixtures_security": [
+    {
+      "id": 241,
+      "price": "1,200",
+      "heading": "1000 Lumen Solar Powered LED Security light (2 Pack)",
+      "sdes": "1000 Lumen Solar Powered LED Security light (2 Pack)",
+      "mdes": "Have piece of mind while keeping your home safe and secure with the SV1000/2/RP Solar Powered LED Security Lights. This 1000 Lumen 2 Pack comes with everything you need you to get started with no power or wiring required. The lights are rated with an average life span of about 50,000 hours and can output 5000k Daylight. The integrated Dusk to Dawn Sensor can automatically turn off the light as soon as the day begins and turn it on just as the darkness sets in. You can set the Solar Security Light to turn on automatically when motion is detected (1,000 Lumens for 1 minute) or have a continuous 100 lumen light with 1,000 lumens for 20 seconds when motion is triggered. Choose a dependable high output solar powered 2 pack to keep your residence safe.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/products/SV1000-2-RP-main_large.jpg?v=1677129922"
+    },
+    {
+      "id": 242,
+      "price": "1,450",
+      "heading": "128W 10000 Lumens Daylight (5000K) Area Light, Stainless Steel Finish",
+      "sdes": "128W 10000 Lumens Daylight (5000K) Area Light, Stainless Steel Finish",
+      "mdes": "Save energy while adding style to your space with the high-performance S13AREA/850/DD/SS/V1 LED Area Light from Feit Electric. This powerful light is ideal for parking lots, garages, barns, and more. Its stainless steel finish complements any design style. High-output LEDs emit 10000 lumens using only 128 watts. Built to withstand high temperatures and harsh conditions, it has an all-weather aluminum housing and an impact-resistant polycarbonate lens. Its rugged corrosion-resistant housing provides IP65 water and dust resistance, ideal for outdoor installation. The 13-inch round area light features a built-in dusk-to-dawn photocell sensor. It automatically shuts off during daylight hours, adding to energy savings and convenience. Daylight 5000K light provides cool, invigorating light ideal for seeing objects in detail. Integrated LEDs eliminate the hassle of replacing bulbs and last 50,000 hours. Install this versatile light in two ways. Pole-mount it or mount it onto a wall. Mounting hardware is included.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S13AREA-850-DD-SS-V1-2024-03-13-main_large.jpg?v=1710304660"
+    },
+    {
+      "id": 243,
+      "price": "1,650",
+      "heading": "1600 Lumen 5000K LED Dusk to Dawn Flood Light",
+      "sdes": "1600 Lumen 5000K LED Dusk to Dawn Flood Light",
+      "mdes": "A must-have for industry professionals, Feit Electric's Pro Series S4.5CSFL/850/BZ Commercial Flood Light combines commercial-grade durability and superior performance. Housed in all-weather die cast aluminum and durable polycarbonate glass, this fixture is built to withstand harsh conditions. New Dusk To Dawn feature turns your lights on at night, and off during the day automatically. Illuminates large parking, loading or doorway areas with 1600 lumens while using only 15 watts. A 90° adjustable head lets you direct light where you need it. Integrated LED technology eliminates the hassle of replacing bulbs, and lasts 50,000 hours.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/products/S4.5CSFL-850-BZ-main_large.jpg?v=1679028240"
+    },
+    {
+      "id": 244,
+      "price": "1,150",
+      "heading": "28W Bronze Outdoor Integrated LED Flood Light",
+      "sdes": "28W Bronze Outdoor Integrated LED Flood Light",
+      "mdes": "The Feit Electric S9DFL/850/BZ/V1 Dual Head Flood Light provides added function to any exterior residential or commercial area. This 5000K Daylight LED is wall or eave mountable. Its tool-free, self-locking adjustable heads rotate for lighting right where you need it. Sturdy construction along with a UV-protected shatter-resistant lens also provides enhanced durability to ensure long life for the fixture. LED technology offers evenly distributed 2000 lumens of light with average life of 50,000 hours/17 years.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S9DFL-850-BZ-V1-2024-05-06-main_large.jpg?v=1714972135"
+    },
+    {
+      "id": 245,
+      "price": "1,850",
+      "heading": "28W Bronze Outdoor Integrated LED Flood Light with Motion Sensor",
+      "sdes": "28W Bronze Outdoor Integrated LED Flood Light with Motion Sensor",
+      "mdes": "Keep your home safe and secure with the Feit Electric S9DFL/850/MOT/BZ motion-sensing dual-head flood light. Integrated sensors turn lights on automatically when detecting motion from up to 19 feet away. Rugged weather-resistant housing stands up to the elements while twin extra-bright 2000 lumen lamps keep the surrounding area well illuminated. Great for outdoor use as a preventative measure against trespassers or indoor as an easy hands-free way to light up a space as you walk by.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S9DFL-850-MOT-BZ-2024-05-06-main_large.jpg?v=1714972198"
+    },
+    {
+      "id": 246,
+      "price": "1,650",
+      "heading": "28W White Outdoor Dual Head Integrated LED Flood Light",
+      "sdes": "28W White Outdoor Dual Head Integrated LED Flood Light",
+      "mdes": "The Feit Electric S9DFL/850/WH LED Dual Head Flood Light provides added outside security lighting to any residential or commercial area. This 5000K Daylight LED is wall or eave mountable. Super bright, long-lasting LEDs are integrated into the fixture so there are no bulbs to replace. Its tool-free, self-locking adjustable heads rotate for lighting right where you need it. Sturdy construction and a UV-protected shatter-resistant lens also provide enhanced durability to ensure long life for the fixture. This Flood Light has dependable life of 50,000 hours. These outdoor security lights are weather & rust resistant, easily wall-mounted, and deliver welcoming, safe and reliable exterior lighting.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S9DFL-850-WH-2024-05-20-main_large.jpg?v=1716178742"
+    },
+    {
+      "id": 247,
+      "price": "1,650",
+      "heading": "3000 Lumens Dual Head Dusk to Dawn LED Security Light",
+      "sdes": "3000 Lumens Dual Head Dusk to Dawn LED Security Light",
+      "mdes": "The Feit Electric S10DFL/3WY/DD/SS Dual Head LED Security Flood Light with selectable color temperatures provides added outside security lighting to any residential or commercial area. Super bright, long-lasting LEDs are integrated into the fixture so there are no bulbs to replace, and the adjustable lamp head allows you to direct light where you need it. Flip a switch on the back of the fixture to adjust the color temperature to your needs: toggle once for warm white, twice for bright white and three times for daylight. A built-in photocell sensor allows the fixture to automatically turn on at dusk and off at dawn, which adds to overall energy savings. Rugged cast aluminum corrosion-resistant housing is ideal for outdoor installation and has a dependable 50,000-hour life. These outdoor lights have the look of nickel without the cost and can be easily wall or eave-mounted to deliver welcoming, safe and reliable exterior lighting.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S10DFL-3WY-DD-SS-2024-04-04-main_large.jpg?v=1712208987"
+    },
+    {
+      "id": 248,
+      "price": "1,150",
+      "heading": "3500 Lumens 5000K Dusk to Dawn Yard Light",
+      "sdes": "3500 Lumens 5000K Dusk to Dawn Yard Light",
+      "mdes": "The Feit Electric 13 inch LED Yard Dusk to Dawn Light Fixture with stainless steel finish provides function and beauty to any exterior residential or commercial area. With instant on full brightness, the 5000K natural daylight LED is integrated directly into the fixture. The Dusk to Dawn feature automatically turns on at dusk and off at dawn, which adds to overall energy savings. It's sturdy construction along with UV protected shatter resistant lens provides enhanced durability to ensure the long life of the fixture and is also weather / rust resistant, and wall or post mountable. Our LED light fixtures are Energy Star® approved, produces even light distribution of 3500 lumens and have an average life of 50,000 hours/17 years delivering reliable security lighting.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/products/73709-main_large.jpg?v=1679028385"
+    },
+    {
+      "id": 249,
+      "price": "1,890",
+      "heading": "40W 3700 Lumen Daylight (5000K) Security LED Wall Pack",
+      "sdes": "40W 3700 Lumen Daylight (5000K) Security LED Wall Pack",
+      "mdes": "Energy-saving LED technology meets timeless style with the Feit Electric S8WPK/850/DD/BZ LED Wall Pack Security Light. This outdoor wall light features a contemporary design with a bronze finish. Complement the look of any residential or commercial space. It provides even outward light in walkways, driveways, parking lots, and patios. This durable wall mount fixture has an all-weather aluminum housing and an impact-resistant lens. It withstands both high temperatures and harsh conditions for year-round outdoor use. Its 5000K Daylight glow provides cool light ideal for seeing objects in detail. Energy-efficient LEDs emit 3700 lumens using only 40 watts. It features a built-in dusk-to-dawn photocell sensor. The light automatically shuts off during daylight hours, adding energy savings and convenience. For manual on/off functions, dusk to dawn can be overridden with an included sensor cover. Installation takes only minutes with the included mounting hardware. End the hassle of replacing bulbs and get up to 50,000 hours of light with integrated-LED wall lights.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S8WPK-850-DD-BZ-2024-05-06-main_large.jpg?v=1714973551"
+    },
+    {
+      "id": 250,
+      "price": "1,980",
+      "heading": "5 in. 8W Dusk to Dawn LED Wall Light, Bronze",
+      "sdes": "5 in. 8W Dusk to Dawn LED Wall Light, Bronze",
+      "mdes": "The Feit Electric S5SQWM830/DD/BZ Square LED Wall Mount light offers a sleek appearance and modern energy savings. This LED outdoor wall fixture emits 3000K Warm White light. It turns on to full brightness instantly, with no warm-up time. Get inviting light for apartment complexes, walkways, common areas, parks, hotels, and more. The dusk-to-dawn feature turns your lights on at night and off during the day, for added convenience and energy savings. It is ideal for both residential and commercial applications. Light up entrances, patios, parking lots, outlet exteriors, and storage areas. The dusk-to-dawn sensor ensures you never worry about turning lights on and off at the switch. Installation for this hardwired wall mount fixture is easy and includes mounting hardware. Energy-saving integrated LEDs provide maintenance-free use for up to 50,000 hours. Illuminate your space with a dependable light that is both energy efficient and stylish.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S5SQWM-830-DD-BZ-2024-01-04-main_large.jpg?v=1704404818"
+    }
+  ],
   "feit_fixtures_flatpanel": [],
   "feit_fixtures_bath": []
 }

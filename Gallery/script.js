@@ -85,7 +85,7 @@ fetch(json_url)
 
 setTimeout(() => {
   document.querySelector("#spinloader").style.display = "none";
-}, 3000);
+}, 2000);
 let fetchurl = "/Json/fetch.json";
 fetch(fetchurl)
   .then((res) => res.json())

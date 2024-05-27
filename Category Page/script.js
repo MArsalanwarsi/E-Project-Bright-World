@@ -118,4 +118,4 @@ fetch("/Json/category.json")
     });
     setTimeout(() => {
       document.querySelector("#spinloader").style.display = "none";
-    }, 3000);
+    }, 2000);
