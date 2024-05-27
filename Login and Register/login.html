@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <script src="sweetalert2.all.min.js"></script>
-    <link rel="stylesheet" href="sweetalert2.min.css">
 
 </head>
 
@@ -111,53 +109,53 @@
             e.preventDefault()
             if (input_Name.value == "") {
                 Swal.fire({
-                icon: "error",
-               title: "fill the input fields",
-               text: "Something went wrong!",
-               });;
+                    icon: "error",
+                    title: "Fill the input fields",
+
+                });;
                 return false;
             }
             if (!input_Name.value.match(/^[a-zA-Z]+$/)) {
                 Swal.fire({
-                icon: "error",
-               title: "Name can only contain letters and spaces",
-               text: "Something went wrong!",
-               });;
+                    icon: "error",
+                    title: "Name can only contain letters and spaces",
+
+                });;
                 return false;
             }
             if (input_Email.value == "" || input_Password.value == "") {
                 Swal.fire({
-                icon: "error",
-               title: "fill the input fields",
-               text: "Something went wrong!",
-               });;
+                    icon: "error",
+                    title: "Fill the input fields",
+
+                });;
                 return false;
             }
 
 
             if (!input_Email.value.match(/[A-z0-9]+[@]+[a-z]{5}[.]+[a-z]{3}/)) {
                 Swal.fire({
-                icon: "error",
-               title: "Please enter a valid email address",
-               text: "Something went wrong!",
-               });;;
+                    icon: "error",
+                    title: "Please enter a valid email address",
+
+                });;;
                 return false;
             }
             // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
             if (input_Password.value.length < 8) {
                 Swal.fire({
-                icon: "error",
-               title: "Password Must be 8 Characters Atleast",
-               text: "Something went wrong!",
-               });;;
+                    icon: "error",
+                    title: "Password Must be 8 Characters Atleast",
+
+                });;;
                 return false;
             }
             if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
                 Swal.fire({
-                icon: "error",
-               title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
-               text: "Something went wrong!",
-               });;
+                    icon: "error",
+                    title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
+
+                });;
                 return false;
             }
 
@@ -176,10 +174,10 @@
                     console.log(check())
                     if (check() == true) {
                         Swal.fire({
-                icon: "error",
-               title: "Email Already Exist",
-               text: "Something went wrong!",
-               });;
+                            icon: "error",
+                            title: "Email Already Exist",
+
+                        });;
                     } else {
                         fetch(url, {
                             method: "POST",
@@ -193,11 +191,13 @@
                             })
                         })
                         Swal.fire({
-  title: "Good job!",
-  text: "Registration Sucessfull!",
-  icon: "success"
-});
-                        document.location.reload();
+                            title: "Registration Sucessfull!",
+                            icon: "success"
+                        });
+                        setTimeout(() => {
+                            document.location.reload();
+                        }, 1500);
+
                     }
 
                 })
@@ -207,42 +207,41 @@
             e.preventDefault()
             if (input_Email.value == "" || input_Password.value == "") {
                 Swal.fire({
-                icon: "error",
-               title: "fill the input fields",
-               text: "Something went wrong!",
-               });;
-                   return false;
+                    icon: "error",
+                    title: "Fill the input fields",
+
+                });;
+                return false;
             }
 
 
             if (!input_Email.value.match(/[A-z0-9]+[@]+[a-z]{5}[.]+[a-z]{3}/)) {
                 Swal.fire({
-                icon: "error",
-               title: "Please enter a valid email address",
-               text: "Something went wrong!",
-               });;
+                    icon: "error",
+                    title: "Please enter a valid email address",
+
+                });;
                 return false;
             }
             // password shord have 1 number 1 capital letter 1 special character and should be min 8 characters
             if (input_Password.value.length < 8) {
                 Swal.fire({
-                icon: "error",
-               title: "Password must be at least 8 characters long",
-               text: "Something went wrong!",
-               });
+                    icon: "error",
+                    title: "Password must be at least 8 characters long",
+
+                });
                 return false;
             }
             if (!input_Password.value.match(/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).{8,}$/)) {
                 Swal.fire({
-                icon: "error",
-               title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
-               text: "Something went wrong!",
-               });
+                    icon: "error",
+                    title: "Password must contain at least one number, one uppercase letter, one lowercase letter, and one special character",
+
+                });
                 return false;
             }
             fetch(url)
-                .then(res =>res.json()
-                )
+                .then(res => res.json())
                 .then(data => {
                     function checkemail() {
                         for (var i in data) {
@@ -265,26 +264,28 @@
                         }
                         if (checkpassword() == true) {
                             Swal.fire({
-  title: "Good job!",
-  text: "Login successful!",
-  icon: "success"
-});
-                            window.location.assign("/index.html")
+                                title: "Login successful!",
+                                icon: "success"
+                            });
+                            setTimeout(() => {
+                                window.location.assign("/index.html")
+                            }, 1500);
+
 
                         } else {
                             Swal.fire({
-                icon: "error",
-               title: "Password is incorrect!",
-               text: "Something went wrong!",
-               });
+                                icon: "error",
+                                title: "Password is incorrect!",
+
+                            });
                         }
                     } else {
                         Swal.fire({
-                icon: "error",
-               title: "Email does not exist! Please Sign Up",
-               text: "Something went wrong!",
-               });
-                        
+                            icon: "error",
+                            title: "Email does not exist! Please Sign Up",
+
+                        });
+
                     }
                 })
         });

@@ -23,11 +23,16 @@ fetch(json_url)
   .then((res) => res.json())
   .then((data) => {
     var cartcount = 0;
+    var totalprice = 0;
     for (i in data) {
       var quantity = parseInt(data[i].quantity);
       cartcount = cartcount + quantity;
+      var tprice = parseInt(data[i].price);
+      totalprice = totalprice + tprice * quantity;
     }
     document.querySelector(".cartcounting").innerHTML = cartcount;
+
+    document.querySelector(".totalamount").innerHTML = totalprice;
 
     var main = "";
     for (i in data) {

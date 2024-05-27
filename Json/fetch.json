@@ -1909,8 +1909,8 @@
     {
       "id": 242,
       "price": "1,450",
-      "heading": "128W 10000 Lumens Daylight (5000K) Area Light, Stainless Steel Finish",
-      "sdes": "128W 10000 Lumens Daylight (5000K) Area Light, Stainless Steel Finish",
+      "heading": "Lumens Daylight Area Light, Stainless Steel Finish",
+      "sdes": "128W 10000 Lumens Daylight Area Light, Stainless Steel Finish",
       "mdes": "Save energy while adding style to your space with the high-performance S13AREA/850/DD/SS/V1 LED Area Light from Feit Electric. This powerful light is ideal for parking lots, garages, barns, and more. Its stainless steel finish complements any design style. High-output LEDs emit 10000 lumens using only 128 watts. Built to withstand high temperatures and harsh conditions, it has an all-weather aluminum housing and an impact-resistant polycarbonate lens. Its rugged corrosion-resistant housing provides IP65 water and dust resistance, ideal for outdoor installation. The 13-inch round area light features a built-in dusk-to-dawn photocell sensor. It automatically shuts off during daylight hours, adding to energy savings and convenience. Daylight 5000K light provides cool, invigorating light ideal for seeing objects in detail. Integrated LEDs eliminate the hassle of replacing bulbs and last 50,000 hours. Install this versatile light in two ways. Pole-mount it or mount it onto a wall. Mounting hardware is included.",
       "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S13AREA-850-DD-SS-V1-2024-03-13-main_large.jpg?v=1710304660"
     },
@@ -1925,7 +1925,7 @@
     {
       "id": 244,
       "price": "1,150",
-      "heading": "28W Bronze Outdoor Integrated LED Flood Light",
+      "heading": "Bronze Outdoor Integrated",
       "sdes": "28W Bronze Outdoor Integrated LED Flood Light",
       "mdes": "The Feit Electric S9DFL/850/BZ/V1 Dual Head Flood Light provides added function to any exterior residential or commercial area. This 5000K Daylight LED is wall or eave mountable. Its tool-free, self-locking adjustable heads rotate for lighting right where you need it. Sturdy construction along with a UV-protected shatter-resistant lens also provides enhanced durability to ensure long life for the fixture. LED technology offers evenly distributed 2000 lumens of light with average life of 50,000 hours/17 years.",
       "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S9DFL-850-BZ-V1-2024-05-06-main_large.jpg?v=1714972135"
@@ -1933,7 +1933,7 @@
     {
       "id": 245,
       "price": "1,850",
-      "heading": "28W Bronze Outdoor Integrated LED Flood Light with Motion Sensor",
+      "heading": "Bronze Outdoor Integrated with Motion Sensor",
       "sdes": "28W Bronze Outdoor Integrated LED Flood Light with Motion Sensor",
       "mdes": "Keep your home safe and secure with the Feit Electric S9DFL/850/MOT/BZ motion-sensing dual-head flood light. Integrated sensors turn lights on automatically when detecting motion from up to 19 feet away. Rugged weather-resistant housing stands up to the elements while twin extra-bright 2000 lumen lamps keep the surrounding area well illuminated. Great for outdoor use as a preventative measure against trespassers or indoor as an easy hands-free way to light up a space as you walk by.",
       "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S9DFL-850-MOT-BZ-2024-05-06-main_large.jpg?v=1714972198"
@@ -1979,6 +1979,168 @@
       "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/S5SQWM-830-DD-BZ-2024-01-04-main_large.jpg?v=1704404818"
     }
   ],
-  "feit_fixtures_flatpanel": [],
-  "feit_fixtures_bath": []
+  "feit_fixtures_flatpanel": [
+    {
+      "id": 251,
+      "heading": "11 in. Color Select Dimmable Nickel LED Light Fixture",
+      "price": "890",
+      "sdes": "11 in. Color Select Dimmable Nickel LED Light Fixture",
+      "mdes": "The Feit Electric FP11/4WY/NK 11-inch Round LED Flat Panel fixture with selectable color temperature provides added function and beauty to any residential or commercial area. Change color temperatures in two ways: use the switch on the back of the fixture or select Switch and adjust from a standard wall switch. Toggle once for soft white, twice for bright white, and three times for daylight. A frost-white lens and nickel frame add beauty and modern style to any area. Smooth dimming sets the mood for any occasion with LED-compatible dimmer switches. These ceiling fixtures/wall sconces are energy efficient, produce even light distribution of 875 lumens and have an average life of 50,000 hours/17 years delivering Energy Star-certified reliable lighting.",
+      "img": "https://www.feit.com/cdn/shop/files/FP11-4WY-NK-2024-05-06-main.jpg?v=1714969863&width=1500"
+    },
+    {
+      "id": 252,
+      "heading": "Round 3-in-1 Selectable White Nickel LED Ceiling Fixture",
+      "price": "950",
+      "sdes": "15 in. Round 3-in-1 Selectable White Nickel LED Ceiling Fixture",
+      "mdes": "Feit Electric color selectable fixtures make it easy to optimize the lighting of any room without the need for any special smart home hardware or apps. The FP15D/4WY/NK 15-inch round flat panel ceiling fixture outputs 1550 lumens using just 22 watts. The patented selectable color temperature feature allows users to choose soft white, bright white or daylight on the fixture or to adjust after installation by toggling a wall switch. Its ultra slim, edge-lit design with frosted glass lens and nickel trim finish is complemented by energy-efficient, long-lasting integrated LEDs, so there are never any bulbs to replace. Feit Electric ceiling fixtures are energy efficient, producing even light distribution and lasting an average of 50,000 hours/45.7 years or more.",
+      "img": "https://www.feit.com/cdn/shop/files/FP15D-4WY-NK-2024-03-13-main.jpg?v=1710306346&width=1500"
+    },
+    {
+      "id": 253,
+      "heading": "Color Selectable (5CCT) White Square Flat Panel Ceiling Downlight",
+      "price": "400",
+      "sdes": "Color Selectable (5CCT) White Square Flat Panel Ceiling Downlight",
+      "mdes": "The Feit Electric 74204/6WYCA 5-inch Square LED Flat Panel with Selectable Color Temperatures provides added function and beauty to any residential or commercial area. Its patented selectable color temperature feature allows users to choose Warm White, Neutral White, Cool White, Daylight White, or Daylight Deluxe White (3000K/3500K/4000K/5000K/6500K) on the fixture or to adjust after installation by toggling a wall switch. The ultra-slim, low-profile design (under an inch) features innovative edge-lit LEDs that create uniform light distribution without hot spots, flickers, or glare. It is an ideal choice for kitchens, bathrooms, bedrooms, hallways, living rooms, and anywhere you need low-profile lighting. This universal surface flush-mount fixture can be installed in two ways to provide the look of a traditional downlight. Hardwire directly into junction boxes or use the included E26 base adapter to mount in 4-inch recessed can housings. A frosted polycarbonate lens and white aluminum frame add a touch of modern style to every room, and a 90+ CRI will make colors appear more vibrant and appealing. This ceiling fixture is compliant with California Title 20 Energy Star requirements. It produces 600 lumens of evenly distributed light using only 7.2 watts, saving up to 85.6% on energy costs compared to traditional incandescent lights. It has an average life of 50,000 hours/45.7 years with an estimated annual energy cost of only $0.87/year.",
+      "img": "https://www.feit.com/cdn/shop/files/74204-6WYCA-2024-04-04-main.jpg?v=1712212358&width=1500"
+    },
+    {
+      "id": 254,
+      "heading": "Color Selectable (5CCT) White Round Flat Panel Ceiling Downlight",
+      "price": "700",
+      "sdes": "Color Selectable (5CCT) White Round Flat Panel Ceiling Downlight",
+      "mdes": "The Feit Electric 74206/6WYCA 7.5-inch Round Color Selectable LED Flat Panel provides added function and beauty to any residential or commercial area. Its patented selectable color temperature feature allows users to choose Warm White, Neutral White, Cool White, Daylight White, or Daylight Deluxe White (3000K/3500K/4000K/5000K/6500K) on the fixture or to adjust after installation by toggling a wall switch. The ultra-slim, low-profile design (under an inch) features innovative edge-lit LEDs that create uniform light distribution without hot spots, flickers, or glare. It is an ideal choice for kitchens, bathrooms, bedrooms, hallways, living rooms, and anywhere you need low-profile lighting. This universal surface flush-mount fixture can be installed in two ways to provide the look of a traditional downlight. Hardwire directly into junction boxes or use the included E26 base adapter to mount in 5 and 6-inch recessed can housings. A frosted polycarbonate lens and white aluminum frame add a touch of modern style to every room, and a 90+ CRI will make colors appear more vibrant and appealing. This ceiling fixture is compliant with California Title 20 and Energy Star requirements. It produces 800 lumens of evenly distributed light in only 10.5 watts and has an average life of 50,000 hours/45.7 years with an estimated annual energy cost of only $1.26/year.",
+      "img": "https://www.feit.com/cdn/shop/files/74206-6WYCA-2024-05-06-main.jpg?v=1714979753&width=1500"
+    },
+    {
+      "id": 255,
+      "heading": "Color Selectable (5CCT) White Square Flat Panel Ceiling Downlight",
+      "price": "1,100",
+      "sdes": "Color Selectable (5CCT) White Square Flat Panel Ceiling Downlight",
+      "mdes": "The Feit Electric 74208/6WYCA 7.5-inch Square LED Flat Panel with Selectable Color Temperatures provides added function and beauty to any residential or commercial area. Its patented selectable color temperature feature allows users to choose Warm White, Neutral White, Cool White, Daylight White, or Daylight Deluxe White (3000K/3500K/4000K/5000K/6500K) on the fixture or to adjust after installation by toggling a wall switch. The ultra-slim, low-profile design (under an inch) features innovative edge-lit LEDs that create uniform light distribution without hot spots, flickers, or glare. It is an ideal choice for kitchens, bathrooms, bedrooms, hallways, living rooms, and anywhere you need low-profile lighting. This universal surface flush-mount fixture can be installed in two ways to provide the look of a traditional downlight. Hardwire directly into junction boxes or use the included E26 base adapter to mount in 5 and 6-inch recessed can housings. A frosted polycarbonate lens and white aluminum frame add a touch of modern style to every room, and a 90+ CRI will make colors appear more vibrant and appealing. This ceiling fixture is compliant with California Title 20 and Energy Star requirements. It produces 800 lumens of evenly distributed light while using only 10.5 watts, saving up to 83.8% on energy costs compared to traditional incandescent lights. It has an average life of 50,000 hours/45.7 years with an estimated annual energy cost of only $1.26/year.",
+      "img": "https://www.feit.com/cdn/shop/files/74208-6WYCA-2024-04-04-main.jpg?v=1712215441&width=1500"
+    },
+    {
+      "id": 256,
+      "heading": "Color Selectable (5CCT) White Square Flat Panel Light Fixture",
+      "price": "650",
+      "sdes": "Color Selectable (5CCT) White Square Flat Panel Light Fixture",
+      "mdes": "The Feit Electric FP1X1/6WY/WH 12-inch Square LED Flat Panel with Selectable Color Temperatures provides added function and style to any residential or commercial area. Its patented selectable color temperature feature allows users to choose Warm White, Neutral White, Cool White, Daylight White, or Daylight Deluxe White (3000K/3500K/4000K/5000K/6500K) on the fixture or to adjust after installation by toggling a wall switch. The ultra-slim, low-profile design features innovative edge-lit LEDs that create uniform light distribution without hot spots, flickers, or glare. It is an ideal choice for kitchens, bathrooms, bedrooms, hallways, living rooms, and anywhere you need low-profile lighting. An 80 CRI will make colors appear more vibrant and appealing. It produces 800 lumens of dimmable, evenly distributed light while using only 11 watts, saving on energy costs compared to traditional incandescent lights. It has an average life of 50,000 hours/45.7 years with an estimated annual energy cost of only $1.32/year.",
+      "img": "https://www.feit.com/cdn/shop/files/FP1X1-6WY-WH-2024-03-13-main.jpg?v=1710307693&width=1500"
+    },
+    {
+      "id": 257,
+      "heading": "Selectable White (5CCT) White Dimmable Integrated",
+      "price": "1,250",
+      "sdes": " Selectable White (5CCT) White Dimmable Integrated LED Edge-Lit Flat Panel",
+      "mdes": "The Feit Electric 25-watt edge-lit fixture with five selectable color temperatures (3000K/3500K/4000K/5000K/6500K) provides added function and style to both residential and commercial areas. Its ultra-slim, low-profile design is perfect for low ceilings and the no glare, edge-lit LEDs are integrated so there are no bulbs to replace. Get the right light in any room all with one light. You can pre-select a color temperature setting or adjust it with a standard light switch. The versatile FP0.5X4/6WY/WH turns on instantly to full brightness and is fully dimmable, giving you the ability to adjust the light to suit any scenario from relaxing with an inviting, warm light to focusing on important tasks with energizing, cooler light. A frosted lens and white frame add beauty and modern style to any area. Feit Electric ceiling fixtures and wall sconces are energy efficient, produce even light distribution of 1900 lumens, and have an average life of 50,000 hours/45.7 years. The estimated annual energy cost is only $3.01.",
+      "img": "https://www.feit.com/cdn/shop/files/FP0.5X4-6WY-WH-2024-05-13-main.jpg?v=1715573213&width=1500"
+    },
+    {
+      "id": 258,
+      "heading": "Color Selectable (5CCT) Nickel Flat Panel Light Fixture",
+      "price": "1,350",
+      "sdes": "Color Selectable (5CCT) Nickel Flat Panel Light Fixture",
+      "mdes": "The Feit Electric FP1X2/6WY/NK Nickel LED Flat Panel with Selectable Color Temperatures provides added function and style to any residential or commercial area. Its patented selectable color temperature feature allows users to choose Warm White, Neutral White, Cool White, Daylight White, or Daylight Deluxe White (3000K/3500K/4000K/5000K/6500K) on the fixture or to adjust after installation by toggling a wall switch. The ultra-slim, low-profile design features innovative edge-lit LEDs that create uniform light distribution without hot spots, flickers, or glare. It is ideal for kitchens, bathrooms, bedrooms, hallways, living rooms, and anywhere you need low-profile lighting. It produces 2000 lumens of dimmable, evenly distributed light while using only 25 watts, saving on energy costs compared to traditional incandescent lights. It has an average life of 50,000 hours/45.7 years with an estimated annual energy cost of only $3.01/year.",
+      "img": "https://www.feit.com/cdn/shop/files/FP1X2-6WY-NK-2024-05-06-main.jpg?v=1714968903&width=1500"
+    },
+    {
+      "id": 259,
+      "heading": "White Dimmable Integrated LED Edge-Lit Flat Panel Flush",
+      "price": "2,250",
+      "sdes": "White Dimmable Integrated LED Edge-Lit Flat Panel Flush",
+      "mdes": "The Feit Electric 25-watt Edge-lit Flat Panel fixture with five selectable color temperatures (3000K/3500K/4000K/5000K/6500K) provides added function and style to both residential and commercial spaces. Its ultra-slim, low-profile design is perfect for low ceilings and the no glare, edge-lit LEDs are integrated so there are no bulbs to replace. Get the right light in any room all with one light. You can pre-select a color temperature setting or adjust it with a standard light switch. The versatile FP1X2/6WY/WH turns on instantly to full brightness and is fully dimmable, giving you the ability to adjust the light to suit any scenario from relaxing with an inviting, warm light to focusing on important tasks with energizing, cooler light. A frosted lens and white frame will add beauty and modern style to any area. Feit Electric ceiling fixtures and wall sconces are energy efficient, produce even light distribution of 2000 lumens, and have an average life of 50,000 hours/45.7 years delivering reliable lighting. The estimated annual energy cost is only $3.01.",
+      "img": "https://www.feit.com/cdn/shop/files/FP1X2-6WY-WH-2024-04-04-main.jpg?v=1712203919&width=1500"
+    },
+    {
+      "id": 260,
+      "heading": "Selectable White (5CCT) White Round Flat Panel Ceiling Downlight",
+      "price": "900",
+      "sdes": "Selectable White (5CCT) White Round Flat Panel Ceiling Downlight",
+      "mdes": "The Feit Electric Round Flat Panel Edge-lit fixture with five selectable color temperatures (3000K/3500K/4000K/5000K/6500K) provides added function and beauty to any residential or commercial area. Its ultra-slim, low-profile design (less than 1 in.) is perfect for any low ceiling area and the no glare, edge-lit LEDs are integrated so there are no bulbs to replace. Get the right light in any room by pre-selecting a color temperature setting or adjusting with a standard light switch. The versatile 74212/6WY turns on instantly to full brightness and is fully dimmable, giving you the ability to adjust the light to suit any scenario from relaxing with a cozy, warm light to focusing on important tasks with energizing, cooler light. Its frosted acrylic lens and white frame add modern style to any area. Feit Electric ceiling fixtures and wall sconces are energy efficient, produce even light distribution of 1650 lumens, and have an average life of 50,000 hours/45.7 years delivering Energy Star® approved reliable lighting.",
+      "img": "https://cdn.shopify.com/s/files/1/0564/0450/8835/files/74212-6WY-2024-03-13-main_large.jpg?v=1710306320"
+    }
+  ],
+  "feit_fixtures_bath": [
+    {
+      "id": 261,
+      "heading": "1750 Lumen 3000K 3-Light LED Vanity Fixture",
+      "price": "900",
+      "sdes": "1750 Lumen 3000K 3-Light LED Vanity Fixture",
+      "mdes": "This bath and vanity fixture from Feit Electric features an elegant three-light horizontal design, with integrated LEDs providing ample illumination for your morning or evening routines. Warm White 3000K light energizes mornings and relaxes in the evenings. Rated to last 50,000 hours/42 years and suitable for damp environments, Feit Electric bath and vanity fixtures can upgrade the look and feel of your home.",
+      "img": "https://www.feit.com/cdn/shop/files/73802-2024-05-06-main.jpg?v=1714970930&width=1500"
+    },
+    {
+      "id": 262,
+      "heading": "24W Warm White (3000K) 3-Light LED Vanity Fixture",
+      "price": "1,200",
+      "sdes": "24W Warm White (3000K) 3-Light LED Vanity Fixture",
+      "mdes": "The Feit Electric 73804 3-Light LED Vanity Fixture provides added function and beauty to any residential or commercial area. With instant on full brightness, our 3000K warm white light LEDs are integrated directly into the fixture so there are no bulbs to replace. The three tea-stained glass shades direct light where you need it while the oil-rubbed bronze finish adds a touch of modern aesthetic. Our bath and vanity light fixtures are energy efficient, using just 24 watts of electricity. They produce a light output of 1700 lumens and have an average life of 50,000 hours / 45.7 years, delivering reliable lighting for years to come.",
+      "img": "https://www.feit.com/cdn/shop/files/73804-2024-05-10-main.jpg?v=1715385958&width=1500"
+    },
+    {
+      "id": 263,
+      "heading": "26.4W 3-Light LED Vanity, Soft White (2700K)",
+      "price": "700",
+      "sdes": "26.4W 3-Light LED Vanity, Soft White (2700K)",
+      "mdes": "Upgrade outdated vanity fixtures with the Feit Electric 3-Light LED Vanity. Combining a modern aesthetic and energy-saving LED technology, its sleek lines and matte black finish perfectly complement both contemporary and traditional home décor styles. It features three 8.8-watt Edison-style LED bulbs that emit a total of 2400 lumens of Soft White light. Get a warm, even glow that puts you in your best light in front of the mirror. A dimmable design lets you customize the mood of any room with LED-compatible dimmer switches (sold separately). Each bulb uses 85% less energy use than equivalent 60-watt incandescent bulbs. Built to last, the VAN3L/BLK vanity fixture is damp-rated to withstand steamy bathrooms and humid entryways. They are Energy Star and Title 20 certified, upholding the highest standards for energy efficiency. Install it in minutes for a beautiful, durable fixture that not only looks great but lasts decades.",
+      "img": "https://www.feit.com/cdn/shop/files/VAN3L-BLK-2024-05-06-main.jpg?v=1714972077&width=1500"
+    },
+    {
+      "id": 264,
+      "heading": "26.4W 3-Light LED Vanity, Soft White (2700K)",
+      "price": "1,100",
+      "sdes": "26.4W 3-Light LED Vanity, Soft White (2700K)",
+      "mdes": "Upgrade outdated vanity fixtures with the Feit Electric 3-Light LED Vanity. Combining a modern aesthetic and energy-saving LED technology, its sleek lines and matte black finish perfectly complement both contemporary and traditional home décor styles. It features three 8.8-watt Edison-style LED bulbs that emit a total of 2400 lumens of Soft White light. Get a warm, even glow that puts you in your best light in front of the mirror. A dimmable design lets you customize the mood of any room with LED-compatible dimmer switches (sold separately). Each bulb uses 85% less energy use than equivalent 60-watt incandescent bulbs. Built to last, the VAN3L/BLK/RP vanity fixture is damp-rated to withstand steamy bathrooms and humid entryways. They are Energy Star and Title 20 certified, upholding the highest standards for energy efficiency. Install it in minutes for a beautiful, durable fixture that not only looks great but lasts decades.",
+      "img": "https://www.feit.com/cdn/shop/files/VAN3L-BLK-RP-2024-05-06-main.jpg?v=1714972084&width=1500"
+    },
+    {
+      "id": 265,
+      "heading": "Bright White (3000K) E26 base G25 Frost Filament LED",
+      "price": "500",
+      "sdes": "Bright White (3000K) E26 base G25 Frost Filament LED",
+      "mdes": "Combine the vintage glass filament lighting look and feel with the advantages of modern LED technology with these stylish light bulbs from Feit Electric. Energy efficient LEDs replace a 100-watt incadescent, producing a 3000K Bright White glow that gives the home a cozy feel. A frosted G25 globe shape design with exposed filament wrapped in frosted glass housing is ideal for chandelier fixtures and will enhance the décor of any room. Enhance 90+ CRI light makes colors vibrant and skin tones more natures, all while saving energy and lasting for decades.",
+      "img": "https://www.feit.com/cdn/shop/files/G25100W930CAFIL-3-2024-05-06-main.jpg?v=1714969363&width=1500"
+    },
+    {
+      "id": 266,
+      "heading": "Bright White (3000K) E26 Base G25 Filament LED Light Bulb",
+      "price": "900",
+      "sdes": "Bright White (3000K) E26 Base G25 Filament LED Light Bulb",
+      "mdes": "Combine the vintage glass filament lighting look and feel with the advantages of modern LED technology with these stylish light bulbs from Feit Electric. Energy efficient LEDs replace a 100-watt incadescent, producing a 3000K Bright White glow that gives the home a cozy feel. A G25 globe shape design with exposed filament wrapped in clear glass housing is ideal for chandelier fixtures and will enhance the décor of any room. Enhance 90+ CRI light makes colors vibrant and skin tones more natures, all while saving energy and lasting for decades.",
+      "img": "https://www.feit.com/cdn/shop/files/G25100930CA-FIL-3-2024-05-06-main.jpg?v=1714969346&width=1500"
+    },
+    {
+      "id": 267,
+      "heading": "G40 E26  Vintage Edison, Soft White",
+      "price": "630",
+      "sdes": "G40 E26 Dimmable Straight Filament Clear Glass",
+      "mdes": "Combine timeless elegance with modern technology with the Feit Electric G40100/927CA/FIL LED filament pendant bulb. This oversize dimmable globe produces 1000 lumens of 2700 Soft White light while using 11 watts of electricity - saving up to 89% in energy costs over an equivalent 100 watt bulb. A stylish glass orb design with exposed filament instantly livens up the décor of any room. A 90+ CRI makes colors vibrant and skin tones look more natural, all while saving energy and lasting for a decade or more. Choose a dependable decorative LED bulb to brighten your home.",
+      "img": "https://www.feit.com/cdn/shop/files/G40100-927CA-FIL-2024-05-06-main.jpg?v=1714969439&width=1500"
+    },
+    {
+      "id": 268,
+      "heading": "Medium Base Soft White Dimmable Enhance Glass Filament",
+      "price": "900",
+      "sdes": "Medium Base Soft White Dimmable Enhance Glass Filament",
+      "mdes": "Enjoy classic style and modern reliability and energy savings, with the Feit Electric Enhance Filament LED light bulbs. Featuring our highest quality and most energy efficient light, this beautiful high performance bulb has a high (CRI) of 90+ so colors appear more realistic and vibrant. Combining innovative LED technology with filament strips, the bulbs provide the benefits of LEDs with the look of a traditional bulb. Filament LEDs will last for years, and use just a fraction of the energy of an incandescent, saving you time and money. The versatile Globe LED soft white light is fully dimmable and suitable for a variety of decorative fixtures including bath and vanity and pendant lights",
+      "img": "https://www.feit.com/cdn/shop/files/BPGM40927CA-FIL-2-RP-2024-05-06-main.jpg?v=1714974922&width=1500"
+    },
+    {
+      "id": 269,
+      "heading": "Soft White (2700K) G16 1/2 (E12 Base) Frost Filament",
+      "price": "1,900",
+      "sdes": "Soft White (2700K) G16 1/2 (E12 Base) Frost Filament",
+      "mdes": "Combine the vintage glass filament lighting look and feel with the advantages of modern LED technology with these stylish light bulbs from Feit Electric. Energy-efficient LEDs replace a 40-watt incandescent, producing a 2700K Soft White glow that gives the home a cozy feel. A frosted G16 1/2 mini-globe design with exposed filament wrapped in frosted glass housing is ideal for chandelier fixtures and will enhance the décor of any room. Enhance 90+ CRI light makes colors vibrant and skin tones more natural, all while saving energy and lasting for decades.",
+      "img": "https://www.feit.com/cdn/shop/files/BPG1640W927CAFIL2-2024-05-06-main.jpg?v=1714975010&width=1500"
+    },
+    {
+      "id": 270,
+      "heading": "Daylight (5000K) G16 1/2 Frost Filament",
+      "price": "1,200",
+      "sdes": "Daylight (5000K) G16 1/2 Frost Filament",
+      "mdes": "Combine the vintage glass filament lighting look and feel with the advantages of modern LED technology with these stylish light bulbs from Feit Electric. Energy-efficient LEDs replace a 40-watt incandescent, producing a 5000K Daylight color temperature light that energizes mornings and illuminates fine details. A frosted G16 1/2 mini-globe design with exposed filament wrapped in frosted glass housing is ideal for chandelier fixtures and will enhance the décor of any room. Enhance 90+ CRI light makes colors vibrant and skin tones more natural, all while saving energy and lasting for decades.",
+      "img": "https://www.feit.com/cdn/shop/files/BPG1640W950CAFIL2-2024-05-06-main.jpg?v=1714974998&width=1500"
+    }
+  ]
 }
