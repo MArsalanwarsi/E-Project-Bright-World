@@ -4,32 +4,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Bright World Home Page</title>
+    <link rel="shortcut icon" href="/Images/Logo/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="/Styles/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
 </head>
 
 <body>
     <!-- spinner -->
     <div class="position-absolute top-0 bottom-0 start-0 end-0" style="z-index: 99;" id="spinloader">
-    <div class="d-flex justify-content-center align-items-center min-vh-100 bg-white">
-        <div class="spinner-grow text-success fs-1" role="status" style="width: 5rem; height: 5rem;">
-            <span class="visually-hidden">Loading...</span>
+        <div class="d-flex justify-content-center align-items-center min-vh-100 bg-white">
+            <div class="spinner-grow text-success fs-1" role="status" style="width: 5rem; height: 5rem;">
+                <span class="visually-hidden">Loading...</span>
+            </div>
         </div>
     </div>
-    </div>
-   <a href="/Feedback/index.html"> <div class="position-fixed top-0 end-0" style="z-index: 80;margin-top: 300px;" role="button">
-        <div class="box fw-bold feedbackbox" style="writing-mode: vertical-lr; text-orientation: upright;background-color: green;color: white;border-radius: 50px 0px 0px 50px; font-size: 10px;letter-spacing: 5px; font-family: Georgia, 'Times New Roman', Times, serif;">FEEDBACK</div>
-    </div></a>
+    <a href="/Feedback/index.html">
+        <div class="position-fixed top-0 end-0" style="z-index: 80;margin-top: 300px;" role="button">
+            <div class="box fw-bold feedbackbox"
+                style="writing-mode: vertical-lr; text-orientation: upright;background-color: green;color: white;border-radius: 50px 0px 0px 50px; font-size: 10px;letter-spacing: 5px; font-family: Georgia, 'Times New Roman', Times, serif;">
+                FEEDBACK</div>
+        </div>
+    </a>
     <div class="container-fluid d-flex justify-content-center align-items-center bg-success" style="max-height:40px">
-      <span  class="h-100 text-white py-2">LED Lights Upto 50% Off On Every Rs 9,999 Spent  <span class="fw-bolder text-decoration-underline" style="text-underline-offset: 2px;"> Buy Now </span></span>
+        <span class="h-100 text-white py-2">LED Lights Upto 50% Off On Every Rs 9,999 Spent <span
+                class="fw-bolder text-decoration-underline" style="text-underline-offset: 2px;"> Buy Now </span></span>
     </div>
     <!-- Navbar start -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
@@ -152,10 +160,11 @@
                     <a href="#" class="cart text-dark pe-4 fs-5" data-bs-toggle="offcanvas"
                         data-bs-target="#ShoppingCart" aria-controls="ShoppingCart"><i
                             class="fa-solid fa-cart-shopping text-success"></i>
-                            <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger cartcounting" style="left: 70%;font-size: 10px;">
-                               
-                            </span>
-                        </a>
+                        <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger cartcounting"
+                            style="left: 70%;font-size: 10px;">
+
+                        </span>
+                    </a>
                 </div>
             </div>
 
@@ -255,17 +264,17 @@
                     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div class="offcanvas-body">
-                <div class="container-fluid  mb-5">
-                    <div class="row" id="ShoppingCartBody">
-                <h5 class="text-center text-danger">No items in your cart</h5>
+                    <div class="container-fluid  mb-5">
+                        <div class="row" id="ShoppingCartBody">
+                            <h5 class="text-center text-danger">No items in your cart</h5>
+                        </div>
                     </div>
-                </div>
                 </div>
                 <div class=" p-5 bg-light ">
                     <div class="d-flex justify-content-start align-items-center gap-5 text-dark ">
-                    <span class="h4"><span >Total: </span><span class="text-success totalamount">200</span> RS</span>
-                    <a class="btn btn-outline-success" href="#" style="box-shadow: 2px 2px black;">Checkout</a>
-                </div>
+                        <span class="h4"><span>Total: </span><span class="text-success totalamount">200</span> RS</span>
+                        <a class="btn btn-outline-success" href="#" style="box-shadow: 2px 2px black;">Checkout</a>
+                    </div>
                 </div>
 
             </div>
@@ -278,7 +287,7 @@
     <!-- header start -->
     <header>
         <div class="head position-relative d-flex justify-content-start align-items-center">
-            <video autoplay muted loop >
+            <video autoplay muted loop>
                 <source src="/Images/Slider/b75364a4ab864183a8b8736ae0e705e0.mp4">
             </video>
             <!-- <img src="/Images/Slider/header.jpg" alt="header"> -->
@@ -287,7 +296,8 @@
                     Upto <span class="span2">50%</span> Off
                 </h1>
                 <p class="text-white">On Every Rs 9,999 Spent</p>
-                <a class="btn btn-outline-light" href="/Gallery/index.html" style="box-shadow: 2px 2px black;">Visit Gallery</a>
+                <a class="btn btn-outline-light" href="/Gallery/index.html" style="box-shadow: 2px 2px black;">Visit
+                    Gallery</a>
 
             </div>
         </div>
@@ -420,29 +430,93 @@
                     <div class="box box2"></div>
                     <div class="box box3"></div>
                 </div>
-                <button class="btn btn-success px-3 ">Veiw Collection</button>
+                <a class="btn btn-success px-3 " href="/Gallery/index.html">Veiw Collection</a>
 
             </div>
         </div>
     </div>
-    <h1 class="text-center font-monospace">Hot Sales</h1>
-    <div class="container big col-md-4 col-lg-4 my-2 d-inline ">
-        <div class="row gap-4 justify-content-center">
-            <div class="card" style="width: 18rem;">
-                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-6WYCA-2024-05-28-main_large.jpg?v=1716869804" class="card-img-top" alt="...">
-                <a href="http://127.0.0.1:5500/Description_page/index.html?id=198&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR56HOJBX-6WYCA-2024-05-26-main_large.jpg?v=1716697812&heading=Selectable%20White%20High%20Output%20Integrated%20J-Box&price=700&description=Install%20recessed%20lighting%20in%20areas%20with%20low%20clearance%20or%20replace%20recessed%20cans%20with%20energy-saving%20LED%20fixtures%20with%20the%20LEDR56HOJBX/6WYCA%20selectable%20white%206-inch%20canless%20recessed%20downlight%20from%20Feit%20Electric.%20This%20light%20features%20an%20integrated%20J-Box%20and%20built-in%20trim%20for%20installation%20directly%20into%20finished%20ceilings%20without%20recessed%20cans.%20A%20dimmable%20edge-lit%20design%20produces%201200%20lumens%20using%20only%2017%20watts%20-%20up%20to%2080%%20less%20energy%20than%20an%20equivalent%2085-watt%20incandescent.%20Preset%20your%20preferred%20color%20temperature%20on%20the%20fixture%20or%20adjust%20after%20install%20with%20a%20toggle%20of%20a%20standard%20wall%20switch:%20get%20warm,%20cool%20or%20daylight%20color%20light%20with%20just%20a%20flip.%20A%2090+%20CRI%20light%20makes%20colors%20vibrant%20and%20skin%20tones%20look%20more%20natural,%20all%20while%20saving%20energy%20and%20lasting%20for%20a%20decade%20or%20more." class="btn btn-outline-success">Visit</a>
+    <h1 class="text-center fw-bold border-bottom p-5" style="letter-spacing: 5px;">Hot Sales</h1>
+    <div class="container-fluid my-2 ">
+        <div class="row gap-4 justify-content-center align-items-center p-3">
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR4XT-6WYCA-2024-05-28-main_large.jpg?v=1716869804"
+                    class="card-img-top" alt="...">
+                <a href="http://127.0.0.1:5500/Description_page/index.html?id=198&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR56HOJBX-6WYCA-2024-05-26-main_large.jpg?v=1716697812&heading=Selectable%20White%20High%20Output%20Integrated%20J-Box&price=700&description=Install%20recessed%20lighting%20in%20areas%20with%20low%20clearance%20or%20replace%20recessed%20cans%20with%20energy-saving%20LED%20fixtures%20with%20the%20LEDR56HOJBX/6WYCA%20selectable%20white%206-inch%20canless%20recessed%20downlight%20from%20Feit%20Electric.%20This%20light%20features%20an%20integrated%20J-Box%20and%20built-in%20trim%20for%20installation%20directly%20into%20finished%20ceilings%20without%20recessed%20cans.%20A%20dimmable%20edge-lit%20design%20produces%201200%20lumens%20using%20only%2017%20watts%20-%20up%20to%2080%%20less%20energy%20than%20an%20equivalent%2085-watt%20incandescent.%20Preset%20your%20preferred%20color%20temperature%20on%20the%20fixture%20or%20adjust%20after%20install%20with%20a%20toggle%20of%20a%20standard%20wall%20switch:%20get%20warm,%20cool%20or%20daylight%20color%20light%20with%20just%20a%20flip.%20A%2090+%20CRI%20light%20makes%20colors%20vibrant%20and%20skin%20tones%20look%20more%20natural,%20all%20while%20saving%20energy%20and%20lasting%20for%20a%20decade%20or%20more."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
             </div>
-            <div class="card" style="width: 18rem;">
-                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/WORKSL50-5-2023-12-12-main_large.jpg?v=1702380406" class="card-img-top" alt="...">
-                <a href="http://127.0.0.1:5500/Description_page/index.html?id=225&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/WORKSL50-5-2023-12-12-main_large.jpg?v=1702380406&heading=50%20ft.%208000%20Lumens%20ProSeries%205-Lamp%20Flood%20String%20LED%20Work%20Light&price=900&description=Light%20up%20the%20worksite%20with%20the%20Feit%20Electric%20premium%20WORKSL50-5%20high-output%20string%20work%20light.%20Designed%20for%20professional%20use,%20this%20item%20features%20a%2050-foot%20heavy-duty%2018/3%20grounded%20power%20cord%20and%20five%20dimmable%20shatter-resistant%20LED%20light%20heads.%20They%20are%20wet%20rated,%20for%20use%20outdoors.%20Lamp%20heads%20are%20spaced%2010%20feet%20apart%20and%20each%20has%20its%20own%20carabiner%20clip%20for%20quick%20and%20easy%20setup.%20Each%20lamp%20head%20emits%201600%20lumens,%20for%20a%20total%20of%208000%20lumens.%20This%20string%20is%20dimmable%20with%20LED-compatible%20wall%20dimmers.%20Each%20work%20light%20string%20is%20linkable%20with%20up%20to%2010%20others,%20for%20greater%20area%20coverage%20or%20brighter%20illumination.%20These%20long-lasting%20LED%20lights%20are%20rated%20for%2050,000%20hours%20of%20life." class="btn btn-outline-success">Visit</a>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/WORKSL50-5-2023-12-12-main_large.jpg?v=1702380406"
+                    class="card-img-top" alt="...">
+                <a href="http://127.0.0.1:5500/Description_page/index.html?id=225&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/WORKSL50-5-2023-12-12-main_large.jpg?v=1702380406&heading=50%20ft.%208000%20Lumens%20ProSeries%205-Lamp%20Flood%20String%20LED%20Work%20Light&price=900&description=Light%20up%20the%20worksite%20with%20the%20Feit%20Electric%20premium%20WORKSL50-5%20high-output%20string%20work%20light.%20Designed%20for%20professional%20use,%20this%20item%20features%20a%2050-foot%20heavy-duty%2018/3%20grounded%20power%20cord%20and%20five%20dimmable%20shatter-resistant%20LED%20light%20heads.%20They%20are%20wet%20rated,%20for%20use%20outdoors.%20Lamp%20heads%20are%20spaced%2010%20feet%20apart%20and%20each%20has%20its%20own%20carabiner%20clip%20for%20quick%20and%20easy%20setup.%20Each%20lamp%20head%20emits%201600%20lumens,%20for%20a%20total%20of%208000%20lumens.%20This%20string%20is%20dimmable%20with%20LED-compatible%20wall%20dimmers.%20Each%20work%20light%20string%20is%20linkable%20with%20up%20to%2010%20others,%20for%20greater%20area%20coverage%20or%20brighter%20illumination.%20These%20long-lasting%20LED%20lights%20are%20rated%20for%2050,000%20hours%20of%20life."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
             </div>
-            <div class="card" style="width: 18rem;">
-                <img src="https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp" class="card-img-top" alt="...">
-                <a href="http://127.0.0.1:5500/Description_page/index.html?id=153&img=https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-4.jpg.webp&heading=LED%20Flood%20Light-YTS-Solar&price=3,050&description=The%20SmartBright%20LED%20Floodlight%20is%20a%20versatile%20floodlight%20engineered%20to%20deliver%20significant%20energy%20savings,%20an%20ideal%20solution%20for%20diverse%20floodlighting%20applications.%20The%20product%20is%20also%20designed%20to%20meet%20relevant%20performance%20and%20safety%20standards,offering%20you%20reliable%20and%20long-lasting%20performance" class="btn btn-outline-success">Visit</a>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-2.jpg.webp"
+                    class="card-img-top" alt="...">
+                <a href="http://127.0.0.1:5500/Description_page/index.html?id=153&img=https://vorlane.com/wp-content/uploads/2021/10/%E4%BA%91%E6%A2%AF%E5%A4%AA%E9%98%B3%E8%83%BD%E6%8A%95%E5%85%89%E7%81%AF-4.jpg.webp&heading=LED%20Flood%20Light-YTS-Solar&price=3050&description=The%20SmartBright%20LED%20Floodlight%20is%20a%20versatile%20floodlight%20engineered%20to%20deliver%20significant%20energy%20savings,%20an%20ideal%20solution%20for%20diverse%20floodlighting%20applications.%20The%20product%20is%20also%20designed%20to%20meet%20relevant%20performance%20and%20safety%20standards,offering%20you%20reliable%20and%20long-lasting%20performance"
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
             </div>
-            <div class="card" style="width: 18rem;">
-                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/FP0.5X4-6WY-WH-2024-05-13-main_large.jpg?v=1715573213" class="card-img-top" alt="...">
-                <a href="http://127.0.0.1:5500/Description_page/index.html?id=169&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600&heading=Color%20Changing%20Smart%20Alexa%20Google&price=2,050&description=Converts%20conventional%20recessed%20lighting%20to%20energy%20saving%20LED%20technology,%20Easy%20DIY%20installation,%20Customize%20your%20light%20to%20suit%20any%20room%20or%20mood" class="btn btn-outline-success">Visit</a>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://cdn.shopify.com/s/files/1/0564/0450/8835/files/FP0.5X4-6WY-WH-2024-05-13-main_large.jpg?v=1715573213"
+                    class="card-img-top" alt="...">
+                <a href="http://127.0.0.1:5500/Description_page/index.html?id=169&img=https://cdn.shopify.com/s/files/1/0564/0450/8835/files/LEDR6-RGBW-AG-2024-04-16-main_large.jpg?v=1713307600&heading=Color%20Changing%20Smart%20Alexa%20Google&price=2050&description=Converts%20conventional%20recessed%20lighting%20to%20energy%20saving%20LED%20technology,%20Easy%20DIY%20installation,%20Customize%20your%20light%20to%20suit%20any%20room%20or%20mood"
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <h1 class="text-center fw-bold border-bottom p-5" style="letter-spacing: 5px;">New Arrival</h1>
+    </div>
+    <div class="container-fluid my-2">
+        <div class="row justify-content-center align-items-center gap-4 p-3">
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://www.feit.com/cdn/shop/files/A21-ADJ-GRW-LED-HDRP-2024-04-04-main.jpg?v=1712206445&width=1500"
+                    class="card-img-top" alt="...">
+                <a href="/Description_page/index.html?id=700&img=https://www.feit.com/cdn/shop/files/A21-ADJ-GRW-LED-HDRP-2024-04-04-main.jpg?v=1712206445&width=1500&heading=17W E26 A21 Selectable Spectrum for Seeding Growing Blooming Indoor Greenhouse Plant Grow LED&price=7000&description=Grow better, stronger plants with Feit Electric 17-watt Selectable Spectrum LED Grow Lights. These medium-base LED bulbs provide the lighting essential for healthy plant growth while producing considerably less heat and using less energy than standard incandescent grow lights. A21/ADJ/GRW/LED/HDRP bulbs feature 3 spectrum options that you can switch from the bulb itself or rotate through them all with a standard wall switch. Select a blue spectrum to get started in the seed-to-seedling phase. Select the red/white/blue spectrum for vegetative growth. Choose a red spectrum for flowering and fruiting. All in the same bulb! They have an intensity of 24.1/26.5/27.9 PAR/PPF ideal for herbs, succulents, and flowers like primroses and African violets. They are ideal for all phases of plant growth including budding and flowering and are rated for high humidity use making them compatible with most hydroponic systems. LED bulbs produce less heat, so you can place them closer to plants without fear of leaf burn. Grow more in less space. Feit Electric LED grow lights have a long life span of 15,000 hours. Choose a dependable general-purpose grow light for your growing needs."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
+            </div>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://www.feit.com/cdn/shop/files/PAR38ADJGRW-LED-HDRP-2024-05-06-main.jpg?v=1714973243&width=1500"
+                    class="card-img-top" alt="...">
+                <a href="/Description_page/index.html?id=$701&img=https://www.feit.com/cdn/shop/files/PAR38ADJGRW-LED-HDRP-2024-05-06-main.jpg?v=1714973243&width=1500&heading=30W PAR38 Selectable Spectrum LED Grow Light&price=5000&description=Grow better, stronger plants with Feit Electric 30-watt Selectable Spectrum LED Grow Lights. These medium-base LED bulbs provide the lighting essential for healthy plant growth while producing considerably less heat and using less energy than standard incandescent grow lights. With our selectable color switch, you can preset your preferred light spectrum, seeding, vegetative, or flowering, or set it to switch, for an easy toggle between light spectrums with a simple flip of a standard light switch. They have an intensity of 39/41/43 PAR/PPF ideal for herbs, succulents, flowers, small citrus plants, and vegetables. Since LED bulbs produce less heat, you can place them closer to plants without fear of leaf burn. Grow more in less space. Feit Electric LED grow lights have a long life span of 15,000 hours. These LEDs are ideal for all phases of plant growth including budding and flowering and are rated for high humidity use making it compatible with most hydroponic systems."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
+            </div>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://www.feit.com/cdn/shop/files/GLP24ADJS-19W-LED-40-2023-08-16-main.jpg?v=1692161645&width=1500"
+                    class="card-img-top" alt="...">
+                <a href="/Description_page/index.html?id=702&img=https://www.feit.com/cdn/shop/files/GLP24ADJS-19W-LED-40-2023-08-16-main.jpg?v=1692161645&width=1500&heading=24 Inch 19W Selectable Spectrum LED Grow Light&price=8000&description=Flex your green thumb and outgrow your expectations with better and stronger growth using the Feit Electric Adjustable 3 Spectrum Dual LED Grow Light Fixture. Switch between blue spectrum light for seedling through vegetative stages, red spectrum light for stretching and flowering phase, and white spectrum light for comfortable viewing at any stage. A high CRI light makes the colors and tones of your crop radiate with boosted photogenic vibrance. These adjustable fixtures are lightweight and linkable up to 5 units. They produce significantly less heat than fluorescent lights, reducing the risk of drying out the top of your harvest. These fixtures are rated for an average lifespan of 25,000 hours/22.8 years with a damp safety location rating for growth in humid environments. The GLP24ADJS/19W/LED can be mounted flush with the ceiling or suspended with the included 6-inch wire, allowing greater light coverage of an area and adjustable distance from the light to the top of your canopy."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
+            </div>
+            <div class="card py-3 shadow" style="width: 18rem;">
+                <img src="https://www.feit.com/cdn/shop/files/GLP29-B-ADJS-40W-LED-2023-12-04-marketing1.jpg?v=1704738431&width=1500"
+                    class="card-img-top" alt="...">
+                <a href="/Description_page/index.html?id=703&img=https://www.feit.com/cdn/shop/files/GLP29-B-ADJS-40W-LED-2023-12-04-marketing1.jpg?v=1704738431&width=1500&heading=40W Adjustable Spectrum Flexible Head LED Grow Light with Clamp&price=10000&description=Feit Electric's Adjustable Spectrum Flexible 4-Head LED Grow Light uses only 40 watts of electricity and comes fully assembled with an ultra-lightweight design and built-in clamp for tabletop lighting. Save time, space, and money with Feit Electrics LED growing ecosystem. Four flexible heads direct light exactly where you need it. This no-humming LED emits adjustable and precise wavelengths for superior photosynthetic response. Switch color spectrums to match the plant's growth stage and increase overall yield, from a blue or white spectrum for leaf and vegetative growth to a red spectrum for flowering and budding or a Red/White/Blue combination for a good general setting for all plants. Grow herbs, lettuce, tomatoes, peppers, flowers, and more with added timer functionality to make sure your plants get the perfect amount of light each day. Use the 3200-lumen GLP29/B/ADJS/40W/LED grow light on tables, desks, bookcases, and shelves. There are no lamps to dispose of or replace and its cool operation prevents leaf burn. Our grow lights last up to 25,000 hours/22.8 years, cutting down the costs and time spent replacing incandescent and fluorescent lamps. The estimated annual energy cost is only $4.82/year."
+                    class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <h1 class="text-center fw-bold border-bottom p-5" style="letter-spacing: 5px;">Customer Testimonials</h1>
+    </div>
+    <div class="container-fluid p-5">
+        <div class="row d-flex justify-content-center align-items-center gap-3">
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <div class="card h-100" style="max-height: 450px;">
+                    <img src="/Images/Testify/Yellow Beige White Minimalistic Testimonial Instagram Post (1).png"
+                        class="card-img-top  h-100" alt="...">
+                </div>
+            </div>
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <div class="card h-100" style="max-height: 450px;">
+                    <img src="/Images/Testify/Yellow Beige White Minimalistic Testimonial Instagram Post (2).png"
+                        class="card-img-top  h-100" alt="...">
+                </div>
+            </div>
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <div class="card h-100" style="max-height: 450px;">
+                    <img src="/Images/Testify/Yellow Beige White Minimalistic Testimonial Instagram Post.png"
+                        class="card-img-top  h-100" alt="...">
+                </div>
             </div>
         </div>
     </div>

@@ -47,7 +47,7 @@ fetch("/Json/fetch.json")
             json[keys[i]][y].heading
           }&price=${json[keys[i]][y].price}&description=${
             json[keys[i]][y].mdes
-          }" role="button" class="btn btn-outline-success"><i class="bi bi-globe2"></i> Learn More</a>
+          }" role="button" class="btn btn-outline-success"><i class="bi bi-bag-fill"></i> Buy Now</a>
                         </div>
                        </div>
                     </div> `;
